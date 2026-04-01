@@ -1,0 +1,11 @@
+{
+  "leg": "best1_gold3",
+  "train_sharpe": 0.61,
+  "test_sharpe": 1.447,
+  "total_return_pct": 151.0,
+  "max_drawdown_pct": 20.93,
+  "win_rate_pct": 52.9,
+  "n_trades": 752,
+  "n_wins": 398,
+  "n_losses": 354
+}

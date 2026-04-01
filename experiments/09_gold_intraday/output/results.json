@@ -1,0 +1,11 @@
+{
+  "leg": "gold_intraday",
+  "train_sharpe": 1.037,
+  "test_sharpe": 1.358,
+  "total_return_pct": 265.4,
+  "max_drawdown_pct": 23.99,
+  "win_rate_pct": 54.7,
+  "n_trades": 749,
+  "n_wins": 410,
+  "n_losses": 339
+}

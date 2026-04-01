@@ -1,0 +1,10 @@
+[
+  {
+    "date": "2023-04-27",
+    "symbol": "CMG",
+    "target": "09:35",
+    "resolved": "09:36",
+    "resolution": "same_day_forward",
+    "price": 2026.465
+  }
+]

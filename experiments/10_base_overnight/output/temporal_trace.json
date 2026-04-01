@@ -1,0 +1,29 @@
+{
+  "trace_date": "2024-05-20",
+  "items": [
+    {
+      "access": "accumulator update (overnight returns)",
+      "available_at": "2024-05-20 09:35:00-04:00",
+      "used_at": "2024-05-20 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "signal (iret = p1530/p0935 - 1)",
+      "available_at": "2024-05-20 15:30:00-04:00",
+      "used_at": "2024-05-20 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "entry at p1530",
+      "available_at": "2024-05-20 15:30:00-04:00",
+      "used_at": "2024-05-20 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "settlement (next day p0935)",
+      "available_at": "2024-05-21 09:35:00-04:00",
+      "decision_at": "2024-05-20 15:30:00-04:00",
+      "causal": true
+    }
+  ]
+}

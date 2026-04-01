@@ -1,0 +1,2102 @@
+[
+  {
+    "entry_date": "2022-07-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-07-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 160.23,
+    "exit_price": 160.38,
+    "return": 0.000536154278225132
+  },
+  {
+    "entry_date": "2022-08-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 165.03,
+    "exit_price": 166.035,
+    "return": 0.005689801854208376
+  },
+  {
+    "entry_date": "2022-08-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 166.74,
+    "exit_price": 167.54,
+    "return": 0.004397888928871119
+  },
+  {
+    "entry_date": "2022-08-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 167.87,
+    "exit_price": 165.88,
+    "return": -0.012254411151486332
+  },
+  {
+    "entry_date": "2022-08-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 165.77,
+    "exit_price": 165.49,
+    "return": -0.002089087289618141
+  },
+  {
+    "entry_date": "2022-11-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-11-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 155.85,
+    "exit_price": 156.05,
+    "return": 0.0008832852101380965
+  },
+  {
+    "entry_date": "2022-11-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-11-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 164.94,
+    "exit_price": 165.01,
+    "return": 2.4396750333455567e-05
+  },
+  {
+    "entry_date": "2022-12-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 164.39,
+    "exit_price": 165.275,
+    "return": 0.004983539144717009
+  },
+  {
+    "entry_date": "2022-12-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 165.66,
+    "exit_price": 169.12,
+    "return": 0.020486152360255926
+  },
+  {
+    "entry_date": "2022-12-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 166.32,
+    "exit_price": 168.21,
+    "return": 0.010963636363636465
+  },
+  {
+    "entry_date": "2023-01-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-01-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 174.1,
+    "exit_price": 174.81,
+    "return": 0.0036781160252729707
+  },
+  {
+    "entry_date": "2023-01-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-01-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 179.6,
+    "exit_price": 179.51,
+    "return": -0.0009011135857461157
+  },
+  {
+    "entry_date": "2023-03-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 170.22,
+    "exit_price": 172.3201,
+    "return": 0.011937563153566045
+  },
+  {
+    "entry_date": "2023-03-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 183.1,
+    "exit_price": 183.46,
+    "return": 0.0015661387220100135
+  },
+  {
+    "entry_date": "2023-04-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 184.52,
+    "exit_price": 184.77,
+    "return": 0.0009548666811185051
+  },
+  {
+    "entry_date": "2023-04-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.97,
+    "exit_price": 188.235,
+    "return": 0.0010097994360802169
+  },
+  {
+    "entry_date": "2023-04-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.83,
+    "exit_price": 187.11,
+    "return": -0.004233253473885967
+  },
+  {
+    "entry_date": "2023-04-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 185.48,
+    "exit_price": 185.44,
+    "return": -0.0006156566745740162
+  },
+  {
+    "entry_date": "2023-05-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-05-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 183.98,
+    "exit_price": 184.6,
+    "return": 0.002969931514294988
+  },
+  {
+    "entry_date": "2023-06-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-06-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 181.87,
+    "exit_price": 182.3425,
+    "return": 0.002198009567273296
+  },
+  {
+    "entry_date": "2023-06-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-06-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 178.54,
+    "exit_price": 179.19,
+    "return": 0.0032406407527724836
+  },
+  {
+    "entry_date": "2023-07-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-07-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 178.47,
+    "exit_price": 178.98,
+    "return": 0.0024576231299377584
+  },
+  {
+    "entry_date": "2023-07-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-07-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 178.8,
+    "exit_price": 179.38,
+    "return": 0.002843847874720318
+  },
+  {
+    "entry_date": "2023-07-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-07-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 181.55,
+    "exit_price": 182.48,
+    "return": 0.004722555769760284
+  },
+  {
+    "entry_date": "2023-07-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-07-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 181.42,
+    "exit_price": 181.98,
+    "return": 0.002686760004409772
+  },
+  {
+    "entry_date": "2023-07-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 182.45,
+    "exit_price": 180.56,
+    "return": -0.010759002466429067
+  },
+  {
+    "entry_date": "2023-08-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 179.75,
+    "exit_price": 178.69,
+    "return": -0.006297079276773298
+  },
+  {
+    "entry_date": "2023-12-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-12-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.84,
+    "exit_price": 188.4199,
+    "return": 0.0026872018739354077
+  },
+  {
+    "entry_date": "2024-01-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-01-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.22,
+    "exit_price": 187.43,
+    "return": 0.0007216750347184945
+  },
+  {
+    "entry_date": "2024-01-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-01-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 188.21,
+    "exit_price": 189.605,
+    "return": 0.007011933478561172
+  },
+  {
+    "entry_date": "2024-02-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.57,
+    "exit_price": 187.85,
+    "return": 0.0010927760302820836
+  },
+  {
+    "entry_date": "2024-02-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.5,
+    "exit_price": 187.89,
+    "return": 0.0016799999999998598
+  },
+  {
+    "entry_date": "2024-02-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.54,
+    "exit_price": 187.42,
+    "return": -0.001039863495787596
+  },
+  {
+    "entry_date": "2024-02-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 187.51,
+    "exit_price": 187.48,
+    "return": -0.0005599914671217561
+  },
+  {
+    "entry_date": "2024-03-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 196.05,
+    "exit_price": 197.21,
+    "return": 0.0055168579444019985
+  },
+  {
+    "entry_date": "2024-03-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 198.81,
+    "exit_price": 199.59,
+    "return": 0.0035233438961823184
+  },
+  {
+    "entry_date": "2024-03-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 199.93,
+    "exit_price": 200.76,
+    "return": 0.0037514530085529076
+  },
+  {
+    "entry_date": "2024-03-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 201.64,
+    "exit_price": 202.01,
+    "return": 0.0014349533822654696
+  },
+  {
+    "entry_date": "2024-03-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 202.0,
+    "exit_price": 199.9731,
+    "return": -0.010434158415841653
+  },
+  {
+    "entry_date": "2024-03-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 200.03,
+    "exit_price": 199.52,
+    "return": -0.0029496175573663795
+  },
+  {
+    "entry_date": "2024-03-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 201.01,
+    "exit_price": 202.59,
+    "return": 0.0074603054574399865
+  },
+  {
+    "entry_date": "2024-04-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 207.69,
+    "exit_price": 209.1435,
+    "return": 0.006598411093456447
+  },
+  {
+    "entry_date": "2024-04-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 215.1,
+    "exit_price": 215.78,
+    "return": 0.0027613203161320323
+  },
+  {
+    "entry_date": "2024-04-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 216.48,
+    "exit_price": 218.26,
+    "return": 0.007822468588322319
+  },
+  {
+    "entry_date": "2024-04-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 215.74,
+    "exit_price": 217.19,
+    "return": 0.006321053119495668
+  },
+  {
+    "entry_date": "2024-04-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 219.7,
+    "exit_price": 222.01,
+    "return": 0.010114337733272595
+  },
+  {
+    "entry_date": "2024-04-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 216.85,
+    "exit_price": 217.83,
+    "return": 0.00411925293982014
+  },
+  {
+    "entry_date": "2024-04-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 220.82,
+    "exit_price": 219.78,
+    "return": -0.005109718322615686
+  },
+  {
+    "entry_date": "2024-04-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 221.22,
+    "exit_price": 221.35,
+    "return": 0.00018765030286589413
+  },
+  {
+    "entry_date": "2024-04-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 219.63,
+    "exit_price": 220.26,
+    "return": 0.0024684605928150917
+  },
+  {
+    "entry_date": "2024-04-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 220.34,
+    "exit_price": 220.76,
+    "return": 0.0015061450485613474
+  },
+  {
+    "entry_date": "2024-04-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 221.03,
+    "exit_price": 215.82,
+    "return": -0.023971460887662378
+  },
+  {
+    "entry_date": "2024-05-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-05-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 224.56,
+    "exit_price": 224.68,
+    "return": 0.00013437833986458292
+  },
+  {
+    "entry_date": "2024-06-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-06-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 217.19,
+    "exit_price": 215.85,
+    "return": -0.006569713154380974
+  },
+  {
+    "entry_date": "2024-06-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-06-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 214.6,
+    "exit_price": 214.22,
+    "return": -0.002170736253494887
+  },
+  {
+    "entry_date": "2024-06-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-06-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 218.16,
+    "exit_price": 217.5681,
+    "return": -0.0031131463146314873
+  },
+  {
+    "entry_date": "2024-06-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-06-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 215.69,
+    "exit_price": 214.68,
+    "return": -0.005082646390653189
+  },
+  {
+    "entry_date": "2024-07-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 215.62,
+    "exit_price": 215.45,
+    "return": -0.0011884240793990526
+  },
+  {
+    "entry_date": "2024-07-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 218.19,
+    "exit_price": 218.7,
+    "return": 0.0019374123470369934
+  },
+  {
+    "entry_date": "2024-07-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 223.83,
+    "exit_price": 225.525,
+    "return": 0.007172711432783707
+  },
+  {
+    "entry_date": "2024-07-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 221.73,
+    "exit_price": 221.685,
+    "return": -0.0006029495332159792
+  },
+  {
+    "entry_date": "2024-07-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 221.8,
+    "exit_price": 222.08,
+    "return": 0.0008623985572588481
+  },
+  {
+    "entry_date": "2024-07-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 220.33,
+    "exit_price": 221.44,
+    "return": 0.004637897698906057
+  },
+  {
+    "entry_date": "2024-07-30",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 222.52,
+    "exit_price": 223.88,
+    "return": 0.005711810174366239
+  },
+  {
+    "entry_date": "2024-08-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 225.81,
+    "exit_price": 228.29,
+    "return": 0.010582684557814038
+  },
+  {
+    "entry_date": "2024-08-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 225.3,
+    "exit_price": 220.425,
+    "return": -0.022037816245006604
+  },
+  {
+    "entry_date": "2024-08-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 222.65,
+    "exit_price": 221.025,
+    "return": -0.007698450482820518
+  },
+  {
+    "entry_date": "2024-08-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 220.58,
+    "exit_price": 222.81,
+    "return": 0.009709710762535196
+  },
+  {
+    "entry_date": "2024-08-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 228.42,
+    "exit_price": 228.2,
+    "return": -0.0013631380789772992
+  },
+  {
+    "entry_date": "2024-08-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 231.61,
+    "exit_price": 233.4,
+    "return": 0.007328509131730066
+  },
+  {
+    "entry_date": "2024-08-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 232.76,
+    "exit_price": 232.13,
+    "return": -0.0031066506272555026
+  },
+  {
+    "entry_date": "2024-09-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 231.58,
+    "exit_price": 232.14,
+    "return": 0.002018170826496091
+  },
+  {
+    "entry_date": "2024-09-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 236.31,
+    "exit_price": 238.55,
+    "return": 0.00907907409758364
+  },
+  {
+    "entry_date": "2024-09-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 238.66,
+    "exit_price": 238.9881,
+    "return": 0.0009747590714825453
+  },
+  {
+    "entry_date": "2024-09-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 238.63,
+    "exit_price": 238.0501,
+    "return": -0.002830121946109032
+  },
+  {
+    "entry_date": "2024-09-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 237.36,
+    "exit_price": 237.92,
+    "return": 0.0019592854735421385
+  },
+  {
+    "entry_date": "2024-09-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 235.81,
+    "exit_price": 238.1341,
+    "return": 0.009455816123149897
+  },
+  {
+    "entry_date": "2024-09-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 239.17,
+    "exit_price": 240.93,
+    "return": 0.006958782455993751
+  },
+  {
+    "entry_date": "2024-09-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 242.71,
+    "exit_price": 243.52,
+    "return": 0.0029373161386016646
+  },
+  {
+    "entry_date": "2024-09-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 246.09,
+    "exit_price": 246.11,
+    "return": -0.00031872892031374855
+  },
+  {
+    "entry_date": "2024-09-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.77,
+    "exit_price": 246.41,
+    "return": 0.002204060707165123
+  },
+  {
+    "entry_date": "2024-09-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 246.99,
+    "exit_price": 246.63,
+    "return": -0.0018575488886190424
+  },
+  {
+    "entry_date": "2024-09-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 244.97,
+    "exit_price": 243.7,
+    "return": -0.005584308282646932
+  },
+  {
+    "entry_date": "2024-09-30",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 243.13,
+    "exit_price": 246.3,
+    "return": 0.012638292271624342
+  },
+  {
+    "entry_date": "2024-10-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.49,
+    "exit_price": 244.85,
+    "return": -0.0030070308362866614
+  },
+  {
+    "entry_date": "2024-10-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 244.22,
+    "exit_price": 243.8,
+    "return": -0.0021197608713455105
+  },
+  {
+    "entry_date": "2024-10-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 242.32,
+    "exit_price": 241.14,
+    "return": -0.005269593925387994
+  },
+  {
+    "entry_date": "2024-10-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 242.84,
+    "exit_price": 244.92,
+    "return": 0.008165310492505197
+  },
+  {
+    "entry_date": "2024-10-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.47,
+    "exit_price": 245.14,
+    "return": -0.001744359799568262
+  },
+  {
+    "entry_date": "2024-10-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.07,
+    "exit_price": 244.8,
+    "return": -0.0015017260374586168
+  },
+  {
+    "entry_date": "2024-10-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.91,
+    "exit_price": 248.0,
+    "return": 0.008099044365824827
+  },
+  {
+    "entry_date": "2024-10-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 247.15,
+    "exit_price": 247.69,
+    "return": 0.0017849079506373048
+  },
+  {
+    "entry_date": "2024-10-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 248.62,
+    "exit_price": 250.115,
+    "return": 0.005613192824390723
+  },
+  {
+    "entry_date": "2024-10-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 251.23,
+    "exit_price": 252.94,
+    "return": 0.006406511961151118
+  },
+  {
+    "entry_date": "2024-10-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 251.24,
+    "exit_price": 253.0,
+    "return": 0.006605253940455258
+  },
+  {
+    "entry_date": "2024-10-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 253.88,
+    "exit_price": 252.76,
+    "return": -0.0048115330077202366
+  },
+  {
+    "entry_date": "2024-10-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 250.92,
+    "exit_price": 253.14,
+    "return": 0.008447441415590574
+  },
+  {
+    "entry_date": "2024-10-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 252.71,
+    "exit_price": 251.9,
+    "return": -0.0036052550354161326
+  },
+  {
+    "entry_date": "2024-10-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 253.37,
+    "exit_price": 253.15,
+    "return": -0.0012682953783004654
+  },
+  {
+    "entry_date": "2024-10-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 253.33,
+    "exit_price": 254.5595,
+    "return": 0.004453353333596599
+  },
+  {
+    "entry_date": "2024-10-30",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 257.5,
+    "exit_price": 255.479,
+    "return": -0.008248543689320308
+  },
+  {
+    "entry_date": "2024-10-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-11-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 253.66,
+    "exit_price": 254.33,
+    "return": 0.002241330915398532
+  },
+  {
+    "entry_date": "2024-11-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-11-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 252.47,
+    "exit_price": 253.22,
+    "return": 0.0025706499782151672
+  },
+  {
+    "entry_date": "2024-11-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-11-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 252.84,
+    "exit_price": 253.97,
+    "return": 0.0040692295522859025
+  },
+  {
+    "entry_date": "2024-11-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-11-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 241.0795,
+    "exit_price": 242.73,
+    "return": 0.006446289294610175
+  },
+  {
+    "entry_date": "2024-12-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 243.48,
+    "exit_price": 244.6022,
+    "return": 0.00420900279283738
+  },
+  {
+    "entry_date": "2024-12-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.4,
+    "exit_price": 248.06,
+    "return": 0.010439445802770965
+  },
+  {
+    "entry_date": "2024-12-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 244.87,
+    "exit_price": 243.6001,
+    "return": -0.005586017070282212
+  },
+  {
+    "entry_date": "2024-12-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 239.64,
+    "exit_price": 241.445,
+    "return": 0.007132131530629371
+  },
+  {
+    "entry_date": "2024-12-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 242.14,
+    "exit_price": 241.605,
+    "return": -0.0026094655984141733
+  },
+  {
+    "entry_date": "2024-12-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 240.96,
+    "exit_price": 241.2201,
+    "return": 0.0006794322709162252
+  },
+  {
+    "entry_date": "2024-12-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 241.43,
+    "exit_price": 240.62,
+    "return": -0.0037550097336702002
+  },
+  {
+    "entry_date": "2024-12-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 242.13,
+    "exit_price": 244.32,
+    "return": 0.008644728038656969
+  },
+  {
+    "entry_date": "2025-01-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.48,
+    "exit_price": 244.6,
+    "return": -0.003984813426755762
+  },
+  {
+    "entry_date": "2025-01-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 243.49,
+    "exit_price": 242.26,
+    "return": -0.005451542157788913
+  },
+  {
+    "entry_date": "2025-01-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 244.6,
+    "exit_price": 245.96,
+    "return": 0.005160098119378631
+  },
+  {
+    "entry_date": "2025-01-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.82,
+    "exit_price": 248.505,
+    "return": 0.010522626311935524
+  },
+  {
+    "entry_date": "2025-01-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 248.39,
+    "exit_price": 246.3695,
+    "return": -0.008534385442248093
+  },
+  {
+    "entry_date": "2025-01-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 245.74,
+    "exit_price": 245.6201,
+    "return": -0.0008879140555058558
+  },
+  {
+    "entry_date": "2025-01-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 247.0,
+    "exit_price": 247.49,
+    "return": 0.0015838056680161476
+  },
+  {
+    "entry_date": "2025-01-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 248.93,
+    "exit_price": 250.73,
+    "return": 0.006830948459406194
+  },
+  {
+    "entry_date": "2025-01-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 250.5781,
+    "exit_price": 249.92,
+    "return": -0.0030263268817188214
+  },
+  {
+    "entry_date": "2025-01-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 252.99,
+    "exit_price": 254.35,
+    "return": 0.004975706549666015
+  },
+  {
+    "entry_date": "2025-01-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 255.01,
+    "exit_price": 254.6999,
+    "return": -0.0016160307438923157
+  },
+  {
+    "entry_date": "2025-02-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 259.93,
+    "exit_price": 261.9,
+    "return": 0.007178963567114183
+  },
+  {
+    "entry_date": "2025-02-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 268.22,
+    "exit_price": 267.7981,
+    "return": -0.001972962493475716
+  },
+  {
+    "entry_date": "2025-02-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 270.79,
+    "exit_price": 271.01,
+    "return": 0.00041243768233685285
+  },
+  {
+    "entry_date": "2025-02-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 272.2599,
+    "exit_price": 271.62,
+    "return": -0.0027503277566766514
+  },
+  {
+    "entry_date": "2025-02-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 268.62,
+    "exit_price": 266.985,
+    "return": -0.00648666517757428
+  },
+  {
+    "entry_date": "2025-02-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 269.05,
+    "exit_price": 266.42,
+    "return": -0.010175134733320922
+  },
+  {
+    "entry_date": "2025-03-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 269.1,
+    "exit_price": 268.48,
+    "return": -0.002703976217019721
+  },
+  {
+    "entry_date": "2025-03-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 269.62,
+    "exit_price": 268.5521,
+    "return": -0.004360759587567697
+  },
+  {
+    "entry_date": "2025-03-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 268.32,
+    "exit_price": 267.54,
+    "return": -0.003306976744185941
+  },
+  {
+    "entry_date": "2025-03-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 269.18,
+    "exit_price": 268.55,
+    "return": -0.002740441340367039
+  },
+  {
+    "entry_date": "2025-03-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 270.38,
+    "exit_price": 271.94,
+    "return": 0.005369657519047344
+  },
+  {
+    "entry_date": "2025-03-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 275.14,
+    "exit_price": 275.6778,
+    "return": 0.0015546412735333974
+  },
+  {
+    "entry_date": "2025-03-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 275.15,
+    "exit_price": 275.6,
+    "return": 0.0012354715609669946
+  },
+  {
+    "entry_date": "2025-03-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 276.72,
+    "exit_price": 279.66,
+    "return": 0.010224457935819676
+  },
+  {
+    "entry_date": "2025-03-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 279.99,
+    "exit_price": 279.4601,
+    "return": -0.0022925675916996456
+  },
+  {
+    "entry_date": "2025-03-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 281.11,
+    "exit_price": 279.8699,
+    "return": -0.00481144036142449
+  },
+  {
+    "entry_date": "2025-03-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 280.7997,
+    "exit_price": 278.73,
+    "return": -0.007770734370442556
+  },
+  {
+    "entry_date": "2025-03-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 278.54,
+    "exit_price": 278.74,
+    "return": 0.00031802972643064676
+  },
+  {
+    "entry_date": "2025-03-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 277.19,
+    "exit_price": 279.0999,
+    "return": 0.00649021970489545
+  },
+  {
+    "entry_date": "2025-03-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 278.51,
+    "exit_price": 278.68,
+    "return": 0.00021039100929960453
+  },
+  {
+    "entry_date": "2025-03-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 278.28,
+    "exit_price": 280.1891,
+    "return": 0.006460356475492324
+  },
+  {
+    "entry_date": "2025-03-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 281.86,
+    "exit_price": 283.4699,
+    "return": 0.005311700844390766
+  },
+  {
+    "entry_date": "2025-03-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 284.15,
+    "exit_price": 286.85,
+    "return": 0.009102023579095687
+  },
+  {
+    "entry_date": "2025-03-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 288.14,
+    "exit_price": 288.69,
+    "return": 0.0015087943360867055
+  },
+  {
+    "entry_date": "2025-04-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 287.65,
+    "exit_price": 288.73,
+    "return": 0.0033545628367809945
+  },
+  {
+    "entry_date": "2025-04-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 288.16,
+    "exit_price": 283.37,
+    "return": -0.01702270960577461
+  },
+  {
+    "entry_date": "2025-04-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 297.9908,
+    "exit_price": 294.6825,
+    "return": -0.011502020599293549
+  },
+  {
+    "entry_date": "2025-04-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 296.15,
+    "exit_price": 297.05,
+    "return": 0.002639000506500189
+  },
+  {
+    "entry_date": "2025-04-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 297.9,
+    "exit_price": 304.46,
+    "return": 0.021620812353138685
+  },
+  {
+    "entry_date": "2025-04-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 307.6086,
+    "exit_price": 306.5,
+    "return": -0.0040039304492787585
+  },
+  {
+    "entry_date": "2025-04-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 305.9493,
+    "exit_price": 314.02,
+    "return": 0.025979207273884874
+  },
+  {
+    "entry_date": "2025-06-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 311.67,
+    "exit_price": 308.99,
+    "return": -0.00899883851509613
+  },
+  {
+    "entry_date": "2025-06-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 306.58,
+    "exit_price": 308.08,
+    "return": 0.004492687063735357
+  },
+  {
+    "entry_date": "2025-06-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 316.31,
+    "exit_price": 314.51,
+    "return": -0.006090619961430277
+  },
+  {
+    "entry_date": "2025-06-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 311.78,
+    "exit_price": 312.77,
+    "return": 0.0027753159278979924
+  },
+  {
+    "entry_date": "2025-06-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 311.96,
+    "exit_price": 312.69,
+    "return": 0.001940043595332686
+  },
+  {
+    "entry_date": "2025-06-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 310.2,
+    "exit_price": 309.58,
+    "return": -0.0023987105093488557
+  },
+  {
+    "entry_date": "2025-06-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 311.12,
+    "exit_price": 304.645,
+    "return": -0.021211905374132246
+  },
+  {
+    "entry_date": "2025-07-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-07-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 313.03,
+    "exit_price": 314.38,
+    "return": 0.0039126856850781435
+  },
+  {
+    "entry_date": "2025-08-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-08-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 310.471,
+    "exit_price": 310.93,
+    "return": 0.0010783989486941707
+  },
+  {
+    "entry_date": "2025-09-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-09-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 334.93,
+    "exit_price": 337.37,
+    "return": 0.006885104350162719
+  },
+  {
+    "entry_date": "2025-09-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-09-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 338.68,
+    "exit_price": 340.26,
+    "return": 0.004265170662572215
+  },
+  {
+    "entry_date": "2025-09-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-09-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 345.0,
+    "exit_price": 348.4999,
+    "return": 0.009744637681159586
+  },
+  {
+    "entry_date": "2025-09-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-09-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 352.39,
+    "exit_price": 351.46,
+    "return": -0.003039121427963409
+  },
+  {
+    "entry_date": "2025-10-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 364.38,
+    "exit_price": 365.7201,
+    "return": 0.0032777539930841206
+  },
+  {
+    "entry_date": "2025-10-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 369.4189,
+    "exit_price": 375.82,
+    "return": 0.01692748378602178
+  },
+  {
+    "entry_date": "2025-10-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 378.24,
+    "exit_price": 378.09,
+    "return": -0.000796573604060979
+  },
+  {
+    "entry_date": "2025-10-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 381.259,
+    "exit_price": 385.33,
+    "return": 0.010277780721241926
+  },
+  {
+    "entry_date": "2025-10-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 387.28,
+    "exit_price": 390.69,
+    "return": 0.008404998967155698
+  },
+  {
+    "entry_date": "2025-10-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 396.47,
+    "exit_price": 393.32,
+    "return": -0.008345115645572209
+  },
+  {
+    "entry_date": "2025-10-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 389.12,
+    "exit_price": 396.05,
+    "return": 0.017409416118421017
+  },
+  {
+    "entry_date": "2025-10-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 403.1187,
+    "exit_price": 386.9201,
+    "return": -0.0405832016227478
+  },
+  {
+    "entry_date": "2025-10-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 377.45,
+    "exit_price": 370.96,
+    "return": -0.01759433037488416
+  },
+  {
+    "entry_date": "2025-11-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 378.3,
+    "exit_price": 379.5,
+    "return": 0.002772085646312439
+  },
+  {
+    "entry_date": "2025-11-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 374.35,
+    "exit_price": 378.6673,
+    "return": 0.011132790169627383
+  },
+  {
+    "entry_date": "2025-11-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 374.7,
+    "exit_price": 375.09,
+    "return": 0.0006408326661328627
+  },
+  {
+    "entry_date": "2025-11-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 374.16,
+    "exit_price": 373.74,
+    "return": -0.0015225144323284697
+  },
+  {
+    "entry_date": "2025-11-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 373.96,
+    "exit_price": 374.81,
+    "return": 0.001872970371162808
+  },
+  {
+    "entry_date": "2025-11-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 380.2,
+    "exit_price": 379.635,
+    "return": -0.0018860599684376474
+  },
+  {
+    "entry_date": "2025-11-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 379.87,
+    "exit_price": 382.0484,
+    "return": 0.005334593413536215
+  },
+  {
+    "entry_date": "2025-12-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-12-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 389.77,
+    "exit_price": 388.87,
+    "return": -0.0027090540575210207
+  },
+  {
+    "entry_date": "2025-12-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-12-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 385.42,
+    "exit_price": 386.3743,
+    "return": 0.002076000207565665
+  },
+  {
+    "entry_date": "2025-12-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-12-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 395.75,
+    "exit_price": 398.195,
+    "return": 0.00577814276689832
+  },
+  {
+    "entry_date": "2025-12-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-12-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 408.2,
+    "exit_price": 409.46,
+    "return": 0.002686722195002389
+  },
+  {
+    "entry_date": "2025-12-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-12-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 398.4,
+    "exit_price": 402.31,
+    "return": 0.009414257028112561
+  },
+  {
+    "entry_date": "2026-01-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 408.91,
+    "exit_price": 411.925,
+    "return": 0.006973260619696342
+  },
+  {
+    "entry_date": "2026-01-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 422.23,
+    "exit_price": 424.42,
+    "return": 0.004786746559931787
+  },
+  {
+    "entry_date": "2026-01-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 464.741,
+    "exit_price": 466.045,
+    "return": 0.0024058639112968907
+  },
+  {
+    "entry_date": "2026-01-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 496.36,
+    "exit_price": 468.775,
+    "return": -0.05597458296397788
+  },
+  {
+    "entry_date": "2026-01-30",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 444.86,
+    "exit_price": 437.44,
+    "return": -0.017079404756552608
+  },
+  {
+    "entry_date": "2026-02-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 428.02,
+    "exit_price": 450.71,
+    "return": 0.052611541516751584
+  },
+  {
+    "entry_date": "2026-02-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 454.2,
+    "exit_price": 461.49,
+    "return": 0.015650198150594496
+  },
+  {
+    "entry_date": "2026-02-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 454.0,
+    "exit_price": 442.728,
+    "return": -0.025228193832599156
+  },
+  {
+    "entry_date": "2026-02-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 441.96,
+    "exit_price": 452.9,
+    "return": 0.024353371345823226
+  },
+  {
+    "entry_date": "2026-02-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 455.09,
+    "exit_price": 462.23,
+    "return": 0.015289204333208862
+  },
+  {
+    "entry_date": "2026-02-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 467.18,
+    "exit_price": 466.0,
+    "return": -0.002925793056209591
+  },
+  {
+    "entry_date": "2026-02-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 462.48,
+    "exit_price": 465.56,
+    "return": 0.006259747448538367
+  },
+  {
+    "entry_date": "2026-02-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 467.51,
+    "exit_price": 465.46,
+    "return": -0.0047849329426108865
+  },
+  {
+    "entry_date": "2026-02-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 451.48,
+    "exit_price": 460.3521,
+    "return": 0.019251147337645057
+  },
+  {
+    "entry_date": "2026-02-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 462.58,
+    "exit_price": 449.98,
+    "return": -0.027638531713433268
+  },
+  {
+    "entry_date": "2026-02-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 448.5,
+    "exit_price": 457.35,
+    "return": 0.019332441471572048
+  },
+  {
+    "entry_date": "2026-02-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 459.6375,
+    "exit_price": 464.215,
+    "return": 0.009558935030322858
+  },
+  {
+    "entry_date": "2026-02-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 468.45,
+    "exit_price": 475.4,
+    "return": 0.01443616181022529
+  },
+  {
+    "entry_date": "2026-02-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 481.1425,
+    "exit_price": 470.54,
+    "return": -0.02243609117880867
+  },
+  {
+    "entry_date": "2026-02-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 474.55,
+    "exit_price": 474.89,
+    "return": 0.00031646823306292793
+  },
+  {
+    "entry_date": "2026-02-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 473.75,
+    "exit_price": 474.7,
+    "return": 0.0016052770448548696
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "leg": "train_baseline",
+  "train_sharpe": 1.394,
+  "test_sharpe": 2.027,
+  "total_return_pct": 621.8,
+  "max_drawdown_pct": 33.28,
+  "win_rate_pct": 54.5,
+  "n_trades": 431,
+  "n_wins": 234,
+  "n_losses": 195
+}

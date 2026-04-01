@@ -1,0 +1,35 @@
+{
+  "trace_date": "2024-06-06",
+  "items": [
+    {
+      "access": "prev_p1530 (accumulator input)",
+      "available_at": "2024-06-05 15:30:00-04:00",
+      "used_at": "2024-06-06 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (iret denominator)",
+      "available_at": "2024-06-06 09:35:00-04:00",
+      "used_at": "2024-06-06 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (signal + entry price)",
+      "available_at": "2024-06-06 15:30:00-04:00",
+      "used_at": "2024-06-06 16:00:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "FRED panel (regime HMM input)",
+      "available_at": "2024-06-05 18:00:00-04:00",
+      "used_at": "2024-06-06 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "settlement (next day p0935)",
+      "available_at": "2024-06-07 09:35:00-04:00",
+      "decision_at": "2024-06-06 15:30:00-04:00",
+      "causal": true
+    }
+  ]
+}

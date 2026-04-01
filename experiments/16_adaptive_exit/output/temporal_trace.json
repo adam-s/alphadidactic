@@ -1,0 +1,35 @@
+{
+  "trace_date": "2024-02-27",
+  "items": [
+    {
+      "access": "prev_p1530 (accumulator)",
+      "available_at": "2024-02-26 15:30:00-05:00",
+      "used_at": "2024-02-27 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (gap compute + early exit)",
+      "available_at": "2024-02-27 09:35:00-05:00",
+      "used_at": "2024-02-27 15:30:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1030 (late exit settle)",
+      "available_at": "2024-02-27 10:30:00-05:00",
+      "used_at": "2024-02-27 15:30:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (entry price)",
+      "available_at": "2024-02-27 15:30:00-05:00",
+      "used_at": "2024-02-28 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "FRED panel (regime)",
+      "available_at": "2024-02-26 18:00:00-05:00",
+      "used_at": "2024-02-27 09:35:00-05:00",
+      "causal": true
+    }
+  ]
+}

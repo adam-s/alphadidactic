@@ -1,0 +1,11 @@
+{
+  "leg": "top3_inv",
+  "train_sharpe": -0.066,
+  "test_sharpe": 1.301,
+  "total_return_pct": 4.4,
+  "max_drawdown_pct": 54.1,
+  "win_rate_pct": 50.2,
+  "n_trades": 3048,
+  "n_wins": 1495,
+  "n_losses": 1553
+}

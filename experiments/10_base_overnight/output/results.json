@@ -1,0 +1,11 @@
+{
+  "leg": "base_overnight",
+  "train_sharpe": 1.625,
+  "test_sharpe": 3.017,
+  "total_return_pct": 231.6,
+  "max_drawdown_pct": 11.1,
+  "win_rate_pct": 56.8,
+  "n_trades": 1667,
+  "n_wins": 897,
+  "n_losses": 764
+}

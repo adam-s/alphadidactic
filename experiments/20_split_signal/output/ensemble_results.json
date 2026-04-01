@@ -1,0 +1,13 @@
+{
+  "train_sh": 0.359,
+  "test_sh": 1.795,
+  "ret": 42.0,
+  "dd": 20.88,
+  "n_trades": 30,
+  "legs": [
+    "GLD long",
+    "VXX short",
+    "SPY long"
+  ],
+  "note": "NOT statistically significant with ~10 events. Need 20+ years of data."
+}

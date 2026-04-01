@@ -1,0 +1,29 @@
+{
+  "trace_date": "2024-05-29",
+  "items": [
+    {
+      "access": "prev_p1530 (accumulator input)",
+      "available_at": "2024-05-28 15:30:00-04:00",
+      "used_at": "2024-05-29 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (iret denominator)",
+      "available_at": "2024-05-29 09:35:00-04:00",
+      "used_at": "2024-05-29 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (signal + entry price)",
+      "available_at": "2024-05-29 15:30:00-04:00",
+      "used_at": "2024-05-29 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "settlement (next day p0935)",
+      "available_at": "2024-05-30 09:35:00-04:00",
+      "decision_at": "2024-05-29 15:30:00-04:00",
+      "causal": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "test_name": "permutation_test",
+    "observed_sharpe": 1.9597,
+    "perm_mean_sharpe": -0.235,
+    "perm_std_sharpe": 0.4438,
+    "p_value": 0.0,
+    "n_perms": 1000,
+    "n_active_days": 207,
+    "result": "significant",
+    "interpretation": "p=0.000. Signal Sharpe is distinguishable from random day selection.",
+    "pass": true
+  },
+  {
+    "test_name": "bootstrap_sharpe_ci",
+    "observed_sharpe": 0.8694,
+    "ci_lower": -0.0998,
+    "ci_upper": 1.9399,
+    "ci_level": 0.95,
+    "n_boot": 1000,
+    "includes_zero": true,
+    "result": "zero_in_ci",
+    "interpretation": "Sharpe 0.869, 95% CI [-0.100, 1.940]. CI includes zero \u2014 Sharpe is not distinguishable from noise.",
+    "pass": false
+  },
+  {
+    "test_name": "concentration_ratio",
+    "top_n": 5,
+    "total_active_days": 207,
+    "top_n_pnl_fraction": 0.1767,
+    "signed_top_n_fraction": 0.1786,
+    "sign_flips_without_top_n": false,
+    "result": "distributed",
+    "interpretation": "Top 5 days account for 17.7% of total P&L (207 active days). P&L is reasonably distributed across trading days.",
+    "pass": true
+  }
+]

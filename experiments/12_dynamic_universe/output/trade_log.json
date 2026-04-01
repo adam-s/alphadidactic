@@ -1,0 +1,4182 @@
+[
+  {
+    "entry_date": "2022-07-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-07-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "MTD",
+    "entry_price": 1179.02,
+    "exit_price": 1157.24,
+    "return": -0.01887296907601226
+  },
+  {
+    "entry_date": "2022-07-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-07-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "MTD",
+    "entry_price": 1120.49,
+    "exit_price": 1140.64,
+    "return": 0.017583203776919198
+  },
+  {
+    "entry_date": "2022-07-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-07-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "MTD",
+    "entry_price": 1283.06,
+    "exit_price": 1273.595,
+    "return": -0.0077768958583385615
+  },
+  {
+    "entry_date": "2022-11-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "MKL",
+    "entry_price": 1229.3,
+    "exit_price": 1229.0,
+    "return": -0.0006440413243308681
+  },
+  {
+    "entry_date": "2022-11-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 270.55,
+    "exit_price": 267.0,
+    "return": -0.013521419330992423
+  },
+  {
+    "entry_date": "2022-11-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 841.68,
+    "exit_price": 836.16,
+    "return": -0.006958311947533535
+  },
+  {
+    "entry_date": "2022-11-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "MKL",
+    "entry_price": 1281.08,
+    "exit_price": 1295.05,
+    "return": 0.010504861523090004
+  },
+  {
+    "entry_date": "2022-11-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "STZ",
+    "entry_price": 246.61,
+    "exit_price": 247.33,
+    "return": 0.0025195896354567983
+  },
+  {
+    "entry_date": "2022-11-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "MKL",
+    "entry_price": 1267.575,
+    "exit_price": 1280.0,
+    "return": 0.009402181330493154
+  },
+  {
+    "entry_date": "2022-11-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "MKL",
+    "entry_price": 1260.93,
+    "exit_price": 1256.1101,
+    "return": -0.00422249609415275
+  },
+  {
+    "entry_date": "2022-11-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 788.47,
+    "exit_price": 789.0,
+    "return": 0.0002721879082272064
+  },
+  {
+    "entry_date": "2022-11-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 787.91,
+    "exit_price": 790.03,
+    "return": 0.002290662639133867
+  },
+  {
+    "entry_date": "2022-11-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 232.4,
+    "exit_price": 230.825,
+    "return": -0.007177108433735024
+  },
+  {
+    "entry_date": "2022-11-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 227.645,
+    "exit_price": 226.5,
+    "return": -0.005429761251070797
+  },
+  {
+    "entry_date": "2022-11-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 795.0,
+    "exit_price": 804.97,
+    "return": 0.012140880503144614
+  },
+  {
+    "entry_date": "2022-11-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-11-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 240.18,
+    "exit_price": 240.8,
+    "return": 0.0021813972853694354
+  },
+  {
+    "entry_date": "2022-11-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "DIA",
+    "entry_price": 344.54,
+    "exit_price": 345.47,
+    "return": 0.0022992511754804214
+  },
+  {
+    "entry_date": "2022-12-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 803.91,
+    "exit_price": 804.57,
+    "return": 0.0004209874239655246
+  },
+  {
+    "entry_date": "2022-12-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 238.26,
+    "exit_price": 226.935,
+    "return": -0.047932107781415254
+  },
+  {
+    "entry_date": "2022-12-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 223.38,
+    "exit_price": 226.44,
+    "return": 0.013298630136986357
+  },
+  {
+    "entry_date": "2022-12-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 776.99,
+    "exit_price": 779.98,
+    "return": 0.003448183374303371
+  },
+  {
+    "entry_date": "2022-12-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 224.17,
+    "exit_price": 225.14,
+    "return": 0.003927073203372444
+  },
+  {
+    "entry_date": "2022-12-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 220.575,
+    "exit_price": 220.87,
+    "return": 0.0009374135781480945
+  },
+  {
+    "entry_date": "2022-12-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2519.6,
+    "exit_price": 2551.95,
+    "return": 0.012439339577710663
+  },
+  {
+    "entry_date": "2022-12-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 761.83,
+    "exit_price": 762.13,
+    "return": -6.211359489682541e-06
+  },
+  {
+    "entry_date": "2022-12-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "PH",
+    "entry_price": 295.055,
+    "exit_price": 290.3,
+    "return": -0.016515639457050414
+  },
+  {
+    "entry_date": "2022-12-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "LIN",
+    "entry_price": 330.6,
+    "exit_price": 328.07,
+    "return": -0.008052752571082998
+  },
+  {
+    "entry_date": "2022-12-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2440.0,
+    "exit_price": 2457.0,
+    "return": 0.0065672131147540115
+  },
+  {
+    "entry_date": "2022-12-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHE",
+    "entry_price": 511.8397,
+    "exit_price": 513.76,
+    "return": 0.0033517605609724834
+  },
+  {
+    "entry_date": "2022-12-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2453.64,
+    "exit_price": 2449.48,
+    "return": -0.0020954402438824625
+  },
+  {
+    "entry_date": "2022-12-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "PH",
+    "entry_price": 287.82,
+    "exit_price": 288.92,
+    "return": 0.0034218330901258477
+  },
+  {
+    "entry_date": "2022-12-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2022-12-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2327.6,
+    "exit_price": 2305.18,
+    "return": -0.01003223921636025
+  },
+  {
+    "entry_date": "2022-12-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHE",
+    "entry_price": 506.7,
+    "exit_price": 513.77,
+    "return": 0.013553029405960216
+  },
+  {
+    "entry_date": "2023-01-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHE",
+    "entry_price": 506.59,
+    "exit_price": 506.01,
+    "return": -0.0015449100850786653
+  },
+  {
+    "entry_date": "2023-01-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "STZ",
+    "entry_price": 231.28,
+    "exit_price": 218.985,
+    "return": -0.0535606710480802
+  },
+  {
+    "entry_date": "2023-01-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 534.735,
+    "exit_price": 547.745,
+    "return": 0.023929808222764536
+  },
+  {
+    "entry_date": "2023-01-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "PH",
+    "entry_price": 309.83,
+    "exit_price": 309.11,
+    "return": -0.0027238550172673957
+  },
+  {
+    "entry_date": "2023-01-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "UNH",
+    "entry_price": 488.9,
+    "exit_price": 489.39,
+    "return": 0.0006022499488648862
+  },
+  {
+    "entry_date": "2023-01-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2119.065,
+    "exit_price": 2103.2,
+    "return": -0.00788679252406148
+  },
+  {
+    "entry_date": "2023-01-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 580.72,
+    "exit_price": 586.39,
+    "return": 0.009363741562198503
+  },
+  {
+    "entry_date": "2023-01-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "TDG",
+    "entry_price": 680.83,
+    "exit_price": 677.01,
+    "return": -0.0060107985840813115
+  },
+  {
+    "entry_date": "2023-01-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "BKNG",
+    "entry_price": 2293.4,
+    "exit_price": 2304.48,
+    "return": 0.004431254905380611
+  },
+  {
+    "entry_date": "2023-01-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMI",
+    "entry_price": 249.28,
+    "exit_price": 249.84,
+    "return": 0.001846469833119491
+  },
+  {
+    "entry_date": "2023-01-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 798.73,
+    "exit_price": 785.56,
+    "return": -0.016888675772789342
+  },
+  {
+    "entry_date": "2023-01-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "BKNG",
+    "entry_price": 2317.48,
+    "exit_price": 2325.935,
+    "return": 0.003248359424892611
+  },
+  {
+    "entry_date": "2023-01-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "ALB",
+    "entry_price": 248.3,
+    "exit_price": 250.425,
+    "return": 0.008158195730970609
+  },
+  {
+    "entry_date": "2023-01-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "ALB",
+    "entry_price": 260.3778,
+    "exit_price": 257.65,
+    "return": -0.010876315569146077
+  },
+  {
+    "entry_date": "2023-01-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMI",
+    "entry_price": 248.515,
+    "exit_price": 244.64,
+    "return": -0.01599262016377283
+  },
+  {
+    "entry_date": "2023-01-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 2089.4775,
+    "exit_price": 2113.082,
+    "return": 0.010896843349593245
+  },
+  {
+    "entry_date": "2023-01-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "LMT",
+    "entry_price": 461.53,
+    "exit_price": 461.8,
+    "return": 0.0001850107251967884
+  },
+  {
+    "entry_date": "2023-01-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "PH",
+    "entry_price": 321.1,
+    "exit_price": 319.83,
+    "return": -0.004355154157583407
+  },
+  {
+    "entry_date": "2023-01-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-01-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUM",
+    "entry_price": 485.245,
+    "exit_price": 503.26,
+    "return": 0.036725575740090124
+  },
+  {
+    "entry_date": "2023-01-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 586.83,
+    "exit_price": 593.1216,
+    "return": 0.01032133326517033
+  },
+  {
+    "entry_date": "2023-02-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "TDG",
+    "entry_price": 726.67,
+    "exit_price": 729.54,
+    "return": 0.0035495231673249973
+  },
+  {
+    "entry_date": "2023-02-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 671.97,
+    "exit_price": 672.66,
+    "return": 0.0006268315549799567
+  },
+  {
+    "entry_date": "2023-02-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "PH",
+    "entry_price": 349.815,
+    "exit_price": 348.165,
+    "return": -0.005116778868830596
+  },
+  {
+    "entry_date": "2023-02-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "CI",
+    "entry_price": 286.76,
+    "exit_price": 287.55,
+    "return": 0.0023549170037661772
+  },
+  {
+    "entry_date": "2023-02-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "LIN",
+    "entry_price": 335.975,
+    "exit_price": 343.93,
+    "return": 0.02327735694620121
+  },
+  {
+    "entry_date": "2023-02-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMI",
+    "entry_price": 246.71,
+    "exit_price": 249.02,
+    "return": 0.00896321997486922
+  },
+  {
+    "entry_date": "2023-02-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "DIA",
+    "entry_price": 336.61,
+    "exit_price": 337.14,
+    "return": 0.0011745224443717288
+  },
+  {
+    "entry_date": "2023-02-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "DE",
+    "entry_price": 415.535,
+    "exit_price": 420.5465,
+    "return": 0.011660355926696743
+  },
+  {
+    "entry_date": "2023-02-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "BKNG",
+    "entry_price": 2423.26,
+    "exit_price": 2419.09,
+    "return": -0.002120822363262764
+  },
+  {
+    "entry_date": "2023-02-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1928.71,
+    "exit_price": 1889.99,
+    "return": -0.020475594568390255
+  },
+  {
+    "entry_date": "2023-02-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "TDG",
+    "entry_price": 765.41,
+    "exit_price": 746.7,
+    "return": -0.02484441541134812
+  },
+  {
+    "entry_date": "2023-02-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUM",
+    "entry_price": 508.815,
+    "exit_price": 506.065,
+    "return": -0.005804714876723338
+  },
+  {
+    "entry_date": "2023-02-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "LIN",
+    "entry_price": 346.33,
+    "exit_price": 345.6794,
+    "return": -0.0022785551352755727
+  },
+  {
+    "entry_date": "2023-02-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-02-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 675.87,
+    "exit_price": 678.25,
+    "return": 0.0031213872490271745
+  },
+  {
+    "entry_date": "2023-03-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 685.23,
+    "exit_price": 686.655,
+    "return": 0.0016795937130597686
+  },
+  {
+    "entry_date": "2023-04-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOC",
+    "entry_price": 469.99,
+    "exit_price": 470.0,
+    "return": -0.00037872295155221247
+  },
+  {
+    "entry_date": "2023-04-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "UNH",
+    "entry_price": 511.0501,
+    "exit_price": 513.79,
+    "return": 0.004961313890751562
+  },
+  {
+    "entry_date": "2023-04-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 651.25,
+    "exit_price": 654.17,
+    "return": 0.004083685220729283
+  },
+  {
+    "entry_date": "2023-04-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHE",
+    "entry_price": 557.64,
+    "exit_price": 559.5,
+    "return": 0.002935485259307047
+  },
+  {
+    "entry_date": "2023-04-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 326.53,
+    "exit_price": 329.28,
+    "return": 0.008021890791045162
+  },
+  {
+    "entry_date": "2023-04-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "UNH",
+    "entry_price": 489.9833,
+    "exit_price": 495.575,
+    "return": 0.011012021593389055
+  },
+  {
+    "entry_date": "2023-04-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 332.885,
+    "exit_price": 333.29,
+    "return": 0.0008166363759256172
+  },
+  {
+    "entry_date": "2023-04-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMG",
+    "entry_price": 2017.0,
+    "exit_price": 2026.465,
+    "return": 0.0042926127912740865
+  },
+  {
+    "entry_date": "2023-04-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-04-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 693.21,
+    "exit_price": 696.0,
+    "return": 0.0036247544034275327
+  },
+  {
+    "entry_date": "2023-05-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 405.34,
+    "exit_price": 408.43,
+    "return": 0.007223229881087656
+  },
+  {
+    "entry_date": "2023-05-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 431.5961,
+    "exit_price": 430.18,
+    "return": -0.003681076914272374
+  },
+  {
+    "entry_date": "2023-05-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "MUSA",
+    "entry_price": 291.93,
+    "exit_price": 290.59,
+    "return": -0.004990141472270881
+  },
+  {
+    "entry_date": "2023-05-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 432.46,
+    "exit_price": 429.115,
+    "return": -0.008134819405262882
+  },
+  {
+    "entry_date": "2023-05-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 438.1667,
+    "exit_price": 434.03,
+    "return": -0.009840927391333064
+  },
+  {
+    "entry_date": "2023-05-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "MOH",
+    "entry_price": 295.18,
+    "exit_price": 292.59,
+    "return": -0.009174307202385145
+  },
+  {
+    "entry_date": "2023-05-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-05-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 415.87,
+    "exit_price": 429.13,
+    "return": 0.031484964051265954
+  },
+  {
+    "entry_date": "2023-06-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 310.91,
+    "exit_price": 333.425,
+    "return": 0.07201645492264648
+  },
+  {
+    "entry_date": "2023-06-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "ROK",
+    "entry_price": 294.045,
+    "exit_price": 290.145,
+    "return": -0.013663276029179315
+  },
+  {
+    "entry_date": "2023-06-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 342.8,
+    "exit_price": 344.0,
+    "return": 0.003100583430571691
+  },
+  {
+    "entry_date": "2023-06-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 353.25,
+    "exit_price": 354.11,
+    "return": 0.002034536447275315
+  },
+  {
+    "entry_date": "2023-06-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "ROK",
+    "entry_price": 299.77,
+    "exit_price": 299.0319,
+    "return": -0.0028622210361275878
+  },
+  {
+    "entry_date": "2023-06-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 438.9494,
+    "exit_price": 456.5401,
+    "return": 0.03967455073409361
+  },
+  {
+    "entry_date": "2023-06-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 474.8,
+    "exit_price": 487.05,
+    "return": 0.0254003369839932
+  },
+  {
+    "entry_date": "2023-06-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "GWW",
+    "entry_price": 737.46,
+    "exit_price": 738.02,
+    "return": 0.0003593632197000488
+  },
+  {
+    "entry_date": "2023-06-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 494.24,
+    "exit_price": 513.56,
+    "return": 0.03869032049206851
+  },
+  {
+    "entry_date": "2023-06-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "LFUS",
+    "entry_price": 276.25,
+    "exit_price": 277.18,
+    "return": 0.0029665158371041224
+  },
+  {
+    "entry_date": "2023-06-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 362.635,
+    "exit_price": 363.56,
+    "return": 0.0021507741944379434
+  },
+  {
+    "entry_date": "2023-06-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "LFUS",
+    "entry_price": 276.2,
+    "exit_price": 275.33,
+    "return": -0.0035498913830557697
+  },
+  {
+    "entry_date": "2023-06-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 490.7,
+    "exit_price": 483.69,
+    "return": -0.014685714285714234
+  },
+  {
+    "entry_date": "2023-06-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-06-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 372.138,
+    "exit_price": 375.0,
+    "return": 0.007290695387195134
+  },
+  {
+    "entry_date": "2023-06-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "IT",
+    "entry_price": 351.34,
+    "exit_price": 347.465,
+    "return": -0.011429202481926292
+  },
+  {
+    "entry_date": "2023-07-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "PODD",
+    "entry_price": 284.08,
+    "exit_price": 285.51,
+    "return": 0.004633793297662736
+  },
+  {
+    "entry_date": "2023-07-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "ADBE",
+    "entry_price": 518.88,
+    "exit_price": 518.51,
+    "return": -0.0011130743139068807
+  },
+  {
+    "entry_date": "2023-07-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 368.295,
+    "exit_price": 369.82,
+    "return": 0.0037407024260442514
+  },
+  {
+    "entry_date": "2023-07-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMG",
+    "entry_price": 2129.61,
+    "exit_price": 2154.46,
+    "return": 0.011268803208099155
+  },
+  {
+    "entry_date": "2023-07-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "LFUS",
+    "entry_price": 309.2,
+    "exit_price": 309.94,
+    "return": 0.0019932729624838165
+  },
+  {
+    "entry_date": "2023-07-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 393.86,
+    "exit_price": 399.73,
+    "return": 0.014503772914233394
+  },
+  {
+    "entry_date": "2023-07-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 407.155,
+    "exit_price": 409.71,
+    "return": 0.0058752514398694
+  },
+  {
+    "entry_date": "2023-07-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHE",
+    "entry_price": 563.965,
+    "exit_price": 561.32,
+    "return": -0.005090007358612691
+  },
+  {
+    "entry_date": "2023-07-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 415.395,
+    "exit_price": 415.64,
+    "return": 0.0001898000698130179
+  },
+  {
+    "entry_date": "2023-07-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-07-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 426.3,
+    "exit_price": 429.95,
+    "return": 0.00816204550785833
+  },
+  {
+    "entry_date": "2023-07-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "CMG",
+    "entry_price": 1971.75,
+    "exit_price": 1956.0,
+    "return": -0.008387828071510105
+  },
+  {
+    "entry_date": "2023-08-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "LII",
+    "entry_price": 373.755,
+    "exit_price": 371.57,
+    "return": -0.006246075637784165
+  },
+  {
+    "entry_date": "2023-08-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "RH",
+    "entry_price": 398.68,
+    "exit_price": 398.31,
+    "return": -0.0013280626066018316
+  },
+  {
+    "entry_date": "2023-08-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "RH",
+    "entry_price": 402.47,
+    "exit_price": 394.2,
+    "return": -0.02094811538748236
+  },
+  {
+    "entry_date": "2023-08-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "LFUS",
+    "entry_price": 262.97,
+    "exit_price": 262.52,
+    "return": -0.002111221812374153
+  },
+  {
+    "entry_date": "2023-08-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 422.51,
+    "exit_price": 421.0359,
+    "return": -0.0038889115050530386
+  },
+  {
+    "entry_date": "2023-08-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 434.58,
+    "exit_price": 447.84,
+    "return": 0.030112218693911296
+  },
+  {
+    "entry_date": "2023-08-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-08-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 432.05,
+    "exit_price": 449.075,
+    "return": 0.03900516143964823
+  },
+  {
+    "entry_date": "2023-12-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SNPS",
+    "entry_price": 566.44,
+    "exit_price": 569.6657,
+    "return": 0.005294689640562078
+  },
+  {
+    "entry_date": "2023-12-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "NFLX",
+    "entry_price": 478.99,
+    "exit_price": 476.165,
+    "return": -0.006297826676966145
+  },
+  {
+    "entry_date": "2023-12-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "GS",
+    "entry_price": 383.85,
+    "exit_price": 383.43,
+    "return": -0.0014941774130520665
+  },
+  {
+    "entry_date": "2023-12-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "PANW",
+    "entry_price": 307.3988,
+    "exit_price": 305.758,
+    "return": -0.005737691624040186
+  },
+  {
+    "entry_date": "2023-12-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 504.1,
+    "exit_price": 493.115,
+    "return": -0.022191311247768342
+  },
+  {
+    "entry_date": "2023-12-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "LAD",
+    "entry_price": 315.45,
+    "exit_price": 309.7,
+    "return": -0.01862792835631637
+  },
+  {
+    "entry_date": "2023-12-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 440.8,
+    "exit_price": 442.25,
+    "return": 0.0028894736842103976
+  },
+  {
+    "entry_date": "2023-12-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 450.8225,
+    "exit_price": 451.49,
+    "return": 0.0010806270760665541
+  },
+  {
+    "entry_date": "2023-12-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2023-12-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 1452.69,
+    "exit_price": 1445.0,
+    "return": -0.005693627683814251
+  },
+  {
+    "entry_date": "2024-01-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "AMGN",
+    "entry_price": 296.11,
+    "exit_price": 298.35,
+    "return": 0.007164756340549206
+  },
+  {
+    "entry_date": "2024-01-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 319.22,
+    "exit_price": 326.17,
+    "return": 0.021371818808345332
+  },
+  {
+    "entry_date": "2024-01-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 345.51,
+    "exit_price": 356.39,
+    "return": 0.031089681919481426
+  },
+  {
+    "entry_date": "2024-01-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "PANW",
+    "entry_price": 315.2,
+    "exit_price": 324.194,
+    "return": 0.028134263959390848
+  },
+  {
+    "entry_date": "2024-01-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 440.91,
+    "exit_price": 436.235,
+    "return": -0.011003070921503254
+  },
+  {
+    "entry_date": "2024-01-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "AZO",
+    "entry_price": 2658.535,
+    "exit_price": 2691.0,
+    "return": 0.011811612786741544
+  },
+  {
+    "entry_date": "2024-01-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "AZO",
+    "entry_price": 2714.1,
+    "exit_price": 2728.01,
+    "return": 0.004725087505987391
+  },
+  {
+    "entry_date": "2024-01-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 421.73,
+    "exit_price": 484.7105,
+    "return": 0.14893843928579903
+  },
+  {
+    "entry_date": "2024-01-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SNPS",
+    "entry_price": 541.43,
+    "exit_price": 542.01,
+    "return": 0.0006712372790573355
+  },
+  {
+    "entry_date": "2024-01-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 455.0199,
+    "exit_price": 462.375,
+    "return": 0.01576434797686872
+  },
+  {
+    "entry_date": "2024-01-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 612.08,
+    "exit_price": 622.5985,
+    "return": 0.016784845118284996
+  },
+  {
+    "entry_date": "2024-01-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "NFLX",
+    "entry_price": 569.7499,
+    "exit_price": 565.565,
+    "return": -0.0077451526713738115
+  },
+  {
+    "entry_date": "2024-01-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "LAD",
+    "entry_price": 308.79,
+    "exit_price": 308.98,
+    "return": 0.00021530489977013046
+  },
+  {
+    "entry_date": "2024-01-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-01-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "FCNCA",
+    "entry_price": 1544.34,
+    "exit_price": 1505.875,
+    "return": -0.02530708004713982
+  },
+  {
+    "entry_date": "2024-01-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 531.2392,
+    "exit_price": 543.18,
+    "return": 0.022077256949411827
+  },
+  {
+    "entry_date": "2024-02-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 583.095,
+    "exit_price": 594.765,
+    "return": 0.01961389138991061
+  },
+  {
+    "entry_date": "2024-02-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 435.885,
+    "exit_price": 450.89,
+    "return": 0.03402421739679036
+  },
+  {
+    "entry_date": "2024-02-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 658.401,
+    "exit_price": 660.57,
+    "return": 0.002894344935685256
+  },
+  {
+    "entry_date": "2024-02-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 671.715,
+    "exit_price": 672.0455,
+    "return": 9.20241471455533e-05
+  },
+  {
+    "entry_date": "2024-02-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 687.7335,
+    "exit_price": 692.43,
+    "return": 0.006428953366383672
+  },
+  {
+    "entry_date": "2024-02-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 579.93,
+    "exit_price": 631.03,
+    "return": 0.08771408273412314
+  },
+  {
+    "entry_date": "2024-02-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 735.27,
+    "exit_price": 764.8965,
+    "return": 0.03989336162226116
+  },
+  {
+    "entry_date": "2024-02-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 714.18,
+    "exit_price": 682.675,
+    "return": -0.04451352880226271
+  },
+  {
+    "entry_date": "2024-02-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 778.9073,
+    "exit_price": 831.65,
+    "return": 0.06731370611111238
+  },
+  {
+    "entry_date": "2024-02-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 876.89,
+    "exit_price": 942.77,
+    "return": 0.07472914960827466
+  },
+  {
+    "entry_date": "2024-02-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 997.971,
+    "exit_price": 1070.8956,
+    "return": 0.0726728648427661
+  },
+  {
+    "entry_date": "2024-02-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 786.55,
+    "exit_price": 779.36,
+    "return": -0.009541186192867522
+  },
+  {
+    "entry_date": "2024-02-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 775.94,
+    "exit_price": 746.05,
+    "return": -0.038921019666469145
+  },
+  {
+    "entry_date": "2024-02-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 545.16,
+    "exit_price": 558.14,
+    "return": 0.023409523809523946
+  },
+  {
+    "entry_date": "2024-02-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 996.76,
+    "exit_price": 988.97,
+    "return": -0.008215321642120398
+  },
+  {
+    "entry_date": "2024-02-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "PANW",
+    "entry_price": 280.24,
+    "exit_price": 288.63,
+    "return": 0.029538624036540017
+  },
+  {
+    "entry_date": "2024-02-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 796.72,
+    "exit_price": 872.77,
+    "return": 0.09505386082940044
+  },
+  {
+    "entry_date": "2024-02-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "AZO",
+    "entry_price": 2951.46,
+    "exit_price": 2971.58,
+    "return": 0.006416965163004118
+  },
+  {
+    "entry_date": "2024-02-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-02-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 957.58,
+    "exit_price": 1031.6,
+    "return": 0.07689902462457439
+  },
+  {
+    "entry_date": "2024-02-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 580.285,
+    "exit_price": 576.09,
+    "return": -0.007629206338264738
+  },
+  {
+    "entry_date": "2024-03-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 912.605,
+    "exit_price": 1035.3917,
+    "return": 0.13414528520005903
+  },
+  {
+    "entry_date": "2024-03-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 1130.825,
+    "exit_price": 1019.48,
+    "return": -0.09886351115336149
+  },
+  {
+    "entry_date": "2024-03-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 1036.7716,
+    "exit_price": 1156.3333,
+    "return": 0.1149211565594583
+  },
+  {
+    "entry_date": "2024-03-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1237.68,
+    "exit_price": 1295.0,
+    "return": 0.04591245556201913
+  },
+  {
+    "entry_date": "2024-03-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 922.39,
+    "exit_price": 956.42,
+    "return": 0.036493288088552636
+  },
+  {
+    "entry_date": "2024-03-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1408.52,
+    "exit_price": 1552.44,
+    "return": 0.10177817283389663
+  },
+  {
+    "entry_date": "2024-03-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 1077.33,
+    "exit_price": 1118.86,
+    "return": 0.03814900541152673
+  },
+  {
+    "entry_date": "2024-03-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 1156.31,
+    "exit_price": 1143.5935,
+    "return": -0.01139748337383577
+  },
+  {
+    "entry_date": "2024-03-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1717.45,
+    "exit_price": 1629.09,
+    "return": -0.05184836822032672
+  },
+  {
+    "entry_date": "2024-03-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1794.75,
+    "exit_price": 1710.31,
+    "return": -0.047448335422760876
+  },
+  {
+    "entry_date": "2024-03-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "NFLX",
+    "entry_price": 620.3,
+    "exit_price": 612.41,
+    "return": -0.013119651781396112
+  },
+  {
+    "entry_date": "2024-03-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1420.0,
+    "exit_price": 1430.24,
+    "return": 0.006811267605633731
+  },
+  {
+    "entry_date": "2024-03-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1527.27,
+    "exit_price": 1585.8,
+    "return": 0.037923282720147625
+  },
+  {
+    "entry_date": "2024-03-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 978.81,
+    "exit_price": 972.875,
+    "return": -0.006463485252500445
+  },
+  {
+    "entry_date": "2024-03-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 936.93,
+    "exit_price": 941.7548,
+    "return": 0.0047495842805759915
+  },
+  {
+    "entry_date": "2024-03-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1854.0,
+    "exit_price": 1876.79,
+    "return": 0.011892340884573872
+  },
+  {
+    "entry_date": "2024-03-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-03-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "DPZ",
+    "entry_price": 481.61,
+    "exit_price": 488.7,
+    "return": 0.014321455119287353
+  },
+  {
+    "entry_date": "2024-03-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOW",
+    "entry_price": 766.755,
+    "exit_price": 768.09,
+    "return": 0.0013411037423948894
+  },
+  {
+    "entry_date": "2024-04-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1631.3,
+    "exit_price": 1493.43,
+    "return": -0.08491541715196464
+  },
+  {
+    "entry_date": "2024-04-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1572.17,
+    "exit_price": 1570.57,
+    "return": -0.0014177016480407141
+  },
+  {
+    "entry_date": "2024-04-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 1013.99,
+    "exit_price": 1047.66,
+    "return": 0.03280545567510536
+  },
+  {
+    "entry_date": "2024-04-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 593.34,
+    "exit_price": 596.71,
+    "return": 0.005279711463916215
+  },
+  {
+    "entry_date": "2024-04-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 460.99,
+    "exit_price": 457.97,
+    "return": -0.00695111824551502
+  },
+  {
+    "entry_date": "2024-04-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1545.0,
+    "exit_price": 1559.975,
+    "return": 0.00929255663430424
+  },
+  {
+    "entry_date": "2024-04-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 1385.2113,
+    "exit_price": 1361.41,
+    "return": -0.01758243274509801
+  },
+  {
+    "entry_date": "2024-04-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 959.8299,
+    "exit_price": 994.23,
+    "return": 0.035439787862411934
+  },
+  {
+    "entry_date": "2024-04-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "EG",
+    "entry_price": 369.7,
+    "exit_price": 371.3,
+    "return": 0.0039278333784149135
+  },
+  {
+    "entry_date": "2024-04-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 719.94,
+    "exit_price": 718.7242,
+    "return": -0.0020887518404312687
+  },
+  {
+    "entry_date": "2024-04-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 767.5,
+    "exit_price": 792.825,
+    "return": 0.03259674267100983
+  },
+  {
+    "entry_date": "2024-04-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "DECK",
+    "entry_price": 851.63,
+    "exit_price": 809.245,
+    "return": -0.05016926599579634
+  },
+  {
+    "entry_date": "2024-04-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 829.226,
+    "exit_price": 840.53,
+    "return": 0.013231989349103924
+  },
+  {
+    "entry_date": "2024-04-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 851.0518,
+    "exit_price": 849.91,
+    "return": -0.0017416339639961139
+  },
+  {
+    "entry_date": "2024-04-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-04-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 885.04,
+    "exit_price": 892.54,
+    "return": 0.008074193256801988
+  },
+  {
+    "entry_date": "2024-05-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "FICO",
+    "entry_price": 1173.16,
+    "exit_price": 1156.47,
+    "return": -0.014626533465170998
+  },
+  {
+    "entry_date": "2024-05-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 715.575,
+    "exit_price": 721.34,
+    "return": 0.007656458093141927
+  },
+  {
+    "entry_date": "2024-05-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 784.216,
+    "exit_price": 788.5,
+    "return": 0.005062780662470523
+  },
+  {
+    "entry_date": "2024-05-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SMCI",
+    "entry_price": 828.6197,
+    "exit_price": 819.04,
+    "return": -0.011961033366694006
+  },
+  {
+    "entry_date": "2024-05-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "NFLX",
+    "entry_price": 604.23,
+    "exit_price": 605.605,
+    "return": 0.0018756235208447606
+  },
+  {
+    "entry_date": "2024-05-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 710.2,
+    "exit_price": 711.82,
+    "return": 0.0018810475922274698
+  },
+  {
+    "entry_date": "2024-05-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBB",
+    "entry_price": 407.785,
+    "exit_price": 412.52,
+    "return": 0.01121151096778923
+  },
+  {
+    "entry_date": "2024-05-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "MTD",
+    "entry_price": 1503.92,
+    "exit_price": 1482.68,
+    "return": -0.014523091653811425
+  },
+  {
+    "entry_date": "2024-05-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 334.04,
+    "exit_price": 340.15,
+    "return": 0.0178912226080707
+  },
+  {
+    "entry_date": "2024-05-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 734.92,
+    "exit_price": 734.0354,
+    "return": -0.00160366842649533
+  },
+  {
+    "entry_date": "2024-05-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSCI",
+    "entry_price": 499.23,
+    "exit_price": 499.93,
+    "return": 0.0010021593253610299
+  },
+  {
+    "entry_date": "2024-05-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1551.45,
+    "exit_price": 1581.78,
+    "return": 0.019149453736826815
+  },
+  {
+    "entry_date": "2024-05-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 1715.19,
+    "exit_price": 1720.0,
+    "return": 0.002404354036578971
+  },
+  {
+    "entry_date": "2024-05-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 394.445,
+    "exit_price": 393.24,
+    "return": -0.00345492527475304
+  },
+  {
+    "entry_date": "2024-05-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "DECK",
+    "entry_price": 1024.92,
+    "exit_price": 1046.275,
+    "return": 0.020435772548101427
+  },
+  {
+    "entry_date": "2024-05-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "DECK",
+    "entry_price": 1068.93,
+    "exit_price": 1075.92,
+    "return": 0.006139249529903701
+  },
+  {
+    "entry_date": "2024-05-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-05-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 1151.395,
+    "exit_price": 1142.575,
+    "return": -0.008060272973219361
+  },
+  {
+    "entry_date": "2024-06-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOW",
+    "entry_price": 670.745,
+    "exit_price": 683.8892,
+    "return": 0.019196418907334322
+  },
+  {
+    "entry_date": "2024-06-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 319.915,
+    "exit_price": 318.57,
+    "return": -0.00460424175171541
+  },
+  {
+    "entry_date": "2024-06-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "LRCX",
+    "entry_price": 1007.105,
+    "exit_price": 996.24,
+    "return": -0.011188348781904599
+  },
+  {
+    "entry_date": "2024-06-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "MUSA",
+    "entry_price": 479.13,
+    "exit_price": 474.47,
+    "return": -0.01012596163880357
+  },
+  {
+    "entry_date": "2024-06-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 1740.0,
+    "exit_price": 1786.145,
+    "return": 0.026120114942528704
+  },
+  {
+    "entry_date": "2024-06-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 1833.0101,
+    "exit_price": 1833.27,
+    "return": -0.00025821136501096264
+  },
+  {
+    "entry_date": "2024-06-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 135.65,
+    "exit_price": 138.97,
+    "return": 0.02407475119793574
+  },
+  {
+    "entry_date": "2024-06-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "CASY",
+    "entry_price": 380.275,
+    "exit_price": 380.0606,
+    "return": -0.000963802511340361
+  },
+  {
+    "entry_date": "2024-06-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 126.25,
+    "exit_price": 125.7642,
+    "return": -0.004247920792079185
+  },
+  {
+    "entry_date": "2024-06-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-06-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "MEDP",
+    "entry_price": 420.465,
+    "exit_price": 437.3889,
+    "return": 0.039850437016160714
+  },
+  {
+    "entry_date": "2024-07-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 1635.0,
+    "exit_price": 1631.105,
+    "return": -0.0027822629969418864
+  },
+  {
+    "entry_date": "2024-07-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "LII",
+    "entry_price": 537.275,
+    "exit_price": 537.83,
+    "return": 0.0006329905541854867
+  },
+  {
+    "entry_date": "2024-07-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 865.375,
+    "exit_price": 865.305,
+    "return": -0.0004808897876644066
+  },
+  {
+    "entry_date": "2024-07-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "CAT",
+    "entry_price": 347.22,
+    "exit_price": 346.205,
+    "return": -0.0033232187085999064
+  },
+  {
+    "entry_date": "2024-07-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "URI",
+    "entry_price": 740.34,
+    "exit_price": 733.105,
+    "return": -0.01017253694248592
+  },
+  {
+    "entry_date": "2024-07-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "LRCX",
+    "entry_price": 971.515,
+    "exit_price": 972.1841,
+    "return": 0.0002887181361070471
+  },
+  {
+    "entry_date": "2024-07-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 329.94,
+    "exit_price": 322.3461,
+    "return": -0.023416002909620027
+  },
+  {
+    "entry_date": "2024-07-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOW",
+    "entry_price": 842.82,
+    "exit_price": 823.215,
+    "return": -0.023661194561116306
+  },
+  {
+    "entry_date": "2024-07-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 308.52,
+    "exit_price": 315.16,
+    "return": 0.021122105536108115
+  },
+  {
+    "entry_date": "2024-07-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-07-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "IT",
+    "entry_price": 501.575,
+    "exit_price": 503.51,
+    "return": 0.003457847779494605
+  },
+  {
+    "entry_date": "2024-07-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 159.23,
+    "exit_price": 157.87,
+    "return": -0.00894110406330455
+  },
+  {
+    "entry_date": "2024-08-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 301.85,
+    "exit_price": 301.235,
+    "return": -0.0024374358124897187
+  },
+  {
+    "entry_date": "2024-08-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 470.29,
+    "exit_price": 459.97,
+    "return": -0.022343906951030213
+  },
+  {
+    "entry_date": "2024-08-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 828.71,
+    "exit_price": 832.54,
+    "return": 0.00422164086351069
+  },
+  {
+    "entry_date": "2024-08-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 149.11,
+    "exit_price": 149.305,
+    "return": 0.0009077593722754522
+  },
+  {
+    "entry_date": "2024-08-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "DECK",
+    "entry_price": 913.705,
+    "exit_price": 926.19,
+    "return": 0.013264147618760892
+  },
+  {
+    "entry_date": "2024-08-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 155.06,
+    "exit_price": 157.6,
+    "return": 0.015980755836450377
+  },
+  {
+    "entry_date": "2024-08-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 920.775,
+    "exit_price": 905.75,
+    "return": -0.01671777578670135
+  },
+  {
+    "entry_date": "2024-08-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 124.335,
+    "exit_price": 124.43,
+    "return": 0.000364064824868349
+  },
+  {
+    "entry_date": "2024-08-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "NVDA",
+    "entry_price": 129.1599,
+    "exit_price": 129.62,
+    "return": 0.003162251132123828
+  },
+  {
+    "entry_date": "2024-08-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 342.57,
+    "exit_price": 346.91,
+    "return": 0.012268943573576286
+  },
+  {
+    "entry_date": "2024-08-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "BLD",
+    "entry_price": 410.43,
+    "exit_price": 411.4087,
+    "return": 0.001984572277855046
+  },
+  {
+    "entry_date": "2024-08-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-08-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 943.01,
+    "exit_price": 951.82,
+    "return": 0.008942424788708615
+  },
+  {
+    "entry_date": "2024-09-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "CASY",
+    "entry_price": 382.16,
+    "exit_price": 379.67,
+    "return": -0.006915595562068266
+  },
+  {
+    "entry_date": "2024-09-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "EME",
+    "entry_price": 366.03,
+    "exit_price": 366.1273,
+    "return": -0.00013417479441573088
+  },
+  {
+    "entry_date": "2024-09-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 149.4264,
+    "exit_price": 148.1,
+    "return": -0.009276610826467068
+  },
+  {
+    "entry_date": "2024-09-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 333.34,
+    "exit_price": 330.56,
+    "return": -0.008739833203335866
+  },
+  {
+    "entry_date": "2024-09-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 166.01,
+    "exit_price": 166.105,
+    "return": 0.0001722546834527886
+  },
+  {
+    "entry_date": "2024-09-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 430.075,
+    "exit_price": 433.11,
+    "return": 0.006656908678718887
+  },
+  {
+    "entry_date": "2024-09-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "MEDP",
+    "entry_price": 365.6,
+    "exit_price": 369.99,
+    "return": 0.011607658643325981
+  },
+  {
+    "entry_date": "2024-09-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "EME",
+    "entry_price": 430.245,
+    "exit_price": 430.925,
+    "return": 0.0011804948343385306
+  },
+  {
+    "entry_date": "2024-09-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 171.34,
+    "exit_price": 170.33,
+    "return": -0.006294712268005087
+  },
+  {
+    "entry_date": "2024-09-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-09-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 453.78,
+    "exit_price": 455.08,
+    "return": 0.0024648243642293012
+  },
+  {
+    "entry_date": "2024-10-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "DECK",
+    "entry_price": 166.325,
+    "exit_price": 161.52,
+    "return": -0.029289222906959168
+  },
+  {
+    "entry_date": "2024-10-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "CASY",
+    "entry_price": 389.33,
+    "exit_price": 386.4,
+    "return": -0.00792574936429251
+  },
+  {
+    "entry_date": "2024-10-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SAIA",
+    "entry_price": 459.96,
+    "exit_price": 458.38,
+    "return": -0.0038350813114183422
+  },
+  {
+    "entry_date": "2024-10-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "BLD",
+    "entry_price": 400.715,
+    "exit_price": 404.0,
+    "return": 0.007797846349650151
+  },
+  {
+    "entry_date": "2024-10-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 390.01,
+    "exit_price": 384.04,
+    "return": -0.015707299812825194
+  },
+  {
+    "entry_date": "2024-10-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-10-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SNPS",
+    "entry_price": 530.935,
+    "exit_price": 526.89,
+    "return": -0.00801863504948812
+  },
+  {
+    "entry_date": "2024-10-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "MUSA",
+    "entry_price": 493.31,
+    "exit_price": 485.15,
+    "return": -0.016941322900407552
+  },
+  {
+    "entry_date": "2024-11-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 411.31,
+    "exit_price": 432.12,
+    "return": 0.05019444214825804
+  },
+  {
+    "entry_date": "2024-11-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 439.17,
+    "exit_price": 441.9,
+    "return": 0.005816271603251444
+  },
+  {
+    "entry_date": "2024-11-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOW",
+    "entry_price": 1021.26,
+    "exit_price": 1008.525,
+    "return": -0.012869890135714756
+  },
+  {
+    "entry_date": "2024-11-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "AXON",
+    "entry_price": 596.08,
+    "exit_price": 596.33,
+    "return": 1.9406791034804252e-05
+  },
+  {
+    "entry_date": "2024-11-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "AXON",
+    "entry_price": 615.09,
+    "exit_price": 601.825,
+    "return": -0.021965949698418075
+  },
+  {
+    "entry_date": "2024-11-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SPOT",
+    "entry_price": 470.98,
+    "exit_price": 468.215,
+    "return": -0.0062707376109390365
+  },
+  {
+    "entry_date": "2024-11-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "MKL",
+    "entry_price": 1703.7,
+    "exit_price": 1722.725,
+    "return": 0.01076687210189582
+  },
+  {
+    "entry_date": "2024-11-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 471.48,
+    "exit_price": 479.055,
+    "return": 0.015666429116823543
+  },
+  {
+    "entry_date": "2024-11-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "TDG",
+    "entry_price": 1293.13,
+    "exit_price": 1288.54,
+    "return": -0.003949527116376683
+  },
+  {
+    "entry_date": "2024-11-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 492.02,
+    "exit_price": 491.635,
+    "return": -0.001182488516726909
+  },
+  {
+    "entry_date": "2024-11-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 500.38,
+    "exit_price": 505.155,
+    "return": 0.009142747511890993
+  },
+  {
+    "entry_date": "2024-11-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "BLD",
+    "entry_price": 408.05,
+    "exit_price": 398.085,
+    "return": -0.024821026834946736
+  },
+  {
+    "entry_date": "2024-11-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-11-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "KNSL",
+    "entry_price": 514.125,
+    "exit_price": 526.74,
+    "return": 0.024136834427425268
+  },
+  {
+    "entry_date": "2024-12-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-12-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "KLAC",
+    "entry_price": 666.49,
+    "exit_price": 659.94,
+    "return": -0.0102276043151434
+  },
+  {
+    "entry_date": "2024-12-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-12-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "AXON",
+    "entry_price": 666.5017,
+    "exit_price": 677.58,
+    "return": 0.01622156300576578
+  },
+  {
+    "entry_date": "2024-12-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-12-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "AXON",
+    "entry_price": 686.86,
+    "exit_price": 681.0,
+    "return": -0.008931578487610324
+  },
+  {
+    "entry_date": "2024-12-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2024-12-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 744.7675,
+    "exit_price": 739.565,
+    "return": -0.007385401484355891
+  },
+  {
+    "entry_date": "2025-01-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1184.69,
+    "exit_price": 1187.9,
+    "return": 0.0023095695920451577
+  },
+  {
+    "entry_date": "2025-01-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 408.42,
+    "exit_price": 420.345,
+    "return": 0.028797884530630213
+  },
+  {
+    "entry_date": "2025-01-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1263.14,
+    "exit_price": 1250.59,
+    "return": -0.010335557420396978
+  },
+  {
+    "entry_date": "2025-01-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SPOT",
+    "entry_price": 478.44,
+    "exit_price": 479.11,
+    "return": 0.0010003845832288864
+  },
+  {
+    "entry_date": "2025-01-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 462.88,
+    "exit_price": 479.44,
+    "return": 0.035376011061182225
+  },
+  {
+    "entry_date": "2025-01-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 427.0799,
+    "exit_price": 419.6382,
+    "return": -0.017824608369534634
+  },
+  {
+    "entry_date": "2025-01-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "DUOL",
+    "entry_price": 345.9299,
+    "exit_price": 350.0,
+    "return": 0.01136567853776156
+  },
+  {
+    "entry_date": "2025-01-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "GS",
+    "entry_price": 625.21,
+    "exit_price": 612.1299,
+    "return": -0.021321130500151986
+  },
+  {
+    "entry_date": "2025-01-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 523.72,
+    "exit_price": 546.615,
+    "return": 0.04331610784388591
+  },
+  {
+    "entry_date": "2025-01-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 758.17,
+    "exit_price": 771.0,
+    "return": 0.016522326127385644
+  },
+  {
+    "entry_date": "2025-01-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 800.93,
+    "exit_price": 786.585,
+    "return": -0.018310429126140716
+  },
+  {
+    "entry_date": "2025-01-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-01-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 438.62,
+    "exit_price": 432.04,
+    "return": -0.015401595914458931
+  },
+  {
+    "entry_date": "2025-02-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 466.3,
+    "exit_price": 472.5,
+    "return": 0.012896161269569007
+  },
+  {
+    "entry_date": "2025-02-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SPOT",
+    "entry_price": 640.235,
+    "exit_price": 632.67,
+    "return": -0.012215973822112302
+  },
+  {
+    "entry_date": "2025-02-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "LII",
+    "entry_price": 599.245,
+    "exit_price": 588.21,
+    "return": -0.01881483867199556
+  },
+  {
+    "entry_date": "2025-02-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 345.59,
+    "exit_price": 347.68,
+    "return": 0.00564762869296005
+  },
+  {
+    "entry_date": "2025-02-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 354.975,
+    "exit_price": 357.14,
+    "return": 0.005699021057820897
+  },
+  {
+    "entry_date": "2025-02-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 505.56,
+    "exit_price": 513.15,
+    "return": 0.014613054830287143
+  },
+  {
+    "entry_date": "2025-02-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "CW",
+    "entry_price": 336.17,
+    "exit_price": 333.4,
+    "return": -0.008639878632834707
+  },
+  {
+    "entry_date": "2025-02-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 374.15,
+    "exit_price": 384.83,
+    "return": 0.02814470132299891
+  },
+  {
+    "entry_date": "2025-02-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-02-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1341.19,
+    "exit_price": 1370.13,
+    "return": 0.021177852504119476
+  },
+  {
+    "entry_date": "2025-02-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 292.828,
+    "exit_price": 301.8001,
+    "return": 0.030239488027101257
+  },
+  {
+    "entry_date": "2025-03-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1394.275,
+    "exit_price": 1342.31,
+    "return": -0.037670265908805775
+  },
+  {
+    "entry_date": "2025-03-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 1388.04,
+    "exit_price": 1366.1458,
+    "return": -0.01617346474165009
+  },
+  {
+    "entry_date": "2025-03-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "MEDP",
+    "entry_price": 339.8,
+    "exit_price": 334.0,
+    "return": -0.017468864037669275
+  },
+  {
+    "entry_date": "2025-03-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 233.1435,
+    "exit_price": 247.805,
+    "return": 0.06248616238496903
+  },
+  {
+    "entry_date": "2025-03-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "LII",
+    "entry_price": 593.02,
+    "exit_price": 585.45,
+    "return": -0.01316516812249151
+  },
+  {
+    "entry_date": "2025-03-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 357.1053,
+    "exit_price": 357.75,
+    "return": 0.001405349850590332
+  },
+  {
+    "entry_date": "2025-03-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 276.2236,
+    "exit_price": 277.675,
+    "return": 0.004854438795237126
+  },
+  {
+    "entry_date": "2025-03-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-03-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 284.795,
+    "exit_price": 280.8573,
+    "return": -0.014226436559630672
+  },
+  {
+    "entry_date": "2025-05-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-05-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "DUOL",
+    "entry_price": 520.0,
+    "exit_price": 521.0975,
+    "return": 0.0017105769230769234
+  },
+  {
+    "entry_date": "2025-05-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-05-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "DUOL",
+    "entry_price": 534.96,
+    "exit_price": 538.0,
+    "return": 0.005282667863017743
+  },
+  {
+    "entry_date": "2025-05-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-05-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 408.67,
+    "exit_price": 410.895,
+    "return": 0.00504449066483943
+  },
+  {
+    "entry_date": "2025-06-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-06-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 388.87,
+    "exit_price": 383.33,
+    "return": -0.014646406254018073
+  },
+  {
+    "entry_date": "2025-06-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-06-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 394.1334,
+    "exit_price": 392.045,
+    "return": -0.005698713582761572
+  },
+  {
+    "entry_date": "2025-06-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-06-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHTR",
+    "entry_price": 405.55,
+    "exit_price": 405.05,
+    "return": -0.0016328936012822033
+  },
+  {
+    "entry_date": "2025-06-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 400.69,
+    "exit_price": 393.23,
+    "return": -0.019017884149841447
+  },
+  {
+    "entry_date": "2025-07-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "CHTR",
+    "entry_price": 418.98,
+    "exit_price": 414.255,
+    "return": -0.011677387942145278
+  },
+  {
+    "entry_date": "2025-07-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 402.08,
+    "exit_price": 406.36,
+    "return": 0.010244647831277388
+  },
+  {
+    "entry_date": "2025-07-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 355.515,
+    "exit_price": 353.54,
+    "return": -0.00595532115381896
+  },
+  {
+    "entry_date": "2025-07-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "MSTR",
+    "entry_price": 421.4,
+    "exit_price": 434.35,
+    "return": 0.030330897009966894
+  },
+  {
+    "entry_date": "2025-07-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 358.9264,
+    "exit_price": 350.31,
+    "return": -0.024406035777808466
+  },
+  {
+    "entry_date": "2025-07-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 362.425,
+    "exit_price": 368.4926,
+    "return": 0.016341670690487708
+  },
+  {
+    "entry_date": "2025-07-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "INTU",
+    "entry_price": 765.15,
+    "exit_price": 763.845,
+    "return": -0.0021055479317780177
+  },
+  {
+    "entry_date": "2025-07-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-07-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 326.26,
+    "exit_price": 322.13,
+    "return": -0.013058615827867314
+  },
+  {
+    "entry_date": "2025-07-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 389.56,
+    "exit_price": 376.63,
+    "return": -0.03359129274052779
+  },
+  {
+    "entry_date": "2025-08-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 826.12,
+    "exit_price": 813.98,
+    "return": -0.015095201665617551
+  },
+  {
+    "entry_date": "2025-08-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 319.0,
+    "exit_price": 321.1823,
+    "return": 0.006441065830720971
+  },
+  {
+    "entry_date": "2025-08-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 436.43,
+    "exit_price": 455.815,
+    "return": 0.044017203217010706
+  },
+  {
+    "entry_date": "2025-08-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "NFLX",
+    "entry_price": 1210.82,
+    "exit_price": 1205.3401,
+    "return": -0.00492577592045067
+  },
+  {
+    "entry_date": "2025-08-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 465.23,
+    "exit_price": 469.25,
+    "return": 0.008240887303054346
+  },
+  {
+    "entry_date": "2025-08-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "CSL",
+    "entry_price": 382.935,
+    "exit_price": 383.74,
+    "return": 0.0017021844438351423
+  },
+  {
+    "entry_date": "2025-08-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "CSL",
+    "entry_price": 397.76,
+    "exit_price": 390.3792,
+    "return": -0.018955913113435186
+  },
+  {
+    "entry_date": "2025-08-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "CSL",
+    "entry_price": 387.57,
+    "exit_price": 384.32,
+    "return": -0.008785581959387988
+  },
+  {
+    "entry_date": "2025-08-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "REGN",
+    "entry_price": 591.07,
+    "exit_price": 589.3037,
+    "return": -0.003388309337303541
+  },
+  {
+    "entry_date": "2025-08-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 338.565,
+    "exit_price": 338.43,
+    "return": -0.0007987417482610444
+  },
+  {
+    "entry_date": "2025-08-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 453.98,
+    "exit_price": 449.76,
+    "return": -0.009695563681219531
+  },
+  {
+    "entry_date": "2025-08-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 470.515,
+    "exit_price": 472.0,
+    "return": 0.002756116170579093
+  },
+  {
+    "entry_date": "2025-08-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-08-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 481.89,
+    "exit_price": 482.365,
+    "return": 0.0005857021311918679
+  },
+  {
+    "entry_date": "2025-09-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 479.0701,
+    "exit_price": 492.74,
+    "return": 0.02813423747380601
+  },
+  {
+    "entry_date": "2025-09-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 598.37,
+    "exit_price": 595.465,
+    "return": -0.005254855691294624
+  },
+  {
+    "entry_date": "2025-09-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 644.25,
+    "exit_price": 647.05,
+    "return": 0.003946138921226261
+  },
+  {
+    "entry_date": "2025-09-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 367.17,
+    "exit_price": 375.1299,
+    "return": 0.021279058746629564
+  },
+  {
+    "entry_date": "2025-09-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 393.335,
+    "exit_price": 424.893,
+    "return": 0.07983186342430755
+  },
+  {
+    "entry_date": "2025-09-15",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 776.75,
+    "exit_price": 784.4811,
+    "return": 0.009553138075313728
+  },
+  {
+    "entry_date": "2025-09-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 420.6871,
+    "exit_price": 413.6691,
+    "return": -0.017082232471592285
+  },
+  {
+    "entry_date": "2025-09-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 878.105,
+    "exit_price": 897.035,
+    "return": 0.021157786369511555
+  },
+  {
+    "entry_date": "2025-09-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "COIN",
+    "entry_price": 347.34,
+    "exit_price": 342.32,
+    "return": -0.014852697644958822
+  },
+  {
+    "entry_date": "2025-09-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "TLN",
+    "entry_price": 426.63,
+    "exit_price": 426.56,
+    "return": -0.0005640766003327964
+  },
+  {
+    "entry_date": "2025-09-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 643.0,
+    "exit_price": 640.0,
+    "return": -0.005065629860031051
+  },
+  {
+    "entry_date": "2025-09-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 653.1,
+    "exit_price": 656.08,
+    "return": 0.004162854080538914
+  },
+  {
+    "entry_date": "2025-09-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 443.155,
+    "exit_price": 427.891,
+    "return": -0.034843930453227354
+  },
+  {
+    "entry_date": "2025-09-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 665.72,
+    "exit_price": 698.755,
+    "return": 0.04922296460974569
+  },
+  {
+    "entry_date": "2025-09-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-09-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "COIN",
+    "entry_price": 332.68,
+    "exit_price": 334.29,
+    "return": 0.0044394853913671374
+  },
+  {
+    "entry_date": "2025-09-30",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 763.1869,
+    "exit_price": 780.58,
+    "return": 0.02239009244000396
+  },
+  {
+    "entry_date": "2025-10-01",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "REGN",
+    "entry_price": 599.825,
+    "exit_price": 600.3,
+    "return": 0.0003918976368106456
+  },
+  {
+    "entry_date": "2025-10-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "COIN",
+    "entry_price": 375.0,
+    "exit_price": 376.08,
+    "return": 0.0024799999999999935
+  },
+  {
+    "entry_date": "2025-10-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "LLY",
+    "entry_price": 844.9779,
+    "exit_price": 845.65,
+    "return": 0.0003954054182954806
+  },
+  {
+    "entry_date": "2025-10-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 462.95,
+    "exit_price": 460.0,
+    "return": -0.0067721784209958
+  },
+  {
+    "entry_date": "2025-10-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 635.7172,
+    "exit_price": 652.5499,
+    "return": 0.02607828311079192
+  },
+  {
+    "entry_date": "2025-10-08",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 850.26,
+    "exit_price": 844.745,
+    "return": -0.006886251264319121
+  },
+  {
+    "entry_date": "2025-10-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 433.01,
+    "exit_price": 422.51,
+    "return": -0.024648862612872736
+  },
+  {
+    "entry_date": "2025-10-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 594.54,
+    "exit_price": 605.868,
+    "return": 0.01865338581087923
+  },
+  {
+    "entry_date": "2025-10-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 438.4258,
+    "exit_price": 443.785,
+    "return": 0.011823733183585495
+  },
+  {
+    "entry_date": "2025-10-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 454.11,
+    "exit_price": 449.6,
+    "return": -0.010331514390786322
+  },
+  {
+    "entry_date": "2025-10-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "NOW",
+    "entry_price": 941.0,
+    "exit_price": 934.79,
+    "return": -0.006999362380446339
+  },
+  {
+    "entry_date": "2025-10-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 446.83,
+    "exit_price": 445.81,
+    "return": -0.002682747353579584
+  },
+  {
+    "entry_date": "2025-10-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 622.01,
+    "exit_price": 635.88,
+    "return": 0.02189867687014675
+  },
+  {
+    "entry_date": "2025-10-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 1109.89,
+    "exit_price": 1103.52,
+    "return": -0.006139307498941471
+  },
+  {
+    "entry_date": "2025-10-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "REGN",
+    "entry_price": 649.755,
+    "exit_price": 642.195,
+    "return": -0.0120351547891127
+  },
+  {
+    "entry_date": "2025-10-29",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-10-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 382.85,
+    "exit_price": 375.38,
+    "return": -0.019911558051456214
+  },
+  {
+    "entry_date": "2025-10-31",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "HUBS",
+    "entry_price": 492.21,
+    "exit_price": 497.9602,
+    "return": 0.011282411978626962
+  },
+  {
+    "entry_date": "2025-11-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 469.63,
+    "exit_price": 448.52,
+    "return": -0.04535028000766565
+  },
+  {
+    "entry_date": "2025-11-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 1009.64,
+    "exit_price": 996.605,
+    "return": -0.013310542371538324
+  },
+  {
+    "entry_date": "2025-11-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 575.26,
+    "exit_price": 594.525,
+    "return": 0.033089204881271164
+  },
+  {
+    "entry_date": "2025-11-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 385.811,
+    "exit_price": 387.615,
+    "return": 0.004275864607281976
+  },
+  {
+    "entry_date": "2025-11-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 406.4599,
+    "exit_price": 406.7,
+    "return": 0.00019071017829803727
+  },
+  {
+    "entry_date": "2025-11-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "PWR",
+    "entry_price": 438.745,
+    "exit_price": 447.16,
+    "return": 0.018779705751632524
+  },
+  {
+    "entry_date": "2025-11-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 886.82,
+    "exit_price": 916.23,
+    "return": 0.03276343790171628
+  },
+  {
+    "entry_date": "2025-11-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "REGN",
+    "entry_price": 762.99,
+    "exit_price": 767.0,
+    "return": 0.004855638999200451
+  },
+  {
+    "entry_date": "2025-11-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 377.6401,
+    "exit_price": 381.89,
+    "return": 0.010853836655588102
+  },
+  {
+    "entry_date": "2025-11-25",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 332.985,
+    "exit_price": 327.655,
+    "return": -0.01640672702974626
+  },
+  {
+    "entry_date": "2025-11-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-11-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "AVGO",
+    "entry_price": 399.39,
+    "exit_price": 400.71,
+    "return": 0.0029050401862839694
+  },
+  {
+    "entry_date": "2025-12-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "CAT",
+    "entry_price": 584.28,
+    "exit_price": 576.395,
+    "return": -0.013895242007256824
+  },
+  {
+    "entry_date": "2025-12-03",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 446.82,
+    "exit_price": 449.865,
+    "return": 0.006414824761649074
+  },
+  {
+    "entry_date": "2025-12-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 995.86,
+    "exit_price": 1000.1375,
+    "return": 0.0038952824694233447
+  },
+  {
+    "entry_date": "2025-12-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "GS",
+    "entry_price": 853.32,
+    "exit_price": 865.06,
+    "return": 0.013358027469179091
+  },
+  {
+    "entry_date": "2025-12-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "LPLA",
+    "entry_price": 388.34,
+    "exit_price": 383.21,
+    "return": -0.013610073646804376
+  },
+  {
+    "entry_date": "2025-12-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 487.6772,
+    "exit_price": 491.77,
+    "return": 0.00799243663636502
+  },
+  {
+    "entry_date": "2025-12-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "TSLA",
+    "entry_price": 486.955,
+    "exit_price": 483.895,
+    "return": -0.0066839482087667655
+  },
+  {
+    "entry_date": "2025-12-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "APP",
+    "entry_price": 726.5299,
+    "exit_price": 725.51,
+    "return": -0.0018037963200138614
+  },
+  {
+    "entry_date": "2025-12-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2025-12-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SPGI",
+    "entry_price": 522.06,
+    "exit_price": 523.54,
+    "return": 0.002434923188905547
+  },
+  {
+    "entry_date": "2026-01-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 1003.235,
+    "exit_price": 1040.88,
+    "return": 0.037123611118033265
+  },
+  {
+    "entry_date": "2026-01-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 420.02,
+    "exit_price": 426.45,
+    "return": 0.014908794819294259
+  },
+  {
+    "entry_date": "2026-01-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 1003.73,
+    "exit_price": 991.16,
+    "return": -0.012923288135255494
+  },
+  {
+    "entry_date": "2026-01-07",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "REGN",
+    "entry_price": 810.73,
+    "exit_price": 808.21,
+    "return": -0.0035083097948761964
+  },
+  {
+    "entry_date": "2026-01-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "KLAC",
+    "entry_price": 1400.31,
+    "exit_price": 1398.14,
+    "return": -0.001949656861694837
+  },
+  {
+    "entry_date": "2026-01-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "CW",
+    "entry_price": 622.55,
+    "exit_price": 630.0078,
+    "return": 0.011579439402457715
+  },
+  {
+    "entry_date": "2026-01-14",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "LMT",
+    "entry_price": 571.795,
+    "exit_price": 565.1001,
+    "return": -0.012108566881487136
+  },
+  {
+    "entry_date": "2026-01-16",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 405.22,
+    "exit_price": 398.01,
+    "return": -0.018192803908987854
+  },
+  {
+    "entry_date": "2026-01-21",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 1080.635,
+    "exit_price": 1092.36,
+    "return": 0.010450102023347353
+  },
+  {
+    "entry_date": "2026-01-22",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "GLD",
+    "entry_price": 452.77,
+    "exit_price": 454.39,
+    "return": 0.0031779755725864335
+  },
+  {
+    "entry_date": "2026-01-26",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 411.09,
+    "exit_price": 417.61,
+    "return": 0.015460273905957457
+  },
+  {
+    "entry_date": "2026-01-27",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 1155.96,
+    "exit_price": 1166.0,
+    "return": 0.008285421640887148
+  },
+  {
+    "entry_date": "2026-01-28",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-01-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 716.1401,
+    "exit_price": 703.94,
+    "return": -0.017435912386416997
+  },
+  {
+    "entry_date": "2026-02-02",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 1169.425,
+    "exit_price": 1196.54,
+    "return": 0.022786608803471785
+  },
+  {
+    "entry_date": "2026-02-04",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "ULTA",
+    "entry_price": 681.78,
+    "exit_price": 682.075,
+    "return": 3.2690897357090856e-05
+  },
+  {
+    "entry_date": "2026-02-05",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 1137.03,
+    "exit_price": 1202.0151,
+    "return": 0.056753373261919385
+  },
+  {
+    "entry_date": "2026-02-06",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "MPWR",
+    "entry_price": 1228.4,
+    "exit_price": 1212.82,
+    "return": -0.01308316509280376
+  },
+  {
+    "entry_date": "2026-02-09",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "FIX",
+    "entry_price": 1288.08,
+    "exit_price": 1288.23,
+    "return": -0.0002835476057386096
+  },
+  {
+    "entry_date": "2026-02-10",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "LITE",
+    "entry_price": 561.88,
+    "exit_price": 586.265,
+    "return": 0.04299894639424791
+  },
+  {
+    "entry_date": "2026-02-11",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-12",
+    "settle_checkpoint": "p0935",
+    "symbol": "HCA",
+    "entry_price": 530.32,
+    "exit_price": 535.685,
+    "return": 0.009716533413787599
+  },
+  {
+    "entry_date": "2026-02-12",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "CW",
+    "entry_price": 678.54,
+    "exit_price": 691.5,
+    "return": 0.01869983199221865
+  },
+  {
+    "entry_date": "2026-02-13",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "MDB",
+    "entry_price": 367.48,
+    "exit_price": 358.485,
+    "return": -0.024877522586263235
+  },
+  {
+    "entry_date": "2026-02-17",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "LITE",
+    "entry_price": 600.0,
+    "exit_price": 602.0,
+    "return": 0.00293333333333341
+  },
+  {
+    "entry_date": "2026-02-18",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "CVNA",
+    "entry_price": 362.07,
+    "exit_price": 330.2534,
+    "return": -0.08827416797856762
+  },
+  {
+    "entry_date": "2026-02-19",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 485.395,
+    "exit_price": 486.72,
+    "return": 0.002329735576180392
+  },
+  {
+    "entry_date": "2026-02-20",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "TPL",
+    "entry_price": 505.67,
+    "exit_price": 533.63,
+    "return": 0.05489297763363461
+  },
+  {
+    "entry_date": "2026-02-23",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "LITE",
+    "entry_price": 667.96,
+    "exit_price": 688.2,
+    "return": 0.02990121564165511
+  },
+  {
+    "entry_date": "2026-02-24",
+    "entry_checkpoint": "p1530",
+    "settle_date": "2026-02-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "GEV",
+    "entry_price": 875.78,
+    "exit_price": 884.49,
+    "return": 0.009545420082669188
+  }
+]

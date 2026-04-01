@@ -1,0 +1,1292 @@
+[
+  {
+    "entry_date": "2022-01-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-01-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 6.51,
+    "exit_price": 6.485,
+    "return": -0.004240245775729612
+  },
+  {
+    "entry_date": "2022-01-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-01-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 34.03,
+    "exit_price": 34.3341,
+    "return": 0.008536232735821337
+  },
+  {
+    "entry_date": "2022-01-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-01-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.83,
+    "exit_price": 39.015,
+    "return": 0.004364357455575574
+  },
+  {
+    "entry_date": "2022-01-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-01-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.8,
+    "exit_price": 43.8,
+    "return": 0.04744688995215314
+  },
+  {
+    "entry_date": "2022-01-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-01-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 45.73,
+    "exit_price": 46.21,
+    "return": 0.010096391865296496
+  },
+  {
+    "entry_date": "2022-02-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-02-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.11,
+    "exit_price": 38.239,
+    "return": 0.002984938336394638
+  },
+  {
+    "entry_date": "2022-02-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-02-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.69,
+    "exit_price": 41.71,
+    "return": 7.973135044387936e-05
+  },
+  {
+    "entry_date": "2022-02-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-02-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.91,
+    "exit_price": 42.235,
+    "return": 0.007354712479121961
+  },
+  {
+    "entry_date": "2022-02-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 47.98,
+    "exit_price": 51.28,
+    "return": 0.06837865777407255
+  },
+  {
+    "entry_date": "2022-03-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-03-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 42.67,
+    "exit_price": 42.55,
+    "return": -0.0032122802906024315
+  },
+  {
+    "entry_date": "2022-03-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-03-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 48.98,
+    "exit_price": 48.61,
+    "return": -0.00795410371580234
+  },
+  {
+    "entry_date": "2022-03-11",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-03-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 48.5,
+    "exit_price": 49.5186,
+    "return": 0.020602061855670106
+  },
+  {
+    "entry_date": "2022-03-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-03-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 51.12,
+    "exit_price": 49.83,
+    "return": -0.025634741784037508
+  },
+  {
+    "entry_date": "2022-03-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-03-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 37.75,
+    "exit_price": 37.1799,
+    "return": -0.015501986754966767
+  },
+  {
+    "entry_date": "2022-04-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 33.74,
+    "exit_price": 35.4788,
+    "return": 0.05113526970954348
+  },
+  {
+    "entry_date": "2022-04-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 40.49,
+    "exit_price": 40.03,
+    "return": -0.011760829834527019
+  },
+  {
+    "entry_date": "2022-04-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.85,
+    "exit_price": 41.9514,
+    "return": 0.002022939068100316
+  },
+  {
+    "entry_date": "2022-04-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 45.26,
+    "exit_price": 45.44,
+    "return": 0.003577021652673329
+  },
+  {
+    "entry_date": "2022-04-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 48.43,
+    "exit_price": 47.13,
+    "return": -0.027242865992153576
+  },
+  {
+    "entry_date": "2022-04-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-04-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 48.55,
+    "exit_price": 46.205,
+    "return": -0.04870072090628212
+  },
+  {
+    "entry_date": "2022-04-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-05-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 49.04,
+    "exit_price": 49.79,
+    "return": 0.014893637846655717
+  },
+  {
+    "entry_date": "2022-05-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-05-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 47.85,
+    "exit_price": 50.4201,
+    "return": 0.05331159874608145
+  },
+  {
+    "entry_date": "2022-05-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-05-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 57.38,
+    "exit_price": 57.4601,
+    "return": 0.000995956779365548
+  },
+  {
+    "entry_date": "2022-06-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-06-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 64.49,
+    "exit_price": 63.34,
+    "return": -0.01823222204993007
+  },
+  {
+    "entry_date": "2022-07-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-07-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 52.83,
+    "exit_price": 51.16,
+    "return": -0.03201082718152563
+  },
+  {
+    "entry_date": "2022-07-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-07-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 46.68,
+    "exit_price": 48.2288,
+    "return": 0.03277909168808919
+  },
+  {
+    "entry_date": "2022-08-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 37.72,
+    "exit_price": 38.8,
+    "return": 0.028232025450689324
+  },
+  {
+    "entry_date": "2022-08-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-08-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.94,
+    "exit_price": 42.3899,
+    "return": 0.01032722937529802
+  },
+  {
+    "entry_date": "2022-09-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-09-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 56.18,
+    "exit_price": 55.36,
+    "return": -0.014995941616233565
+  },
+  {
+    "entry_date": "2022-09-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-09-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 57.04,
+    "exit_price": 57.5588,
+    "return": 0.008695371669004094
+  },
+  {
+    "entry_date": "2022-10-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-10-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 52.96,
+    "exit_price": 55.91,
+    "return": 0.055302416918429034
+  },
+  {
+    "entry_date": "2022-10-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-10-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 59.06,
+    "exit_price": 59.86,
+    "return": 0.013145546901456041
+  },
+  {
+    "entry_date": "2022-10-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-10-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 64.36,
+    "exit_price": 58.81,
+    "return": -0.08663368551895582
+  },
+  {
+    "entry_date": "2022-11-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-11-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 46.77,
+    "exit_price": 47.09,
+    "return": 0.006441992730382662
+  },
+  {
+    "entry_date": "2022-12-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 46.64,
+    "exit_price": 46.535,
+    "return": -0.002651286449399759
+  },
+  {
+    "entry_date": "2022-12-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 48.73,
+    "exit_price": 49.01,
+    "return": 0.0053459470552021495
+  },
+  {
+    "entry_date": "2022-12-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2022-12-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 53.65,
+    "exit_price": 55.29,
+    "return": 0.030168499534016745
+  },
+  {
+    "entry_date": "2023-01-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-01-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 47.3535,
+    "exit_price": 48.11,
+    "return": 0.015575587865733277
+  },
+  {
+    "entry_date": "2023-02-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-02-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 32.96,
+    "exit_price": 34.71,
+    "return": 0.05269466019417486
+  },
+  {
+    "entry_date": "2023-02-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-02-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 35.17,
+    "exit_price": 34.065,
+    "return": -0.031818822860392434
+  },
+  {
+    "entry_date": "2023-02-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-02-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 36.14,
+    "exit_price": 36.4701,
+    "return": 0.008733923630326502
+  },
+  {
+    "entry_date": "2023-02-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-02-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.8,
+    "exit_price": 38.6157,
+    "return": -0.005150000000000032
+  },
+  {
+    "entry_date": "2023-03-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 39.37,
+    "exit_price": 40.075,
+    "return": 0.017507035814071824
+  },
+  {
+    "entry_date": "2023-03-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.06,
+    "exit_price": 42.11,
+    "return": 0.025172333170969185
+  },
+  {
+    "entry_date": "2023-03-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 37.43,
+    "exit_price": 38.15,
+    "return": 0.018835907026449394
+  },
+  {
+    "entry_date": "2023-03-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 34.43,
+    "exit_price": 35.1202,
+    "return": 0.019646471100784168
+  },
+  {
+    "entry_date": "2023-03-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-03-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 32.79,
+    "exit_price": 33.04,
+    "return": 0.00722427569380919
+  },
+  {
+    "entry_date": "2023-04-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-04-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 32.65,
+    "exit_price": 31.84,
+    "return": -0.02520857580398155
+  },
+  {
+    "entry_date": "2023-05-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-05-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 25.56,
+    "exit_price": 25.42,
+    "return": -0.00587730829420956
+  },
+  {
+    "entry_date": "2023-07-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-07-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 17.92,
+    "exit_price": 17.33,
+    "return": -0.033324107142857315
+  },
+  {
+    "entry_date": "2023-08-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.19,
+    "exit_price": 18.47,
+    "return": 0.014993073117097256
+  },
+  {
+    "entry_date": "2023-08-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.5599,
+    "exit_price": 18.3399,
+    "return": -0.012253512141767996
+  },
+  {
+    "entry_date": "2023-08-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.14,
+    "exit_price": 19.5201,
+    "return": 0.019458934169278973
+  },
+  {
+    "entry_date": "2023-08-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.47,
+    "exit_price": 19.6575,
+    "return": 0.009230200308166304
+  },
+  {
+    "entry_date": "2023-08-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 20.8,
+    "exit_price": 21.325,
+    "return": 0.02484038461538458
+  },
+  {
+    "entry_date": "2023-08-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-08-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 20.32,
+    "exit_price": 20.049,
+    "return": -0.0137366141732284
+  },
+  {
+    "entry_date": "2023-09-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-09-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.8,
+    "exit_price": 18.775,
+    "return": -0.0017297872340426453
+  },
+  {
+    "entry_date": "2023-09-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-09-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.37,
+    "exit_price": 19.8999,
+    "return": 0.026956737222508974
+  },
+  {
+    "entry_date": "2023-09-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-09-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 21.1,
+    "exit_price": 20.895,
+    "return": -0.010115639810426668
+  },
+  {
+    "entry_date": "2023-09-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 20.44,
+    "exit_price": 20.23,
+    "return": -0.010673972602739766
+  },
+  {
+    "entry_date": "2023-10-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 20.96,
+    "exit_price": 20.632,
+    "return": -0.016048854961831994
+  },
+  {
+    "entry_date": "2023-10-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.58,
+    "exit_price": 18.5658,
+    "return": -0.0011642626480085512
+  },
+  {
+    "entry_date": "2023-10-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.32,
+    "exit_price": 18.8338,
+    "return": -0.0255656314699793
+  },
+  {
+    "entry_date": "2023-10-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.5,
+    "exit_price": 19.43,
+    "return": -0.003989743589743622
+  },
+  {
+    "entry_date": "2023-10-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 20.239,
+    "exit_price": 20.39,
+    "return": 0.007060842927021982
+  },
+  {
+    "entry_date": "2023-10-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-26",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 21.78,
+    "exit_price": 22.055,
+    "return": 0.012226262626262542
+  },
+  {
+    "entry_date": "2023-10-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-10-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 22.68,
+    "exit_price": 22.16,
+    "return": -0.023327689594356205
+  },
+  {
+    "entry_date": "2023-11-09",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-11-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.5,
+    "exit_price": 18.2799,
+    "return": -0.01229729729729727
+  },
+  {
+    "entry_date": "2023-12-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2023-12-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 14.06,
+    "exit_price": 13.655,
+    "return": -0.02920512091038412
+  },
+  {
+    "entry_date": "2024-01-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-01",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 12.79,
+    "exit_price": 12.6005,
+    "return": -0.015216262705238391
+  },
+  {
+    "entry_date": "2024-02-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 11.2599,
+    "exit_price": 11.8501,
+    "return": 0.05201609605769138
+  },
+  {
+    "entry_date": "2024-02-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-02-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 11.81,
+    "exit_price": 11.5997,
+    "return": -0.018206943268416587
+  },
+  {
+    "entry_date": "2024-03-05",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-06",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 11.19,
+    "exit_price": 10.895,
+    "return": -0.026762823949955262
+  },
+  {
+    "entry_date": "2024-03-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 10.92,
+    "exit_price": 11.1601,
+    "return": 0.02158717948717954
+  },
+  {
+    "entry_date": "2024-03-14",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-03-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 10.97,
+    "exit_price": 11.2037,
+    "return": 0.020903555150410157
+  },
+  {
+    "entry_date": "2024-04-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 11.101,
+    "exit_price": 11.0201,
+    "return": -0.007687631744888001
+  },
+  {
+    "entry_date": "2024-04-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-15",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 10.89,
+    "exit_price": 10.745,
+    "return": -0.013714967860422521
+  },
+  {
+    "entry_date": "2024-04-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-04-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 11.47,
+    "exit_price": 11.475,
+    "return": 3.591979075841001e-05
+  },
+  {
+    "entry_date": "2024-05-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-05-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.88,
+    "exit_price": 9.7701,
+    "return": -0.011523481781376676
+  },
+  {
+    "entry_date": "2024-07-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 8.24,
+    "exit_price": 8.232,
+    "return": -0.001370873786407922
+  },
+  {
+    "entry_date": "2024-07-24",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-25",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.06,
+    "exit_price": 9.185,
+    "return": 0.013396909492273635
+  },
+  {
+    "entry_date": "2024-07-30",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-07-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.53,
+    "exit_price": 8.85,
+    "return": -0.07175362014690449
+  },
+  {
+    "entry_date": "2024-08-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-02",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.22,
+    "exit_price": 9.9097,
+    "return": 0.07440477223427329
+  },
+  {
+    "entry_date": "2024-08-02",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-05",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.92,
+    "exit_price": 11.305,
+    "return": 0.13921693548387098
+  },
+  {
+    "entry_date": "2024-08-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 10.83,
+    "exit_price": 10.4,
+    "return": -0.04010452446906736
+  },
+  {
+    "entry_date": "2024-08-22",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-23",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 8.2404,
+    "exit_price": 8.0612,
+    "return": -0.022146517159361157
+  },
+  {
+    "entry_date": "2024-08-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-08-29",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 8.4704,
+    "exit_price": 8.22,
+    "return": -0.029961768039289672
+  },
+  {
+    "entry_date": "2024-09-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 8.93,
+    "exit_price": 9.0817,
+    "return": 0.016587681970884737
+  },
+  {
+    "entry_date": "2024-09-06",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 9.76,
+    "exit_price": 9.4103,
+    "return": -0.0362299180327869
+  },
+  {
+    "entry_date": "2024-09-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-09-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 7.45,
+    "exit_price": 7.4499,
+    "return": -0.00041342281879190834
+  },
+  {
+    "entry_date": "2024-10-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 7.67,
+    "exit_price": 7.575,
+    "return": -0.012785919165580183
+  },
+  {
+    "entry_date": "2024-10-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 7.2702,
+    "exit_price": 7.34,
+    "return": 0.009200836290611037
+  },
+  {
+    "entry_date": "2024-10-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 7.4104,
+    "exit_price": 7.275,
+    "return": -0.01867161826622037
+  },
+  {
+    "entry_date": "2024-10-25",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-10-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 7.1,
+    "exit_price": 7.01,
+    "return": -0.013076056338028151
+  },
+  {
+    "entry_date": "2024-11-15",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-11-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 34.99,
+    "exit_price": 34.8899,
+    "return": -0.003260817376393432
+  },
+  {
+    "entry_date": "2024-12-18",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-19",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 31.18,
+    "exit_price": 30.3499,
+    "return": -0.0270228351507376
+  },
+  {
+    "entry_date": "2024-12-19",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-20",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 31.54,
+    "exit_price": 32.315,
+    "return": 0.024171972098921923
+  },
+  {
+    "entry_date": "2024-12-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2024-12-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 29.08,
+    "exit_price": 30.54,
+    "return": 0.04980632737276487
+  },
+  {
+    "entry_date": "2025-01-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-01-08",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 30.3199,
+    "exit_price": 30.384,
+    "return": 0.0017141230676882117
+  },
+  {
+    "entry_date": "2025-01-31",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-03",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 29.01,
+    "exit_price": 30.3538,
+    "return": 0.045921957945536065
+  },
+  {
+    "entry_date": "2025-02-07",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-10",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 28.8801,
+    "exit_price": 28.23,
+    "return": -0.022910309867348034
+  },
+  {
+    "entry_date": "2025-02-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 28.4,
+    "exit_price": 28.28,
+    "return": -0.00462535211267594
+  },
+  {
+    "entry_date": "2025-02-27",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-02-28",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 33.02,
+    "exit_price": 33.3,
+    "return": 0.008079709267110725
+  },
+  {
+    "entry_date": "2025-03-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 33.35,
+    "exit_price": 34.21,
+    "return": 0.025387106446776508
+  },
+  {
+    "entry_date": "2025-03-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.47,
+    "exit_price": 38.6,
+    "return": 0.0029792565635559766
+  },
+  {
+    "entry_date": "2025-03-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 39.42,
+    "exit_price": 37.61,
+    "return": -0.0463157787924912
+  },
+  {
+    "entry_date": "2025-03-26",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-27",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 34.86,
+    "exit_price": 35.505,
+    "return": 0.018102581755593938
+  },
+  {
+    "entry_date": "2025-03-28",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-03-31",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.38,
+    "exit_price": 40.7515,
+    "return": 0.06138999478895242
+  },
+  {
+    "entry_date": "2025-04-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 42.5,
+    "exit_price": 46.35,
+    "return": 0.09018823529411764
+  },
+  {
+    "entry_date": "2025-04-04",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-07",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 50.27,
+    "exit_price": 56.2,
+    "return": 0.11756299980107428
+  },
+  {
+    "entry_date": "2025-04-08",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-09",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 52.94,
+    "exit_price": 52.2489,
+    "return": -0.013454401208915766
+  },
+  {
+    "entry_date": "2025-04-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-11",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.37,
+    "exit_price": 38.5903,
+    "return": 0.005341464685952602
+  },
+  {
+    "entry_date": "2025-04-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 38.5497,
+    "exit_price": 38.34,
+    "return": -0.005839731048490604
+  },
+  {
+    "entry_date": "2025-04-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-04-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 41.48,
+    "exit_price": 40.131,
+    "return": -0.03292169720347142
+  },
+  {
+    "entry_date": "2025-05-21",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-05-22",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 24.57,
+    "exit_price": 24.47,
+    "return": -0.00447000407000413
+  },
+  {
+    "entry_date": "2025-06-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-16",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 22.73,
+    "exit_price": 22.1674,
+    "return": -0.025151429828420602
+  },
+  {
+    "entry_date": "2025-06-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-06-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 22.43,
+    "exit_price": 22.5001,
+    "return": 0.002725278644672269
+  },
+  {
+    "entry_date": "2025-07-29",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-07-30",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 18.17,
+    "exit_price": 18.075,
+    "return": -0.0056283984589984735
+  },
+  {
+    "entry_date": "2025-08-01",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-08-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 19.53,
+    "exit_price": 18.86,
+    "return": -0.03470619559651826
+  },
+  {
+    "entry_date": "2025-10-10",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 16.03,
+    "exit_price": 15.4,
+    "return": -0.03970131004366821
+  },
+  {
+    "entry_date": "2025-10-16",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-10-17",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 15.16,
+    "exit_price": 15.2691,
+    "return": 0.0067965699208442755
+  },
+  {
+    "entry_date": "2025-11-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 14.4275,
+    "exit_price": 15.1399,
+    "return": 0.04897792410327502
+  },
+  {
+    "entry_date": "2025-11-17",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-18",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 14.8,
+    "exit_price": 15.12,
+    "return": 0.021221621621621622
+  },
+  {
+    "entry_date": "2025-11-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2025-11-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 80.92,
+    "exit_price": 80.2301,
+    "return": -0.008925704399406919
+  },
+  {
+    "entry_date": "2026-01-13",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-14",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 64.76,
+    "exit_price": 66.05,
+    "return": 0.019519703520691722
+  },
+  {
+    "entry_date": "2026-01-20",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-01-21",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 70.69,
+    "exit_price": 70.649,
+    "return": -0.0009799971707454165
+  },
+  {
+    "entry_date": "2026-02-03",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-04",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 67.84,
+    "exit_price": 68.78,
+    "return": 0.013456132075471762
+  },
+  {
+    "entry_date": "2026-02-12",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-13",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 73.18,
+    "exit_price": 73.38,
+    "return": 0.0023329871549601757
+  },
+  {
+    "entry_date": "2026-02-23",
+    "entry_checkpoint": "p1600",
+    "settle_date": "2026-02-24",
+    "settle_checkpoint": "p0935",
+    "symbol": "SQQQ",
+    "entry_price": 72.94,
+    "exit_price": 73.25,
+    "return": 0.0038500685494928357
+  }
+]

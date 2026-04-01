@@ -1,0 +1,11 @@
+{
+  "leg": "single_1030_1600",
+  "train_sharpe": 1.01,
+  "test_sharpe": 1.691,
+  "total_return_pct": 272.1,
+  "max_drawdown_pct": 21.08,
+  "win_rate_pct": 56.2,
+  "n_trades": 614,
+  "n_wins": 345,
+  "n_losses": 269
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2022-11-25",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_silver"
+  },
+  {
+    "date": "2023-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2023-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2023-11-24",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_silver"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2024-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "GLD",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "GLD",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2024-11-29",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_silver"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2025-07-03",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_silver"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_all5"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema20"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_ema10"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  },
+  {
+    "date": "2025-11-28",
+    "symbol": "SIL",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_silver"
+  },
+  {
+    "date": "2025-12-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_only"
+  },
+  {
+    "date": "2025-12-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best2_all5"
+  },
+  {
+    "date": "2025-12-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "best1_gold3"
+  },
+  {
+    "date": "2025-12-24",
+    "symbol": "NUGT",
+    "target": "16:00",
+    "resolution": "skipped",
+    "config": "nugt_ema10"
+  }
+]

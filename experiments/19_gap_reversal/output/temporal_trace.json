@@ -1,0 +1,23 @@
+{
+  "trace_date": "2024-01-25",
+  "items": [
+    {
+      "access": "prev_p1530 (gap denominator)",
+      "available_at": "2024-01-24 15:30:00-05:00",
+      "used_at": "2024-01-25 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (gap + entry price)",
+      "available_at": "2024-01-25 09:35:00-05:00",
+      "used_at": "2024-01-25 15:30:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (exit + next gap denom)",
+      "available_at": "2024-01-25 15:30:00-05:00",
+      "used_at": "2024-01-26 09:35:00-05:00",
+      "causal": true
+    }
+  ]
+}

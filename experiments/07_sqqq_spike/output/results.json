@@ -1,0 +1,11 @@
+{
+  "leg": "sqqq_spike",
+  "train_sharpe": 0.495,
+  "test_sharpe": 1.177,
+  "total_return_pct": 55.9,
+  "max_drawdown_pct": 16.56,
+  "win_rate_pct": 52.7,
+  "n_trades": 129,
+  "n_wins": 68,
+  "n_losses": 61
+}

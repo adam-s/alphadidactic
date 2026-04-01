@@ -1,0 +1,23 @@
+{
+  "trace_date": "2024-06-04",
+  "items": [
+    {
+      "access": "p0935 (GLD/GDX/NUGT for EMA)",
+      "available_at": "2024-06-04 09:35:00-04:00",
+      "used_at": "2024-06-04 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p1030 (NUGT entry)",
+      "available_at": "2024-06-04 10:30:00-04:00",
+      "signal_computed_at": "2024-06-04 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p1600 (NUGT exit)",
+      "available_at": "2024-06-04 16:00:00-04:00",
+      "entry_at": "2024-06-04 10:30:00-04:00",
+      "causal": true
+    }
+  ]
+}

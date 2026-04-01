@@ -1,0 +1,11 @@
+{
+  "leg": "gold_overnight",
+  "train_sharpe": 1.373,
+  "test_sharpe": 0.692,
+  "total_return_pct": 27.8,
+  "max_drawdown_pct": 8.1,
+  "win_rate_pct": 62.9,
+  "n_trades": 210,
+  "n_wins": 132,
+  "n_losses": 78
+}

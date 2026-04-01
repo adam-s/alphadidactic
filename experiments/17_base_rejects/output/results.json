@@ -1,0 +1,11 @@
+{
+  "leg": "reject_gate50",
+  "train_sharpe": 1.597,
+  "test_sharpe": 1.835,
+  "total_return_pct": 496.4,
+  "max_drawdown_pct": 16.82,
+  "win_rate_pct": 56.2,
+  "n_trades": 316,
+  "n_wins": 176,
+  "n_losses": 137
+}

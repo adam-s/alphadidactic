@@ -1,0 +1,11 @@
+{
+  "leg": "ensemble",
+  "train_sharpe": 0.359,
+  "test_sharpe": 1.795,
+  "total_return_pct": 42.0,
+  "max_drawdown_pct": 20.88,
+  "win_rate_pct": 59.4,
+  "n_trades": 30,
+  "n_wins": 22,
+  "n_losses": 8
+}

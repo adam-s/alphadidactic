@@ -1,0 +1,11 @@
+{
+  "leg": "fixed_0935",
+  "train_sharpe": 1.406,
+  "test_sharpe": 2.006,
+  "total_return_pct": 350.2,
+  "max_drawdown_pct": 16.13,
+  "win_rate_pct": 56.9,
+  "n_trades": 211,
+  "n_wins": 119,
+  "n_losses": 90
+}

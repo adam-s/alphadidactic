@@ -1,0 +1,11 @@
+{
+  "leg": "gold_priority",
+  "train_sharpe": 1.85,
+  "test_sharpe": 3.109,
+  "total_return_pct": 2185.5,
+  "max_drawdown_pct": 17.93,
+  "win_rate_pct": 67.5,
+  "n_trades": 2001,
+  "n_wins": 701,
+  "n_losses": 338
+}

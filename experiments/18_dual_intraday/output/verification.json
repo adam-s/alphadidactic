@@ -1,0 +1,42 @@
+[
+  {
+    "check": "Check 1",
+    "status": "PASS",
+    "detail": "5 dates \u00d7 5 symbols \u00d7 3 checkpoints \u2014 all match"
+  },
+  {
+    "check": "Check 2",
+    "status": "PASS",
+    "detail": "DST offsets: [-5.0, -4.0]"
+  },
+  {
+    "check": "Check 3",
+    "status": "PASS",
+    "detail": "Trace 2024-05-29 \u2014 all 4 accesses causal"
+  },
+  {
+    "check": "Check 4",
+    "status": "PASS",
+    "detail": "2024-01-29 NUGT: p1030=27.88 p1600=28.74 ret=0.030446 (raw DB verified)"
+  },
+  {
+    "check": "Check 5",
+    "status": "PASS",
+    "detail": "Train=1.010 Test=1.691 Full=1.234"
+  },
+  {
+    "check": "Check 6",
+    "status": "PASS",
+    "detail": "25 dates, max_delta=4.37e-11"
+  },
+  {
+    "check": "Check 7",
+    "status": "PASS",
+    "detail": "Train: signal=0.001926 vs SPY_BH=0.000332 spread=0.001593 | Test: signal=0.003300 vs SPY_BH=0.000632 spread=0.002668"
+  },
+  {
+    "check": "Check 8",
+    "status": "PASS",
+    "detail": "5 symbols all 900+ days"
+  }
+]

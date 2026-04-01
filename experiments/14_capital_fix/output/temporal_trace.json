@@ -1,0 +1,47 @@
+{
+  "trace_date": "2024-01-29",
+  "items": [
+    {
+      "access": "prev_p1600 (accumulator + gold EMA)",
+      "available_at": "2024-01-26 16:00:00-05:00",
+      "used_at": "2024-01-29 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (settle + iret denom)",
+      "available_at": "2024-01-29 09:35:00-05:00",
+      "used_at": "2024-01-29 15:30:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1030 (gold ID entry)",
+      "available_at": "2024-01-29 10:30:00-05:00",
+      "used_at": "2024-01-29 16:00:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (base signal + VXX spike)",
+      "available_at": "2024-01-29 15:30:00-05:00",
+      "used_at": "2024-01-29 15:30:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "p1600 (gold settle + ON entries)",
+      "available_at": "2024-01-29 16:00:00-05:00",
+      "used_at": "2024-01-30 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "FRED panel (regime HMM)",
+      "available_at": "2024-01-26 18:00:00-05:00",
+      "used_at": "2024-01-29 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "settlement (next day p0935)",
+      "available_at": "2024-01-30 09:35:00-05:00",
+      "decision_at": "2024-01-29 16:00:00-05:00",
+      "causal": true
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "leg": "base_overnight",
+  "train_sh": 1.633,
+  "test_sh": 3.251,
+  "ret": 261.0,
+  "dd": 8.92,
+  "wr": 58.0,
+  "n_trades": 1722,
+  "n_wins": 929,
+  "n_losses": 788
+}

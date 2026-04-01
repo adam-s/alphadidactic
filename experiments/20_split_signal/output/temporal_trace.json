@@ -1,0 +1,17 @@
+{
+  "trace_date": "2024-02-23",
+  "items": [
+    {
+      "access": "split detection (price jump on prior date)",
+      "available_at": "2024-02-22 16:00:00-05:00",
+      "used_at": "2024-02-23 09:35:00-05:00",
+      "causal": true
+    },
+    {
+      "access": "GLD p1530 (daily return)",
+      "available_at": "2024-02-23 15:30:00-05:00",
+      "used_at": "2024-02-26 09:35:00-05:00",
+      "causal": true
+    }
+  ]
+}

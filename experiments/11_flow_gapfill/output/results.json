@@ -1,0 +1,11 @@
+{
+  "leg": "flow_gapfill",
+  "train_sharpe": 1.059,
+  "test_sharpe": 0.449,
+  "total_return_pct": 41.0,
+  "max_drawdown_pct": 16.71,
+  "win_rate_pct": 51.8,
+  "n_trades": 1390,
+  "n_wins": 744,
+  "n_losses": 644
+}

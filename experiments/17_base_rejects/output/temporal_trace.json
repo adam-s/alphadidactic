@@ -1,0 +1,29 @@
+{
+  "trace_date": "2024-09-10",
+  "items": [
+    {
+      "access": "prev_p1530 (accumulator)",
+      "available_at": "2024-09-09 15:30:00-04:00",
+      "used_at": "2024-09-10 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p0935 (settle + iret denom)",
+      "available_at": "2024-09-10 09:35:00-04:00",
+      "used_at": "2024-09-10 15:30:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "p1530 (entry price)",
+      "available_at": "2024-09-10 15:30:00-04:00",
+      "used_at": "2024-09-11 09:35:00-04:00",
+      "causal": true
+    },
+    {
+      "access": "FRED panel (regime)",
+      "available_at": "2024-09-09 18:00:00-04:00",
+      "used_at": "2024-09-10 09:35:00-04:00",
+      "causal": true
+    }
+  ]
+}

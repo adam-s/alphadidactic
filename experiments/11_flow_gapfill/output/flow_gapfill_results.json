@@ -1,0 +1,11 @@
+{
+  "leg": "flow_gapfill",
+  "train_sh": 1.07,
+  "test_sh": 0.526,
+  "ret": 42.8,
+  "dd": 16.66,
+  "wr": 51.7,
+  "n_trades": 1345,
+  "n_wins": 719,
+  "n_losses": 624
+}

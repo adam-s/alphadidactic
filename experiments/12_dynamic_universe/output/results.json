@@ -1,0 +1,11 @@
+{
+  "leg": "dynamic_universe_top100",
+  "train_sharpe": 1.709,
+  "test_sharpe": 1.454,
+  "total_return_pct": 378.3,
+  "max_drawdown_pct": 13.67,
+  "win_rate_pct": 57.2,
+  "n_trades": 418,
+  "n_wins": 239,
+  "n_losses": 179
+}

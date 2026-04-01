@@ -1,0 +1,7492 @@
+[
+  {
+    "entry_date": "2022-01-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.3501,
+    "exit_price": 46.27,
+    "return": 0.04288964308986905
+  },
+  {
+    "entry_date": "2022-01-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.67,
+    "exit_price": 48.27,
+    "return": 0.033883265481037
+  },
+  {
+    "entry_date": "2022-01-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.44,
+    "exit_price": 49.93,
+    "return": 0.030359702725020598
+  },
+  {
+    "entry_date": "2022-01-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.06,
+    "exit_price": 48.48,
+    "return": -0.012222258459029843
+  },
+  {
+    "entry_date": "2022-01-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.82,
+    "exit_price": 47.59,
+    "return": -0.005209703053115788
+  },
+  {
+    "entry_date": "2022-01-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.44,
+    "exit_price": 46.44,
+    "return": -0.021479258010118008
+  },
+  {
+    "entry_date": "2022-01-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.963,
+    "exit_price": 53.05,
+    "return": 0.061385721433861076
+  },
+  {
+    "entry_date": "2022-01-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.7,
+    "exit_price": 51.69,
+    "return": -0.037830167597765404
+  },
+  {
+    "entry_date": "2022-01-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.11,
+    "exit_price": 49.48,
+    "return": -0.032291997652122914
+  },
+  {
+    "entry_date": "2022-01-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.1,
+    "exit_price": 48.63,
+    "return": 0.05448069414316699
+  },
+  {
+    "entry_date": "2022-01-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.92,
+    "exit_price": 49.41,
+    "return": 0.030693489148580787
+  },
+  {
+    "entry_date": "2022-01-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.835,
+    "exit_price": 46.3,
+    "return": -0.052309491143647066
+  },
+  {
+    "entry_date": "2022-01-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.5495,
+    "exit_price": 43.52,
+    "return": -0.023509125803881026
+  },
+  {
+    "entry_date": "2022-01-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.595,
+    "exit_price": 42.27,
+    "return": 0.01582791200865503
+  },
+  {
+    "entry_date": "2022-01-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-01-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.51,
+    "exit_price": 44.91,
+    "return": 0.03177651114686282
+  },
+  {
+    "entry_date": "2022-02-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.16,
+    "exit_price": 45.65,
+    "return": 0.0104503100088575
+  },
+  {
+    "entry_date": "2022-02-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.04,
+    "exit_price": 46.12,
+    "return": 0.0013376194613378804
+  },
+  {
+    "entry_date": "2022-02-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.24,
+    "exit_price": 45.04,
+    "return": -0.004820866489832087
+  },
+  {
+    "entry_date": "2022-02-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.05,
+    "exit_price": 45.36,
+    "return": 0.006481243063262987
+  },
+  {
+    "entry_date": "2022-02-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.39,
+    "exit_price": 48.12,
+    "return": 0.03689251993964211
+  },
+  {
+    "entry_date": "2022-02-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.34,
+    "exit_price": 49.09,
+    "return": 0.015115101365328966
+  },
+  {
+    "entry_date": "2022-02-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.645,
+    "exit_price": 49.07,
+    "return": -0.011982233860408907
+  },
+  {
+    "entry_date": "2022-02-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.0,
+    "exit_price": 46.19,
+    "return": -0.05774693877551022
+  },
+  {
+    "entry_date": "2022-02-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.88,
+    "exit_price": 51.32,
+    "return": 0.04951816693944351
+  },
+  {
+    "entry_date": "2022-02-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.78,
+    "exit_price": 53.44,
+    "return": 0.012104736642667603
+  },
+  {
+    "entry_date": "2022-02-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.57,
+    "exit_price": 54.82,
+    "return": 0.022933955572148567
+  },
+  {
+    "entry_date": "2022-02-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 57.0,
+    "exit_price": 58.92,
+    "return": 0.03328421052631576
+  },
+  {
+    "entry_date": "2022-02-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.48,
+    "exit_price": 58.05,
+    "return": -0.007752941176470562
+  },
+  {
+    "entry_date": "2022-02-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 57.36,
+    "exit_price": 56.73,
+    "return": -0.011383263598326353
+  },
+  {
+    "entry_date": "2022-02-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.4795,
+    "exit_price": 58.69,
+    "return": 0.00319955197975359
+  },
+  {
+    "entry_date": "2022-02-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.0,
+    "exit_price": 56.46,
+    "return": -0.026951724137931055
+  },
+  {
+    "entry_date": "2022-02-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 56.02,
+    "exit_price": 57.46,
+    "return": 0.02530510531952874
+  },
+  {
+    "entry_date": "2022-02-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-02-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.48,
+    "exit_price": 57.42,
+    "return": -0.018525854993159997
+  },
+  {
+    "entry_date": "2022-03-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 60.64,
+    "exit_price": 62.38,
+    "return": 0.028293931398416915
+  },
+  {
+    "entry_date": "2022-03-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 61.45,
+    "exit_price": 61.84,
+    "return": 0.005946623270951923
+  },
+  {
+    "entry_date": "2022-03-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 61.5905,
+    "exit_price": 62.9,
+    "return": 0.020861395832149476
+  },
+  {
+    "entry_date": "2022-03-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 65.15,
+    "exit_price": 67.75,
+    "return": 0.03950790483499618
+  },
+  {
+    "entry_date": "2022-03-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 70.5191,
+    "exit_price": 71.17,
+    "return": 0.008830123470095331
+  },
+  {
+    "entry_date": "2022-03-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 76.95,
+    "exit_price": 72.29,
+    "return": -0.06095880441845351
+  },
+  {
+    "entry_date": "2022-03-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 68.305,
+    "exit_price": 70.36,
+    "return": 0.029685645267549753
+  },
+  {
+    "entry_date": "2022-03-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 72.66,
+    "exit_price": 73.24,
+    "return": 0.007582383704927098
+  },
+  {
+    "entry_date": "2022-03-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-03-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 70.06,
+    "exit_price": 70.86,
+    "return": 0.011018783899514563
+  },
+  {
+    "entry_date": "2022-04-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 74.66,
+    "exit_price": 74.64,
+    "return": -0.0006678810608089943
+  },
+  {
+    "entry_date": "2022-04-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 75.44,
+    "exit_price": 75.81,
+    "return": 0.004504559915164475
+  },
+  {
+    "entry_date": "2022-04-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 77.09,
+    "exit_price": 79.27,
+    "return": 0.027878635361265846
+  },
+  {
+    "entry_date": "2022-04-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.1,
+    "exit_price": 79.82,
+    "return": 0.021623047375160142
+  },
+  {
+    "entry_date": "2022-04-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 81.9632,
+    "exit_price": 79.8675,
+    "return": -0.025968791848048834
+  },
+  {
+    "entry_date": "2022-04-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 77.05,
+    "exit_price": 75.1839,
+    "return": -0.024619338092148047
+  },
+  {
+    "entry_date": "2022-04-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 75.27,
+    "exit_price": 76.97,
+    "return": 0.022185359372924162
+  },
+  {
+    "entry_date": "2022-04-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-04-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 71.8509,
+    "exit_price": 69.23,
+    "return": -0.03687692652423273
+  },
+  {
+    "entry_date": "2022-05-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-05-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.57,
+    "exit_price": 50.1,
+    "return": 0.010291950776679394
+  },
+  {
+    "entry_date": "2022-06-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.0308,
+    "exit_price": 47.7399,
+    "return": 0.01467735356404738
+  },
+  {
+    "entry_date": "2022-06-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.1306,
+    "exit_price": 51.89,
+    "return": 0.014452162892670995
+  },
+  {
+    "entry_date": "2022-06-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.3,
+    "exit_price": 49.45,
+    "return": -0.017298608349900536
+  },
+  {
+    "entry_date": "2022-06-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.52,
+    "exit_price": 48.41,
+    "return": -0.0026671063478979516
+  },
+  {
+    "entry_date": "2022-06-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.76,
+    "exit_price": 49.34,
+    "return": 0.011494995898277472
+  },
+  {
+    "entry_date": "2022-06-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.855,
+    "exit_price": 48.67,
+    "return": -0.004186715791628148
+  },
+  {
+    "entry_date": "2022-06-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-06-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.03,
+    "exit_price": 44.92,
+    "return": -0.024514707799261393
+  },
+  {
+    "entry_date": "2022-07-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-07-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.09,
+    "exit_price": 30.52,
+    "return": 0.01389046194749084
+  },
+  {
+    "entry_date": "2022-07-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-07-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.35,
+    "exit_price": 31.18,
+    "return": 0.026947611202635845
+  },
+  {
+    "entry_date": "2022-08-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.67,
+    "exit_price": 31.11,
+    "return": 0.013946266710140166
+  },
+  {
+    "entry_date": "2022-08-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.42,
+    "exit_price": 30.41,
+    "return": -0.062398766193707586
+  },
+  {
+    "entry_date": "2022-08-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.24,
+    "exit_price": 29.41,
+    "return": 0.005413953488372103
+  },
+  {
+    "entry_date": "2022-08-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.39,
+    "exit_price": 31.49,
+    "return": 0.002785727938833871
+  },
+  {
+    "entry_date": "2022-08-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.42,
+    "exit_price": 31.18,
+    "return": 0.024583563445101885
+  },
+  {
+    "entry_date": "2022-08-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.0,
+    "exit_price": 32.81,
+    "return": -0.006157575757575739
+  },
+  {
+    "entry_date": "2022-08-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.16,
+    "exit_price": 32.66,
+    "return": 0.015147263681592095
+  },
+  {
+    "entry_date": "2022-08-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.35,
+    "exit_price": 33.12,
+    "return": -0.007296551724138056
+  },
+  {
+    "entry_date": "2022-08-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.1293,
+    "exit_price": 31.92,
+    "return": -0.036902431382492204
+  },
+  {
+    "entry_date": "2022-08-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.69,
+    "exit_price": 33.36,
+    "return": 0.020095564392780662
+  },
+  {
+    "entry_date": "2022-08-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.32,
+    "exit_price": 31.91,
+    "return": 0.01843780332056184
+  },
+  {
+    "entry_date": "2022-08-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.6,
+    "exit_price": 32.08,
+    "return": 0.014789873417721379
+  },
+  {
+    "entry_date": "2022-08-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.54,
+    "exit_price": 29.76,
+    "return": -0.025940275049115825
+  },
+  {
+    "entry_date": "2022-08-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.1,
+    "exit_price": 29.88,
+    "return": -0.0077089700996678
+  },
+  {
+    "entry_date": "2022-08-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.1,
+    "exit_price": 28.6,
+    "return": -0.01758213058419249
+  },
+  {
+    "entry_date": "2022-08-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.97,
+    "exit_price": 29.56,
+    "return": -0.014080347013680371
+  },
+  {
+    "entry_date": "2022-08-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.2099,
+    "exit_price": 30.57,
+    "return": 0.011519933531723049
+  },
+  {
+    "entry_date": "2022-08-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-08-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.435,
+    "exit_price": 27.04,
+    "return": -0.014797667213413511
+  },
+  {
+    "entry_date": "2022-10-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-10-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.41,
+    "exit_price": 28.81,
+    "return": 0.013679549454417473
+  },
+  {
+    "entry_date": "2022-11-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 25.395,
+    "exit_price": 26.21,
+    "return": 0.03169293167946448
+  },
+  {
+    "entry_date": "2022-11-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 25.84,
+    "exit_price": 26.64,
+    "return": 0.03055975232198156
+  },
+  {
+    "entry_date": "2022-11-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.05,
+    "exit_price": 29.82,
+    "return": 0.02610602409638547
+  },
+  {
+    "entry_date": "2022-11-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.8088,
+    "exit_price": 28.92,
+    "return": -0.03021669842462631
+  },
+  {
+    "entry_date": "2022-11-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.5453,
+    "exit_price": 33.25,
+    "return": 0.021252896117104524
+  },
+  {
+    "entry_date": "2022-11-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.24,
+    "exit_price": 33.46,
+    "return": 0.006218531889289958
+  },
+  {
+    "entry_date": "2022-11-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.16,
+    "exit_price": 33.05,
+    "return": -0.0037172496984318347
+  },
+  {
+    "entry_date": "2022-11-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.8792,
+    "exit_price": 32.38,
+    "return": -0.015582851164261767
+  },
+  {
+    "entry_date": "2022-11-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.29,
+    "exit_price": 31.67,
+    "return": -0.019600991018891168
+  },
+  {
+    "entry_date": "2022-11-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.935,
+    "exit_price": 30.68,
+    "return": -0.008643090350735337
+  },
+  {
+    "entry_date": "2022-11-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.85,
+    "exit_price": 31.22,
+    "return": 0.011593517017828027
+  },
+  {
+    "entry_date": "2022-11-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.51,
+    "exit_price": 30.81,
+    "return": 0.009432841691248762
+  },
+  {
+    "entry_date": "2022-11-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.0,
+    "exit_price": 33.18,
+    "return": 0.0050545454545453785
+  },
+  {
+    "entry_date": "2022-11-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.78,
+    "exit_price": 34.26,
+    "return": 0.044749481391091986
+  },
+  {
+    "entry_date": "2022-11-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.7163,
+    "exit_price": 33.77,
+    "return": 0.0011927014530066064
+  },
+  {
+    "entry_date": "2022-11-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.855,
+    "exit_price": 30.93,
+    "return": -0.05899077765941245
+  },
+  {
+    "entry_date": "2022-11-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.0147,
+    "exit_price": 32.8,
+    "return": -0.006903163742211826
+  },
+  {
+    "entry_date": "2022-11-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-11-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.07,
+    "exit_price": 34.91,
+    "return": 0.05523955246446928
+  },
+  {
+    "entry_date": "2022-12-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.05,
+    "exit_price": 37.31,
+    "return": 0.034551456310679865
+  },
+  {
+    "entry_date": "2022-12-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.52,
+    "exit_price": 36.99,
+    "return": 0.04098513513513509
+  },
+  {
+    "entry_date": "2022-12-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.32,
+    "exit_price": 34.36,
+    "return": -0.027580067950169918
+  },
+  {
+    "entry_date": "2022-12-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.79,
+    "exit_price": 34.4,
+    "return": -0.011610117849956846
+  },
+  {
+    "entry_date": "2022-12-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.0,
+    "exit_price": 35.65,
+    "return": -0.010122222222222298
+  },
+  {
+    "entry_date": "2022-12-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.06,
+    "exit_price": 35.75,
+    "return": -0.008996783139212526
+  },
+  {
+    "entry_date": "2022-12-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.975,
+    "exit_price": 34.82,
+    "return": -0.03250562890896462
+  },
+  {
+    "entry_date": "2022-12-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.53,
+    "exit_price": 34.52,
+    "return": 0.029125797793021223
+  },
+  {
+    "entry_date": "2022-12-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.075,
+    "exit_price": 36.47,
+    "return": 0.010549410949410821
+  },
+  {
+    "entry_date": "2022-12-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.17,
+    "exit_price": 36.2,
+    "return": 0.00042941664362734533
+  },
+  {
+    "entry_date": "2022-12-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.87,
+    "exit_price": 33.03,
+    "return": -0.025200708591673938
+  },
+  {
+    "entry_date": "2022-12-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.55,
+    "exit_price": 33.5,
+    "return": -0.001890312965722662
+  },
+  {
+    "entry_date": "2022-12-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.49,
+    "exit_price": 32.49,
+    "return": -0.030259659599880574
+  },
+  {
+    "entry_date": "2022-12-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.83,
+    "exit_price": 34.74,
+    "return": -0.0029839793281652314
+  },
+  {
+    "entry_date": "2022-12-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.69,
+    "exit_price": 35.52,
+    "return": -0.005163239002521513
+  },
+  {
+    "entry_date": "2022-12-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.87,
+    "exit_price": 35.12,
+    "return": 0.0365058163566578
+  },
+  {
+    "entry_date": "2022-12-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.0637,
+    "exit_price": 35.02,
+    "return": -0.0016463031568258342
+  },
+  {
+    "entry_date": "2022-12-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.2399,
+    "exit_price": 36.74,
+    "return": -0.013823773962873086
+  },
+  {
+    "entry_date": "2022-12-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.92,
+    "exit_price": 34.59,
+    "return": -0.009850171821305808
+  },
+  {
+    "entry_date": "2022-12-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.19,
+    "exit_price": 34.89,
+    "return": -0.008925149190110714
+  },
+  {
+    "entry_date": "2022-12-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2022-12-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.12,
+    "exit_price": 34.44,
+    "return": 0.008978663540445587
+  },
+  {
+    "entry_date": "2023-01-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.24,
+    "exit_price": 36.76,
+    "return": 0.013948785871964643
+  },
+  {
+    "entry_date": "2023-01-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.05,
+    "exit_price": 39.88,
+    "return": 0.02085480153649173
+  },
+  {
+    "entry_date": "2023-01-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.835,
+    "exit_price": 39.24,
+    "return": 0.03673492797674123
+  },
+  {
+    "entry_date": "2023-01-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.132,
+    "exit_price": 41.32,
+    "return": 0.0041706505883498226
+  },
+  {
+    "entry_date": "2023-01-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.61,
+    "exit_price": 40.81,
+    "return": -0.019626147560682417
+  },
+  {
+    "entry_date": "2023-01-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.16,
+    "exit_price": 42.2469,
+    "return": 0.026006705539358643
+  },
+  {
+    "entry_date": "2023-01-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.22,
+    "exit_price": 41.54,
+    "return": 0.007363221737020931
+  },
+  {
+    "entry_date": "2023-01-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.89,
+    "exit_price": 43.07,
+    "return": 0.027769014084507004
+  },
+  {
+    "entry_date": "2023-01-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.99,
+    "exit_price": 44.26,
+    "return": 0.005737758581495678
+  },
+  {
+    "entry_date": "2023-01-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.25,
+    "exit_price": 41.286,
+    "return": -0.023216568047337228
+  },
+  {
+    "entry_date": "2023-01-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.9,
+    "exit_price": 40.46,
+    "return": -0.034767541766109675
+  },
+  {
+    "entry_date": "2023-01-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.3,
+    "exit_price": 42.49,
+    "return": 0.004091725768321686
+  },
+  {
+    "entry_date": "2023-01-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.74,
+    "exit_price": 43.6,
+    "return": 0.019721665886757122
+  },
+  {
+    "entry_date": "2023-01-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.13,
+    "exit_price": 43.52,
+    "return": 0.03259311654403048
+  },
+  {
+    "entry_date": "2023-01-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.42,
+    "exit_price": 44.5,
+    "return": 0.024473330262551673
+  },
+  {
+    "entry_date": "2023-01-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.27,
+    "exit_price": 45.79,
+    "return": 0.03393476394849766
+  },
+  {
+    "entry_date": "2023-01-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.27,
+    "exit_price": 44.3501,
+    "return": 0.001409351705443829
+  },
+  {
+    "entry_date": "2023-01-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.3,
+    "exit_price": 43.21,
+    "return": -0.002478521939953726
+  },
+  {
+    "entry_date": "2023-01-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.2899,
+    "exit_price": 42.0,
+    "return": -0.030196788627370453
+  },
+  {
+    "entry_date": "2023-01-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-01-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.37,
+    "exit_price": 42.33,
+    "return": 0.022805221174764422
+  },
+  {
+    "entry_date": "2023-02-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-02-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.31,
+    "exit_price": 44.32,
+    "return": 0.047106499645473934
+  },
+  {
+    "entry_date": "2023-02-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-02-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.02,
+    "exit_price": 41.51,
+    "return": -0.012537077582103916
+  },
+  {
+    "entry_date": "2023-02-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-02-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.8,
+    "exit_price": 36.41,
+    "return": -0.03717248677248679
+  },
+  {
+    "entry_date": "2023-02-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-02-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.3,
+    "exit_price": 36.06,
+    "return": -0.007011570247933796
+  },
+  {
+    "entry_date": "2023-03-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.5,
+    "exit_price": 30.09,
+    "return": -0.04516190476190478
+  },
+  {
+    "entry_date": "2023-03-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.9,
+    "exit_price": 34.23,
+    "return": 0.009334513274336277
+  },
+  {
+    "entry_date": "2023-03-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.98,
+    "exit_price": 34.73,
+    "return": 0.021671806945261895
+  },
+  {
+    "entry_date": "2023-03-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.445,
+    "exit_price": 34.78,
+    "return": 0.009325649586296959
+  },
+  {
+    "entry_date": "2023-03-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.7193,
+    "exit_price": 34.32,
+    "return": 0.017414723318692937
+  },
+  {
+    "entry_date": "2023-03-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.81,
+    "exit_price": 37.63,
+    "return": 0.050423792236805334
+  },
+  {
+    "entry_date": "2023-03-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.53,
+    "exit_price": 38.95,
+    "return": 0.01050059693745138
+  },
+  {
+    "entry_date": "2023-03-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.9799,
+    "exit_price": 36.15,
+    "return": 0.004327639598775868
+  },
+  {
+    "entry_date": "2023-03-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.93,
+    "exit_price": 37.48,
+    "return": 0.014493040888166676
+  },
+  {
+    "entry_date": "2023-03-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.4399,
+    "exit_price": 39.25,
+    "return": -0.005214920930326983
+  },
+  {
+    "entry_date": "2023-03-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.44,
+    "exit_price": 39.9,
+    "return": 0.011263286004056862
+  },
+  {
+    "entry_date": "2023-03-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.2051,
+    "exit_price": 39.83,
+    "return": 0.015539252801293603
+  },
+  {
+    "entry_date": "2023-03-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.2295,
+    "exit_price": 41.81,
+    "return": 0.03888709031929301
+  },
+  {
+    "entry_date": "2023-03-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.5099,
+    "exit_price": 41.09,
+    "return": -0.010515659156008538
+  },
+  {
+    "entry_date": "2023-03-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.53,
+    "exit_price": 42.28,
+    "return": 0.01765923428846623
+  },
+  {
+    "entry_date": "2023-03-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-03-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.45,
+    "exit_price": 42.0,
+    "return": -0.011000706713780993
+  },
+  {
+    "entry_date": "2023-04-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.37,
+    "exit_price": 43.73,
+    "return": 0.007900668664975808
+  },
+  {
+    "entry_date": "2023-04-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.63,
+    "exit_price": 46.57,
+    "return": 0.02020048213894361
+  },
+  {
+    "entry_date": "2023-04-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.472,
+    "exit_price": 46.94,
+    "return": 0.009670580134274421
+  },
+  {
+    "entry_date": "2023-04-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.44,
+    "exit_price": 47.2936,
+    "return": 0.017980706287683067
+  },
+  {
+    "entry_date": "2023-04-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.7,
+    "exit_price": 46.0001,
+    "return": 0.006166739606126859
+  },
+  {
+    "entry_date": "2023-04-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.7201,
+    "exit_price": 47.7,
+    "return": -0.021337970160159748
+  },
+  {
+    "entry_date": "2023-04-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.36,
+    "exit_price": 48.6,
+    "return": 0.00456277915632759
+  },
+  {
+    "entry_date": "2023-04-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.97,
+    "exit_price": 51.2,
+    "return": 0.004112458308809197
+  },
+  {
+    "entry_date": "2023-04-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.9715,
+    "exit_price": 48.95,
+    "return": 0.019997527698737815
+  },
+  {
+    "entry_date": "2023-04-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.67,
+    "exit_price": 47.0,
+    "return": 0.0066709235054637885
+  },
+  {
+    "entry_date": "2023-04-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.45,
+    "exit_price": 47.49,
+    "return": -0.02021424148606814
+  },
+  {
+    "entry_date": "2023-04-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.67,
+    "exit_price": 46.142,
+    "return": -0.011713477608742239
+  },
+  {
+    "entry_date": "2023-04-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.9,
+    "exit_price": 46.03,
+    "return": -0.01895010660980805
+  },
+  {
+    "entry_date": "2023-04-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.98,
+    "exit_price": 44.9,
+    "return": -0.002178568252556623
+  },
+  {
+    "entry_date": "2023-04-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.015,
+    "exit_price": 45.14,
+    "return": 0.00237685216039103
+  },
+  {
+    "entry_date": "2023-04-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.0,
+    "exit_price": 45.17,
+    "return": 0.02619090909090911
+  },
+  {
+    "entry_date": "2023-04-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-04-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.22,
+    "exit_price": 44.11,
+    "return": -0.024946660769571017
+  },
+  {
+    "entry_date": "2023-05-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-05-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.128,
+    "exit_price": 44.15,
+    "return": -0.022071689416770113
+  },
+  {
+    "entry_date": "2023-05-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-05-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.788,
+    "exit_price": 47.74,
+    "return": 0.0422312570979297
+  },
+  {
+    "entry_date": "2023-05-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-05-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.6419,
+    "exit_price": 48.0,
+    "return": 0.007116492835088373
+  },
+  {
+    "entry_date": "2023-05-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-05-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.2867,
+    "exit_price": 50.3515,
+    "return": -0.018634747020182686
+  },
+  {
+    "entry_date": "2023-06-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.41,
+    "exit_price": 38.69,
+    "return": -0.01866947475260088
+  },
+  {
+    "entry_date": "2023-06-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.6201,
+    "exit_price": 37.59,
+    "return": -0.027072639376904673
+  },
+  {
+    "entry_date": "2023-06-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.05,
+    "exit_price": 37.92,
+    "return": 0.02308178137651824
+  },
+  {
+    "entry_date": "2023-06-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.89,
+    "exit_price": 37.32,
+    "return": -0.015443547110055399
+  },
+  {
+    "entry_date": "2023-06-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.84,
+    "exit_price": 37.04,
+    "return": -0.021541649048625922
+  },
+  {
+    "entry_date": "2023-06-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.928,
+    "exit_price": 37.3101,
+    "return": 0.009947162045060588
+  },
+  {
+    "entry_date": "2023-06-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.59,
+    "exit_price": 38.08,
+    "return": 0.01263538175046537
+  },
+  {
+    "entry_date": "2023-06-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.72,
+    "exit_price": 34.27,
+    "return": -0.01336082949308741
+  },
+  {
+    "entry_date": "2023-06-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.34,
+    "exit_price": 34.9,
+    "return": 0.01590751310425138
+  },
+  {
+    "entry_date": "2023-06-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.9516,
+    "exit_price": 33.89,
+    "return": -0.0022143474828873353
+  },
+  {
+    "entry_date": "2023-06-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-06-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.18,
+    "exit_price": 32.91,
+    "return": -0.008537432188065174
+  },
+  {
+    "entry_date": "2023-07-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.3,
+    "exit_price": 36.13,
+    "return": 0.02311274787535429
+  },
+  {
+    "entry_date": "2023-07-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.08,
+    "exit_price": 34.18,
+    "return": -0.026055644241733168
+  },
+  {
+    "entry_date": "2023-07-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.21,
+    "exit_price": 32.4201,
+    "return": 0.006122819000310376
+  },
+  {
+    "entry_date": "2023-07-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.76,
+    "exit_price": 33.26,
+    "return": -0.015210426540284415
+  },
+  {
+    "entry_date": "2023-07-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.38,
+    "exit_price": 34.64,
+    "return": 0.03734715398442186
+  },
+  {
+    "entry_date": "2023-07-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.53,
+    "exit_price": 35.06,
+    "return": -0.013628257810301124
+  },
+  {
+    "entry_date": "2023-07-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.56,
+    "exit_price": 38.71,
+    "return": 0.030217678381256618
+  },
+  {
+    "entry_date": "2023-07-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.07,
+    "exit_price": 39.55,
+    "return": 0.011885641156897898
+  },
+  {
+    "entry_date": "2023-07-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.41,
+    "exit_price": 39.0,
+    "return": -0.010803450900786537
+  },
+  {
+    "entry_date": "2023-07-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.81,
+    "exit_price": 39.04,
+    "return": 0.005526307652666773
+  },
+  {
+    "entry_date": "2023-07-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.1,
+    "exit_price": 40.66,
+    "return": -0.011105596107056125
+  },
+  {
+    "entry_date": "2023-07-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.7994,
+    "exit_price": 39.98,
+    "return": 0.004137756850605756
+  },
+  {
+    "entry_date": "2023-07-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.59,
+    "exit_price": 37.58,
+    "return": -0.026572583570873377
+  },
+  {
+    "entry_date": "2023-07-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.54,
+    "exit_price": 37.76,
+    "return": 0.00546041555673944
+  },
+  {
+    "entry_date": "2023-07-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.84,
+    "exit_price": 37.33,
+    "return": 0.012900760043430949
+  },
+  {
+    "entry_date": "2023-07-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.1,
+    "exit_price": 38.38,
+    "return": 0.006949081364829368
+  },
+  {
+    "entry_date": "2023-07-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.73,
+    "exit_price": 38.16,
+    "return": 0.010996766498807277
+  },
+  {
+    "entry_date": "2023-07-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.5992,
+    "exit_price": 35.81,
+    "return": 0.005521481381603977
+  },
+  {
+    "entry_date": "2023-07-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-07-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.37,
+    "exit_price": 37.4,
+    "return": 0.0004027829810008935
+  },
+  {
+    "entry_date": "2023-08-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.18,
+    "exit_price": 32.98,
+    "return": -0.0064277275467149895
+  },
+  {
+    "entry_date": "2023-08-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.55,
+    "exit_price": 32.47,
+    "return": -0.0028577572964669116
+  },
+  {
+    "entry_date": "2023-08-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.0214,
+    "exit_price": 28.83,
+    "return": 0.02845651680501322
+  },
+  {
+    "entry_date": "2023-08-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.6,
+    "exit_price": 29.35,
+    "return": 0.02582377622377625
+  },
+  {
+    "entry_date": "2023-08-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.07,
+    "exit_price": 30.9,
+    "return": -0.0058715159317669794
+  },
+  {
+    "entry_date": "2023-08-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.04,
+    "exit_price": 30.83,
+    "return": -0.007165463917525749
+  },
+  {
+    "entry_date": "2023-08-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.2,
+    "exit_price": 30.24,
+    "return": 0.0009245033112583294
+  },
+  {
+    "entry_date": "2023-08-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.0899,
+    "exit_price": 31.52,
+    "return": 0.013434074731665203
+  },
+  {
+    "entry_date": "2023-08-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.42,
+    "exit_price": 32.6,
+    "return": 0.0051521283158543875
+  },
+  {
+    "entry_date": "2023-08-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.19,
+    "exit_price": 32.68,
+    "return": -0.015766074118710383
+  },
+  {
+    "entry_date": "2023-08-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-08-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.34,
+    "exit_price": 32.03,
+    "return": -0.00998565244279541
+  },
+  {
+    "entry_date": "2023-09-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.12,
+    "exit_price": 31.6316,
+    "return": -0.015605479452054748
+  },
+  {
+    "entry_date": "2023-09-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.495,
+    "exit_price": 30.41,
+    "return": -0.0031873421872438577
+  },
+  {
+    "entry_date": "2023-09-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.36,
+    "exit_price": 30.3,
+    "return": -0.002376284584980226
+  },
+  {
+    "entry_date": "2023-09-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.69,
+    "exit_price": 29.9,
+    "return": 0.006673088582014053
+  },
+  {
+    "entry_date": "2023-09-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.75,
+    "exit_price": 29.99,
+    "return": -0.025115447154471605
+  },
+  {
+    "entry_date": "2023-09-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.82,
+    "exit_price": 30.865,
+    "return": 0.0010600908500972399
+  },
+  {
+    "entry_date": "2023-09-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.01,
+    "exit_price": 30.95,
+    "return": -0.002334859722670157
+  },
+  {
+    "entry_date": "2023-09-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.81,
+    "exit_price": 30.81,
+    "return": -0.0004
+  },
+  {
+    "entry_date": "2023-09-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.54,
+    "exit_price": 31.59,
+    "return": 0.0011852885225111635
+  },
+  {
+    "entry_date": "2023-09-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.03,
+    "exit_price": 32.88,
+    "return": -0.004941326067211582
+  },
+  {
+    "entry_date": "2023-09-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.4695,
+    "exit_price": 32.97,
+    "return": 0.01501446588336748
+  },
+  {
+    "entry_date": "2023-09-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.12,
+    "exit_price": 32.1,
+    "return": -0.0010226650062265415
+  },
+  {
+    "entry_date": "2023-09-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.13,
+    "exit_price": 32.76,
+    "return": -0.01156812556595248
+  },
+  {
+    "entry_date": "2023-09-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.4296,
+    "exit_price": 31.02,
+    "return": -0.013432300761065984
+  },
+  {
+    "entry_date": "2023-09-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.81,
+    "exit_price": 30.87,
+    "return": -0.029950455831499512
+  },
+  {
+    "entry_date": "2023-09-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-09-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.655,
+    "exit_price": 30.1,
+    "return": 0.014605901197099992
+  },
+  {
+    "entry_date": "2023-10-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.01,
+    "exit_price": 29.41,
+    "return": 0.01338834884522573
+  },
+  {
+    "entry_date": "2023-10-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.8195,
+    "exit_price": 28.24,
+    "return": -0.020507913044987048
+  },
+  {
+    "entry_date": "2023-10-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.465,
+    "exit_price": 30.66,
+    "return": 0.006000787789266449
+  },
+  {
+    "entry_date": "2023-10-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.64,
+    "exit_price": 30.75,
+    "return": 0.003190078328981727
+  },
+  {
+    "entry_date": "2023-10-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.82,
+    "exit_price": 31.8999,
+    "return": 0.002110999371464484
+  },
+  {
+    "entry_date": "2023-10-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.955,
+    "exit_price": 31.78,
+    "return": -0.005876451259583737
+  },
+  {
+    "entry_date": "2023-10-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.1998,
+    "exit_price": 31.85,
+    "return": 0.02043987717869995
+  },
+  {
+    "entry_date": "2023-10-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.8399,
+    "exit_price": 31.76,
+    "return": -0.0332837785742343
+  },
+  {
+    "entry_date": "2023-10-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.0,
+    "exit_price": 31.25,
+    "return": 0.007664516129032251
+  },
+  {
+    "entry_date": "2023-10-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.04,
+    "exit_price": 31.26,
+    "return": 0.006687628865979356
+  },
+  {
+    "entry_date": "2023-10-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.18,
+    "exit_price": 30.21,
+    "return": -0.03150968569595895
+  },
+  {
+    "entry_date": "2023-10-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.99,
+    "exit_price": 29.74,
+    "return": 0.025470989996550574
+  },
+  {
+    "entry_date": "2023-10-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.35,
+    "exit_price": 31.18,
+    "return": 0.026947611202635845
+  },
+  {
+    "entry_date": "2023-10-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.39,
+    "exit_price": 30.16,
+    "return": -0.007968279039157576
+  },
+  {
+    "entry_date": "2023-10-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-10-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.67,
+    "exit_price": 28.53,
+    "return": -0.03882264914054605
+  },
+  {
+    "entry_date": "2023-11-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.99,
+    "exit_price": 28.79,
+    "return": -0.007298930665746761
+  },
+  {
+    "entry_date": "2023-11-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.5,
+    "exit_price": 29.0758,
+    "return": 0.01980350877192989
+  },
+  {
+    "entry_date": "2023-11-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.67,
+    "exit_price": 31.51,
+    "return": 0.026988327355722274
+  },
+  {
+    "entry_date": "2023-11-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.155,
+    "exit_price": 30.86,
+    "return": -0.009868785106724441
+  },
+  {
+    "entry_date": "2023-11-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.3201,
+    "exit_price": 29.62,
+    "return": 0.0098284780747679
+  },
+  {
+    "entry_date": "2023-11-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.0104,
+    "exit_price": 27.76,
+    "return": -0.043501784187739576
+  },
+  {
+    "entry_date": "2023-11-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.47,
+    "exit_price": 27.5501,
+    "return": -0.032711204776958144
+  },
+  {
+    "entry_date": "2023-11-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.73,
+    "exit_price": 28.95,
+    "return": 0.007257500870170475
+  },
+  {
+    "entry_date": "2023-11-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.91,
+    "exit_price": 28.74,
+    "return": -0.006280318228986603
+  },
+  {
+    "entry_date": "2023-11-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.01,
+    "exit_price": 29.53,
+    "return": -0.016394668443852112
+  },
+  {
+    "entry_date": "2023-11-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.3655,
+    "exit_price": 29.16,
+    "return": -0.0073980078663738345
+  },
+  {
+    "entry_date": "2023-11-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.02,
+    "exit_price": 29.35,
+    "return": 0.010971467953135817
+  },
+  {
+    "entry_date": "2023-11-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.27,
+    "exit_price": 30.71,
+    "return": -0.01830853853533736
+  },
+  {
+    "entry_date": "2023-11-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.42,
+    "exit_price": 30.81,
+    "return": 0.012420512820512776
+  },
+  {
+    "entry_date": "2023-11-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.03,
+    "exit_price": 30.98,
+    "return": -0.0020113438607798793
+  },
+  {
+    "entry_date": "2023-11-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.8999,
+    "exit_price": 31.9,
+    "return": -0.0003968651939348252
+  },
+  {
+    "entry_date": "2023-11-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.05,
+    "exit_price": 35.0,
+    "return": 0.05860151285930422
+  },
+  {
+    "entry_date": "2023-11-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.89,
+    "exit_price": 34.94,
+    "return": 0.0010330753797648921
+  },
+  {
+    "entry_date": "2023-11-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-11-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.44,
+    "exit_price": 35.18,
+    "return": 0.021086643437863106
+  },
+  {
+    "entry_date": "2023-12-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.13,
+    "exit_price": 36.3,
+    "return": 0.03290486763450025
+  },
+  {
+    "entry_date": "2023-12-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.42,
+    "exit_price": 34.45,
+    "return": 0.00047158628704253614
+  },
+  {
+    "entry_date": "2023-12-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.07,
+    "exit_price": 33.25,
+    "return": 0.005042999697611084
+  },
+  {
+    "entry_date": "2023-12-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.9262,
+    "exit_price": 33.15,
+    "return": -0.023279072810983892
+  },
+  {
+    "entry_date": "2023-12-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.6401,
+    "exit_price": 32.89,
+    "return": 0.007256226543423683
+  },
+  {
+    "entry_date": "2023-12-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.2001,
+    "exit_price": 31.51,
+    "return": -0.02183161046083697
+  },
+  {
+    "entry_date": "2023-12-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.95,
+    "exit_price": 33.46,
+    "return": 0.11679532554257106
+  },
+  {
+    "entry_date": "2023-12-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.9,
+    "exit_price": 34.81,
+    "return": -0.002978796561604424
+  },
+  {
+    "entry_date": "2023-12-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.73,
+    "exit_price": 34.05,
+    "return": -0.01997961416642673
+  },
+  {
+    "entry_date": "2023-12-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.2,
+    "exit_price": 34.58,
+    "return": 0.010711111111111072
+  },
+  {
+    "entry_date": "2023-12-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.8999,
+    "exit_price": 36.48,
+    "return": -0.01177943463261437
+  },
+  {
+    "entry_date": "2023-12-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.08,
+    "exit_price": 34.7,
+    "return": -0.038648337028824684
+  },
+  {
+    "entry_date": "2023-12-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.69,
+    "exit_price": 35.59,
+    "return": -0.0032019052956008707
+  },
+  {
+    "entry_date": "2023-12-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.36,
+    "exit_price": 36.15,
+    "return": -0.03278758029978594
+  },
+  {
+    "entry_date": "2023-12-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.98,
+    "exit_price": 36.31,
+    "return": 0.008771762090050218
+  },
+  {
+    "entry_date": "2023-12-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.3119,
+    "exit_price": 37.08,
+    "return": -0.006615175319402189
+  },
+  {
+    "entry_date": "2023-12-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.82,
+    "exit_price": 35.24,
+    "return": -0.04331146116241173
+  },
+  {
+    "entry_date": "2023-12-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2023-12-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.72,
+    "exit_price": 34.78,
+    "return": 0.001328110599078514
+  },
+  {
+    "entry_date": "2024-01-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.51,
+    "exit_price": 33.8,
+    "return": -0.020973746740075395
+  },
+  {
+    "entry_date": "2024-01-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.04,
+    "exit_price": 32.01,
+    "return": -0.001336329588015039
+  },
+  {
+    "entry_date": "2024-01-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.08,
+    "exit_price": 32.02,
+    "return": -0.0022703241895260405
+  },
+  {
+    "entry_date": "2024-01-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.74,
+    "exit_price": 31.93,
+    "return": -0.02514037874160051
+  },
+  {
+    "entry_date": "2024-01-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.8998,
+    "exit_price": 30.64,
+    "return": -0.008807821409847304
+  },
+  {
+    "entry_date": "2024-01-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.26,
+    "exit_price": 30.52,
+    "return": 0.008192200925313876
+  },
+  {
+    "entry_date": "2024-01-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.3,
+    "exit_price": 30.01,
+    "return": -0.009970957095709542
+  },
+  {
+    "entry_date": "2024-01-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.37,
+    "exit_price": 31.72,
+    "return": -0.02048032128514048
+  },
+  {
+    "entry_date": "2024-01-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.98,
+    "exit_price": 28.91,
+    "return": -0.03609046030687128
+  },
+  {
+    "entry_date": "2024-01-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.39,
+    "exit_price": 27.17,
+    "return": -0.008432128514056213
+  },
+  {
+    "entry_date": "2024-01-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.37,
+    "exit_price": 27.21,
+    "return": -0.006245816587504604
+  },
+  {
+    "entry_date": "2024-01-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 26.81,
+    "exit_price": 27.43,
+    "return": 0.022725699365908358
+  },
+  {
+    "entry_date": "2024-01-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.28,
+    "exit_price": 27.27,
+    "return": -0.0007665689149561224
+  },
+  {
+    "entry_date": "2024-01-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.8922,
+    "exit_price": 28.5,
+    "return": 0.021391038354809
+  },
+  {
+    "entry_date": "2024-01-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.1,
+    "exit_price": 27.43,
+    "return": -0.024243416370106786
+  },
+  {
+    "entry_date": "2024-01-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.2162,
+    "exit_price": 28.47,
+    "return": 0.00859483275565105
+  },
+  {
+    "entry_date": "2024-01-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.5,
+    "exit_price": 28.14,
+    "return": -0.013031578947368437
+  },
+  {
+    "entry_date": "2024-01-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.88,
+    "exit_price": 28.74,
+    "return": 0.03044648493543751
+  },
+  {
+    "entry_date": "2024-01-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.04,
+    "exit_price": 28.28,
+    "return": 0.008159201141226992
+  },
+  {
+    "entry_date": "2024-01-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-01-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.23,
+    "exit_price": 27.94,
+    "return": -0.04453274033527192
+  },
+  {
+    "entry_date": "2024-02-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 28.82,
+    "exit_price": 29.981,
+    "return": 0.039884524635669785
+  },
+  {
+    "entry_date": "2024-02-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.61,
+    "exit_price": 27.92,
+    "return": 0.010827816008692493
+  },
+  {
+    "entry_date": "2024-02-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 26.5724,
+    "exit_price": 26.63,
+    "return": 0.0017676626876006022
+  },
+  {
+    "entry_date": "2024-02-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 26.99,
+    "exit_price": 27.26,
+    "return": 0.009603705075954273
+  },
+  {
+    "entry_date": "2024-02-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.0,
+    "exit_price": 26.76,
+    "return": -0.009288888888888834
+  },
+  {
+    "entry_date": "2024-02-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 26.4118,
+    "exit_price": 26.4299,
+    "return": 0.0002852997523834059
+  },
+  {
+    "entry_date": "2024-02-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 25.55,
+    "exit_price": 25.79,
+    "return": 0.008993346379647616
+  },
+  {
+    "entry_date": "2024-02-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 25.91,
+    "exit_price": 25.67,
+    "return": -0.009662832883056626
+  },
+  {
+    "entry_date": "2024-02-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 24.94,
+    "exit_price": 25.33,
+    "return": 0.015237530072173168
+  },
+  {
+    "entry_date": "2024-02-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 24.39,
+    "exit_price": 24.07,
+    "return": -0.013520131201312057
+  },
+  {
+    "entry_date": "2024-02-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 24.0618,
+    "exit_price": 24.97,
+    "return": 0.037344474644457074
+  },
+  {
+    "entry_date": "2024-02-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 24.1,
+    "exit_price": 23.8,
+    "return": -0.012848132780083054
+  },
+  {
+    "entry_date": "2024-02-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 23.4131,
+    "exit_price": 23.35,
+    "return": -0.003095072416723954
+  },
+  {
+    "entry_date": "2024-02-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-02-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 24.69,
+    "exit_price": 24.37,
+    "return": -0.01336071283920619
+  },
+  {
+    "entry_date": "2024-03-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 25.37,
+    "exit_price": 26.15,
+    "return": 0.030344974379187883
+  },
+  {
+    "entry_date": "2024-03-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 27.48,
+    "exit_price": 28.39,
+    "return": 0.0327149927219796
+  },
+  {
+    "entry_date": "2024-03-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.26,
+    "exit_price": 28.71,
+    "return": -0.019196992481203035
+  },
+  {
+    "entry_date": "2024-03-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.95,
+    "exit_price": 29.69,
+    "return": -0.009081135225375613
+  },
+  {
+    "entry_date": "2024-03-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.44,
+    "exit_price": 30.63,
+    "return": 0.005841787122207576
+  },
+  {
+    "entry_date": "2024-03-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.4495,
+    "exit_price": 30.64,
+    "return": 0.005856260365523181
+  },
+  {
+    "entry_date": "2024-03-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.09,
+    "exit_price": 31.72,
+    "return": 0.01986375040205841
+  },
+  {
+    "entry_date": "2024-03-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.29,
+    "exit_price": 30.62,
+    "return": 0.010494684714427339
+  },
+  {
+    "entry_date": "2024-03-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.65,
+    "exit_price": 32.0,
+    "return": 0.010658451816745807
+  },
+  {
+    "entry_date": "2024-03-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.36,
+    "exit_price": 31.14,
+    "return": -0.007415306122448939
+  },
+  {
+    "entry_date": "2024-03-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.1499,
+    "exit_price": 31.145,
+    "return": -0.000557303875774839
+  },
+  {
+    "entry_date": "2024-03-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.86,
+    "exit_price": 30.78,
+    "return": -0.0029923525599480525
+  },
+  {
+    "entry_date": "2024-03-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.43,
+    "exit_price": 29.2001,
+    "return": -0.008211756710839334
+  },
+  {
+    "entry_date": "2024-03-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 29.5301,
+    "exit_price": 31.55,
+    "return": 0.06800139383205601
+  },
+  {
+    "entry_date": "2024-03-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.395,
+    "exit_price": 30.98,
+    "return": -0.013618665392578432
+  },
+  {
+    "entry_date": "2024-03-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 30.716,
+    "exit_price": 30.2,
+    "return": -0.017199062377913844
+  },
+  {
+    "entry_date": "2024-03-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.59,
+    "exit_price": 30.7,
+    "return": -0.02857347261791703
+  },
+  {
+    "entry_date": "2024-03-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 31.15,
+    "exit_price": 30.67,
+    "return": -0.01580930979133215
+  },
+  {
+    "entry_date": "2024-03-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 32.32,
+    "exit_price": 32.98,
+    "return": 0.020020792079207882
+  },
+  {
+    "entry_date": "2024-03-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-03-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 33.59,
+    "exit_price": 34.33,
+    "return": 0.021630366180410653
+  },
+  {
+    "entry_date": "2024-04-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.83,
+    "exit_price": 35.23,
+    "return": 0.011084352569623769
+  },
+  {
+    "entry_date": "2024-04-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.09,
+    "exit_price": 36.07,
+    "return": -0.0009541701302300694
+  },
+  {
+    "entry_date": "2024-04-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.5,
+    "exit_price": 37.59,
+    "return": 0.029463013698630202
+  },
+  {
+    "entry_date": "2024-04-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.79,
+    "exit_price": 36.85,
+    "return": -0.025274305371791473
+  },
+  {
+    "entry_date": "2024-04-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.98,
+    "exit_price": 39.27,
+    "return": 0.03356524486571906
+  },
+  {
+    "entry_date": "2024-04-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.47,
+    "exit_price": 38.61,
+    "return": 0.003239199376137325
+  },
+  {
+    "entry_date": "2024-04-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.5,
+    "exit_price": 39.99,
+    "return": -0.012992592592592488
+  },
+  {
+    "entry_date": "2024-04-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.3777,
+    "exit_price": 38.87,
+    "return": -0.01329308415676893
+  },
+  {
+    "entry_date": "2024-04-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.6704,
+    "exit_price": 40.49,
+    "return": 0.046654077537341146
+  },
+  {
+    "entry_date": "2024-04-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.815,
+    "exit_price": 38.93,
+    "return": -0.09113922690645797
+  },
+  {
+    "entry_date": "2024-04-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.5,
+    "exit_price": 38.33,
+    "return": 0.021733333333333337
+  },
+  {
+    "entry_date": "2024-04-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.06,
+    "exit_price": 37.21,
+    "return": 0.03149129229062671
+  },
+  {
+    "entry_date": "2024-04-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.91,
+    "exit_price": 38.43,
+    "return": -0.01273616037008478
+  },
+  {
+    "entry_date": "2024-04-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.66,
+    "exit_price": 38.75,
+    "return": 0.0019279875840662712
+  },
+  {
+    "entry_date": "2024-04-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.7197,
+    "exit_price": 39.48,
+    "return": -0.0064347887823927195
+  },
+  {
+    "entry_date": "2024-04-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.21,
+    "exit_price": 35.98,
+    "return": -0.03345563020693369
+  },
+  {
+    "entry_date": "2024-04-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.93,
+    "exit_price": 37.11,
+    "return": 0.004474086108854536
+  },
+  {
+    "entry_date": "2024-04-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.9288,
+    "exit_price": 37.22,
+    "return": 0.00748544442278094
+  },
+  {
+    "entry_date": "2024-04-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.15,
+    "exit_price": 40.0375,
+    "return": 0.0490757536041941
+  },
+  {
+    "entry_date": "2024-04-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.66,
+    "exit_price": 40.51,
+    "return": -0.0040891293654697234
+  },
+  {
+    "entry_date": "2024-04-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-04-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.7901,
+    "exit_price": 40.97,
+    "return": 0.0040103838921698555
+  },
+  {
+    "entry_date": "2024-05-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.06,
+    "exit_price": 41.83,
+    "return": -0.005868378506894967
+  },
+  {
+    "entry_date": "2024-05-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.74,
+    "exit_price": 41.525,
+    "return": -0.005550934355534376
+  },
+  {
+    "entry_date": "2024-05-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.08,
+    "exit_price": 43.36,
+    "return": 0.03001825095057038
+  },
+  {
+    "entry_date": "2024-05-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.76,
+    "exit_price": 45.605,
+    "return": 0.018478462913315407
+  },
+  {
+    "entry_date": "2024-05-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.7,
+    "exit_price": 46.55,
+    "return": 0.018199562363238452
+  },
+  {
+    "entry_date": "2024-05-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.925,
+    "exit_price": 45.81,
+    "return": -0.0029040827436035864
+  },
+  {
+    "entry_date": "2024-05-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.86,
+    "exit_price": 43.44,
+    "return": 0.013132431171255244
+  },
+  {
+    "entry_date": "2024-05-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.25,
+    "exit_price": 41.36,
+    "return": -0.021465088757396434
+  },
+  {
+    "entry_date": "2024-05-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.52,
+    "exit_price": 42.07,
+    "return": -0.01098325493885237
+  },
+  {
+    "entry_date": "2024-05-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-05-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.74,
+    "exit_price": 41.71,
+    "return": -0.0011187350263536673
+  },
+  {
+    "entry_date": "2024-06-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.5799,
+    "exit_price": 42.05,
+    "return": 0.010905943496737526
+  },
+  {
+    "entry_date": "2024-06-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.98,
+    "exit_price": 38.84,
+    "return": -0.0039915854284246375
+  },
+  {
+    "entry_date": "2024-06-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.39,
+    "exit_price": 40.25,
+    "return": 0.021432952526021908
+  },
+  {
+    "entry_date": "2024-06-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.79,
+    "exit_price": 43.06,
+    "return": 0.05525089482716368
+  },
+  {
+    "entry_date": "2024-06-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.53,
+    "exit_price": 38.23,
+    "return": 0.018251745270450214
+  },
+  {
+    "entry_date": "2024-06-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.19,
+    "exit_price": 37.56,
+    "return": 0.009548910997580108
+  },
+  {
+    "entry_date": "2024-06-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.57,
+    "exit_price": 38.12,
+    "return": -0.012067098781436457
+  },
+  {
+    "entry_date": "2024-06-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.8601,
+    "exit_price": 36.17,
+    "return": -0.0191221412855636
+  },
+  {
+    "entry_date": "2024-06-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.15,
+    "exit_price": 36.69,
+    "return": 0.014537759336099533
+  },
+  {
+    "entry_date": "2024-06-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.0,
+    "exit_price": 36.32,
+    "return": 0.008488888888888947
+  },
+  {
+    "entry_date": "2024-06-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.035,
+    "exit_price": 37.26,
+    "return": 0.005675334143377908
+  },
+  {
+    "entry_date": "2024-06-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.94,
+    "exit_price": 39.21,
+    "return": 0.006533744221879978
+  },
+  {
+    "entry_date": "2024-06-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.09,
+    "exit_price": 37.9999,
+    "return": -0.0027654502494094844
+  },
+  {
+    "entry_date": "2024-06-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.76,
+    "exit_price": 38.5,
+    "return": -0.007107946336429238
+  },
+  {
+    "entry_date": "2024-06-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.65,
+    "exit_price": 37.46,
+    "return": -0.00544648074369185
+  },
+  {
+    "entry_date": "2024-06-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.41,
+    "exit_price": 37.4,
+    "return": -0.0006673082063618936
+  },
+  {
+    "entry_date": "2024-06-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.37,
+    "exit_price": 38.28,
+    "return": -0.0027455824863173326
+  },
+  {
+    "entry_date": "2024-06-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-06-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.31,
+    "exit_price": 37.64,
+    "return": -0.0178889062907857
+  },
+  {
+    "entry_date": "2024-07-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.7,
+    "exit_price": 37.5,
+    "return": -0.005705039787798505
+  },
+  {
+    "entry_date": "2024-07-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.7,
+    "exit_price": 37.7,
+    "return": -0.0004
+  },
+  {
+    "entry_date": "2024-07-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.67,
+    "exit_price": 40.47,
+    "return": -0.005317629702483439
+  },
+  {
+    "entry_date": "2024-07-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.4,
+    "exit_price": 42.8,
+    "return": 0.009033962264150831
+  },
+  {
+    "entry_date": "2024-07-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.18,
+    "exit_price": 42.34,
+    "return": 0.0033932669511617776
+  },
+  {
+    "entry_date": "2024-07-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.38,
+    "exit_price": 42.44,
+    "return": 0.0010157621519583774
+  },
+  {
+    "entry_date": "2024-07-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.45,
+    "exit_price": 44.62,
+    "return": 0.0034245219347581292
+  },
+  {
+    "entry_date": "2024-07-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.69,
+    "exit_price": 46.9035,
+    "return": 0.026159422193040082
+  },
+  {
+    "entry_date": "2024-07-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.1427,
+    "exit_price": 47.28,
+    "return": 0.0025124339505375294
+  },
+  {
+    "entry_date": "2024-07-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.295,
+    "exit_price": 46.73,
+    "return": -0.012346294534306067
+  },
+  {
+    "entry_date": "2024-07-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.7,
+    "exit_price": 50.0,
+    "return": 0.026294045174537883
+  },
+  {
+    "entry_date": "2024-07-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.64,
+    "exit_price": 47.83,
+    "return": -0.01705296052631582
+  },
+  {
+    "entry_date": "2024-07-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.83,
+    "exit_price": 46.4,
+    "return": -0.030297553836504277
+  },
+  {
+    "entry_date": "2024-07-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.5536,
+    "exit_price": 45.23,
+    "return": -0.00750371957430378
+  },
+  {
+    "entry_date": "2024-07-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.62,
+    "exit_price": 45.36,
+    "return": 0.01618449125952499
+  },
+  {
+    "entry_date": "2024-07-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.19,
+    "exit_price": 45.39,
+    "return": 0.004025757911042272
+  },
+  {
+    "entry_date": "2024-07-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.06,
+    "exit_price": 44.8,
+    "return": -0.048423799405015
+  },
+  {
+    "entry_date": "2024-07-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.41,
+    "exit_price": 42.25,
+    "return": -0.004172695119075631
+  },
+  {
+    "entry_date": "2024-07-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.87,
+    "exit_price": 42.99,
+    "return": 0.002399160251924615
+  },
+  {
+    "entry_date": "2024-07-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.7701,
+    "exit_price": 43.33,
+    "return": 0.01269092099387188
+  },
+  {
+    "entry_date": "2024-07-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.5394,
+    "exit_price": 43.98,
+    "return": 0.0097195698608616
+  },
+  {
+    "entry_date": "2024-07-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-07-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.0,
+    "exit_price": 46.33,
+    "return": 0.006773913043478253
+  },
+  {
+    "entry_date": "2024-08-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.4037,
+    "exit_price": 44.78,
+    "return": -0.014136765946387618
+  },
+  {
+    "entry_date": "2024-08-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.1,
+    "exit_price": 42.87,
+    "return": -0.02829115646258511
+  },
+  {
+    "entry_date": "2024-08-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.76,
+    "exit_price": 40.25,
+    "return": 0.038041692466460345
+  },
+  {
+    "entry_date": "2024-08-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.65,
+    "exit_price": 40.775,
+    "return": 0.0026750307503075723
+  },
+  {
+    "entry_date": "2024-08-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.14,
+    "exit_price": 38.72,
+    "return": -0.059223529411764717
+  },
+  {
+    "entry_date": "2024-08-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.3072,
+    "exit_price": 40.52,
+    "return": 0.004879453794855504
+  },
+  {
+    "entry_date": "2024-08-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.95,
+    "exit_price": 41.16,
+    "return": 0.004728205128204888
+  },
+  {
+    "entry_date": "2024-08-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.89,
+    "exit_price": 43.75,
+    "return": 0.04400200525185012
+  },
+  {
+    "entry_date": "2024-08-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.05,
+    "exit_price": 44.69,
+    "return": 0.014128944381384746
+  },
+  {
+    "entry_date": "2024-08-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.71,
+    "exit_price": 44.07,
+    "return": 0.00783610157858612
+  },
+  {
+    "entry_date": "2024-08-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.91,
+    "exit_price": 44.515,
+    "return": 0.013378182646322135
+  },
+  {
+    "entry_date": "2024-08-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.44,
+    "exit_price": 47.24,
+    "return": 0.03921267605633823
+  },
+  {
+    "entry_date": "2024-08-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.21,
+    "exit_price": 49.0996,
+    "return": 0.01805260319435815
+  },
+  {
+    "entry_date": "2024-08-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.7642,
+    "exit_price": 49.75,
+    "return": -0.0006853456902753848
+  },
+  {
+    "entry_date": "2024-08-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.15,
+    "exit_price": 50.415,
+    "return": 0.025337538148524973
+  },
+  {
+    "entry_date": "2024-08-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.9199,
+    "exit_price": 47.99,
+    "return": 0.0010628578106381518
+  },
+  {
+    "entry_date": "2024-08-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.67,
+    "exit_price": 49.2,
+    "return": -0.009862452184417102
+  },
+  {
+    "entry_date": "2024-08-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.2,
+    "exit_price": 49.03,
+    "return": -0.0038552845528456057
+  },
+  {
+    "entry_date": "2024-08-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.76,
+    "exit_price": 48.9,
+    "return": 0.0024712059064808225
+  },
+  {
+    "entry_date": "2024-08-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.9,
+    "exit_price": 46.909,
+    "return": -0.00020810234541572792
+  },
+  {
+    "entry_date": "2024-08-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.31,
+    "exit_price": 48.07,
+    "return": -0.005367915545435742
+  },
+  {
+    "entry_date": "2024-08-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-08-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.625,
+    "exit_price": 47.38,
+    "return": -0.005544356955380514
+  },
+  {
+    "entry_date": "2024-09-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.745,
+    "exit_price": 44.15,
+    "return": 0.00885820093724994
+  },
+  {
+    "entry_date": "2024-09-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.69,
+    "exit_price": 43.29,
+    "return": -0.00955541313801782
+  },
+  {
+    "entry_date": "2024-09-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.17,
+    "exit_price": 44.21,
+    "return": -0.021653044055789206
+  },
+  {
+    "entry_date": "2024-09-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.6003,
+    "exit_price": 41.82,
+    "return": -0.018716772417095618
+  },
+  {
+    "entry_date": "2024-09-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.48,
+    "exit_price": 42.75,
+    "return": 0.005955932203389924
+  },
+  {
+    "entry_date": "2024-09-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.14,
+    "exit_price": 43.8,
+    "return": 0.03899250118652105
+  },
+  {
+    "entry_date": "2024-09-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.41,
+    "exit_price": 44.22,
+    "return": 0.04227861353454383
+  },
+  {
+    "entry_date": "2024-09-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.8,
+    "exit_price": 48.52,
+    "return": 0.014662761506276168
+  },
+  {
+    "entry_date": "2024-09-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.29,
+    "exit_price": 50.63,
+    "return": 0.006360787432889215
+  },
+  {
+    "entry_date": "2024-09-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.58,
+    "exit_price": 50.13,
+    "return": 0.01069318273497384
+  },
+  {
+    "entry_date": "2024-09-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.2694,
+    "exit_price": 49.15,
+    "return": -0.02266801990873173
+  },
+  {
+    "entry_date": "2024-09-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.0499,
+    "exit_price": 48.0,
+    "return": -0.021804732731361343
+  },
+  {
+    "entry_date": "2024-09-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.47,
+    "exit_price": 49.68,
+    "return": 0.0038449969678592934
+  },
+  {
+    "entry_date": "2024-09-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.16,
+    "exit_price": 51.67,
+    "return": 0.009568725566849247
+  },
+  {
+    "entry_date": "2024-09-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.21,
+    "exit_price": 51.17,
+    "return": -0.0387386581469648
+  },
+  {
+    "entry_date": "2024-09-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.2,
+    "exit_price": 53.75,
+    "return": 0.02929348659003823
+  },
+  {
+    "entry_date": "2024-09-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.125,
+    "exit_price": 53.76,
+    "return": -0.0071436489607390906
+  },
+  {
+    "entry_date": "2024-09-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.25,
+    "exit_price": 54.41,
+    "return": 0.0025493087557603824
+  },
+  {
+    "entry_date": "2024-09-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.9,
+    "exit_price": 51.03,
+    "return": -0.03574971644612472
+  },
+  {
+    "entry_date": "2024-09-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-09-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.3599,
+    "exit_price": 49.63,
+    "return": 0.005072053225391349
+  },
+  {
+    "entry_date": "2024-10-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.64,
+    "exit_price": 51.24,
+    "return": 0.011448341232227445
+  },
+  {
+    "entry_date": "2024-10-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.3,
+    "exit_price": 51.05,
+    "return": -0.005273294346978585
+  },
+  {
+    "entry_date": "2024-10-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.06,
+    "exit_price": 49.05,
+    "return": -0.0006038320423971562
+  },
+  {
+    "entry_date": "2024-10-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.9884,
+    "exit_price": 48.9201,
+    "return": -0.0017942076083317545
+  },
+  {
+    "entry_date": "2024-10-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.36,
+    "exit_price": 47.65,
+    "return": 0.005723310810810745
+  },
+  {
+    "entry_date": "2024-10-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.49,
+    "exit_price": 47.51,
+    "return": 0.02154020219402004
+  },
+  {
+    "entry_date": "2024-10-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.71,
+    "exit_price": 46.86,
+    "return": 0.024758608619558097
+  },
+  {
+    "entry_date": "2024-10-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.19,
+    "exit_price": 49.5603,
+    "return": 0.028035360033201905
+  },
+  {
+    "entry_date": "2024-10-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.48,
+    "exit_price": 50.04,
+    "return": -0.009116323296354966
+  },
+  {
+    "entry_date": "2024-10-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.27,
+    "exit_price": 50.28,
+    "return": 0.020099289628577165
+  },
+  {
+    "entry_date": "2024-10-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.74,
+    "exit_price": 51.495,
+    "return": 0.014479779266850469
+  },
+  {
+    "entry_date": "2024-10-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.0699,
+    "exit_price": 52.4,
+    "return": -0.013022974605190462
+  },
+  {
+    "entry_date": "2024-10-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.84,
+    "exit_price": 53.702,
+    "return": -0.002963150074294307
+  },
+  {
+    "entry_date": "2024-10-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 55.95,
+    "exit_price": 57.84,
+    "return": 0.033380160857908917
+  },
+  {
+    "entry_date": "2024-10-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 59.24,
+    "exit_price": 58.2,
+    "return": -0.017955705604321404
+  },
+  {
+    "entry_date": "2024-10-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 59.63,
+    "exit_price": 60.36,
+    "return": 0.011842159986583846
+  },
+  {
+    "entry_date": "2024-10-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.21,
+    "exit_price": 58.125,
+    "return": -0.001860230200996393
+  },
+  {
+    "entry_date": "2024-10-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 55.48,
+    "exit_price": 55.02,
+    "return": -0.008691276135544256
+  },
+  {
+    "entry_date": "2024-10-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.27,
+    "exit_price": 53.5603,
+    "return": -0.013477206559793719
+  },
+  {
+    "entry_date": "2024-10-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.17,
+    "exit_price": 53.05,
+    "return": -0.0026569117923642025
+  },
+  {
+    "entry_date": "2024-10-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.63,
+    "exit_price": 54.67,
+    "return": 0.0003321984257733227
+  },
+  {
+    "entry_date": "2024-10-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.91,
+    "exit_price": 53.33,
+    "return": 0.007538007938008029
+  },
+  {
+    "entry_date": "2024-10-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-10-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.26,
+    "exit_price": 50.37,
+    "return": 0.0017886191802626965
+  },
+  {
+    "entry_date": "2024-11-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.75,
+    "exit_price": 49.21,
+    "return": -0.030744827586206936
+  },
+  {
+    "entry_date": "2024-11-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.8533,
+    "exit_price": 49.28,
+    "return": -0.011899740237857824
+  },
+  {
+    "entry_date": "2024-11-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.3792,
+    "exit_price": 49.7672,
+    "return": 0.0074575594582335205
+  },
+  {
+    "entry_date": "2024-11-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.4,
+    "exit_price": 48.329,
+    "return": 0.019199156118143445
+  },
+  {
+    "entry_date": "2024-11-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.67,
+    "exit_price": 46.96,
+    "return": 0.005813841868437875
+  },
+  {
+    "entry_date": "2024-11-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.04,
+    "exit_price": 41.9499,
+    "return": -0.0025431969552806464
+  },
+  {
+    "entry_date": "2024-11-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.6199,
+    "exit_price": 43.82,
+    "return": 0.02775820778556488
+  },
+  {
+    "entry_date": "2024-11-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.15,
+    "exit_price": 43.42,
+    "return": 0.005857242178447253
+  },
+  {
+    "entry_date": "2024-11-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.8,
+    "exit_price": 44.41,
+    "return": 0.01352694063926947
+  },
+  {
+    "entry_date": "2024-11-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.1599,
+    "exit_price": 44.66,
+    "return": -0.011469555069874059
+  },
+  {
+    "entry_date": "2024-11-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.87,
+    "exit_price": 42.69,
+    "return": -0.00459874037788659
+  },
+  {
+    "entry_date": "2024-11-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-11-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.24,
+    "exit_price": 43.2,
+    "return": -0.0013250693802035359
+  },
+  {
+    "entry_date": "2024-12-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.47,
+    "exit_price": 41.21,
+    "return": -0.00666959247648895
+  },
+  {
+    "entry_date": "2024-12-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.96,
+    "exit_price": 43.27,
+    "return": 0.006816014897579281
+  },
+  {
+    "entry_date": "2024-12-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.33,
+    "exit_price": 43.0027,
+    "return": -0.007953657973690341
+  },
+  {
+    "entry_date": "2024-12-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.46,
+    "exit_price": 42.82,
+    "return": 0.008078568064060222
+  },
+  {
+    "entry_date": "2024-12-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.15,
+    "exit_price": 41.5427,
+    "return": -0.014808066429418608
+  },
+  {
+    "entry_date": "2024-12-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.5244,
+    "exit_price": 43.6585,
+    "return": -0.04138681146813587
+  },
+  {
+    "entry_date": "2024-12-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 44.1377,
+    "exit_price": 43.763,
+    "return": -0.008889341311396003
+  },
+  {
+    "entry_date": "2024-12-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.09,
+    "exit_price": 46.29,
+    "return": 0.003939336081579326
+  },
+  {
+    "entry_date": "2024-12-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.56,
+    "exit_price": 42.94,
+    "return": -0.01463324150596883
+  },
+  {
+    "entry_date": "2024-12-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.44,
+    "exit_price": 40.58,
+    "return": 0.0030619188921860553
+  },
+  {
+    "entry_date": "2024-12-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.21563,
+    "exit_price": 40.04,
+    "return": -0.004767207476297153
+  },
+  {
+    "entry_date": "2024-12-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.2801,
+    "exit_price": 39.48,
+    "return": 0.004689090913719563
+  },
+  {
+    "entry_date": "2024-12-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.94,
+    "exit_price": 35.92,
+    "return": -0.07795521314843339
+  },
+  {
+    "entry_date": "2024-12-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.77,
+    "exit_price": 35.47,
+    "return": -0.008786916410399902
+  },
+  {
+    "entry_date": "2024-12-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.86,
+    "exit_price": 36.32,
+    "return": -0.015050027129679887
+  },
+  {
+    "entry_date": "2024-12-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.395,
+    "exit_price": 36.09,
+    "return": 0.01923554174318416
+  },
+  {
+    "entry_date": "2024-12-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.88,
+    "exit_price": 36.22,
+    "return": 0.009076031215161607
+  },
+  {
+    "entry_date": "2024-12-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 36.7199,
+    "exit_price": 36.31,
+    "return": -0.011562884430513164
+  },
+  {
+    "entry_date": "2024-12-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.29,
+    "exit_price": 35.84,
+    "return": 0.015185151601020143
+  },
+  {
+    "entry_date": "2024-12-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 34.13,
+    "exit_price": 34.75,
+    "return": 0.017765836507471277
+  },
+  {
+    "entry_date": "2024-12-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2024-12-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 35.23,
+    "exit_price": 35.11,
+    "return": -0.0038061879080328207
+  },
+  {
+    "entry_date": "2025-01-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.34,
+    "exit_price": 38.01,
+    "return": 0.017543224424209924
+  },
+  {
+    "entry_date": "2025-01-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.4641,
+    "exit_price": 37.28,
+    "return": -0.005314037705429975
+  },
+  {
+    "entry_date": "2025-01-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.1299,
+    "exit_price": 36.33,
+    "return": -0.021943284522716256
+  },
+  {
+    "entry_date": "2025-01-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.44,
+    "exit_price": 37.41,
+    "return": -0.02719500520291367
+  },
+  {
+    "entry_date": "2025-01-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 38.06,
+    "exit_price": 39.16,
+    "return": 0.02850173410404606
+  },
+  {
+    "entry_date": "2025-01-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 40.2176,
+    "exit_price": 39.29,
+    "return": -0.023464528962444265
+  },
+  {
+    "entry_date": "2025-01-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 37.72,
+    "exit_price": 37.9799,
+    "return": 0.006490243902438975
+  },
+  {
+    "entry_date": "2025-01-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.99,
+    "exit_price": 40.06,
+    "return": 0.001350437609402411
+  },
+  {
+    "entry_date": "2025-01-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 39.97,
+    "exit_price": 40.85,
+    "return": 0.021616512384288366
+  },
+  {
+    "entry_date": "2025-01-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.6,
+    "exit_price": 40.61,
+    "return": -0.024198076923077006
+  },
+  {
+    "entry_date": "2025-01-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.02,
+    "exit_price": 40.93,
+    "return": -0.0025940516821064017
+  },
+  {
+    "entry_date": "2025-01-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.4501,
+    "exit_price": 42.84,
+    "return": -0.014441394611289614
+  },
+  {
+    "entry_date": "2025-01-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.4221,
+    "exit_price": 42.62,
+    "return": 0.004265021297861171
+  },
+  {
+    "entry_date": "2025-01-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.46,
+    "exit_price": 42.58,
+    "return": 0.026613989387361325
+  },
+  {
+    "entry_date": "2025-01-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.9,
+    "exit_price": 43.52,
+    "return": -0.009056036446469172
+  },
+  {
+    "entry_date": "2025-01-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 41.7,
+    "exit_price": 42.17,
+    "return": 0.010870983213429232
+  },
+  {
+    "entry_date": "2025-01-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 42.28,
+    "exit_price": 42.97,
+    "return": 0.015919772942289478
+  },
+  {
+    "entry_date": "2025-01-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 43.5742,
+    "exit_price": 43.41,
+    "return": -0.004168284902534114
+  },
+  {
+    "entry_date": "2025-01-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.0,
+    "exit_price": 46.835,
+    "return": -0.0039106382978723484
+  },
+  {
+    "entry_date": "2025-01-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-01-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.97,
+    "exit_price": 45.8,
+    "return": -0.0253095167127954
+  },
+  {
+    "entry_date": "2025-02-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.74,
+    "exit_price": 47.05,
+    "return": 0.006232434745399873
+  },
+  {
+    "entry_date": "2025-02-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.32,
+    "exit_price": 48.15,
+    "return": -0.0039182119205298125
+  },
+  {
+    "entry_date": "2025-02-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.34,
+    "exit_price": 50.67,
+    "return": -0.013450253213868323
+  },
+  {
+    "entry_date": "2025-02-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.2,
+    "exit_price": 50.88,
+    "return": 0.013145816733067762
+  },
+  {
+    "entry_date": "2025-02-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.53,
+    "exit_price": 50.25,
+    "return": -0.025239899087909957
+  },
+  {
+    "entry_date": "2025-02-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.38,
+    "exit_price": 52.94,
+    "return": -0.008642787560884367
+  },
+  {
+    "entry_date": "2025-02-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.13,
+    "exit_price": 51.55,
+    "return": -0.01152603107615584
+  },
+  {
+    "entry_date": "2025-02-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.96,
+    "exit_price": 53.24,
+    "return": 0.024234334103156296
+  },
+  {
+    "entry_date": "2025-02-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.02,
+    "exit_price": 54.17,
+    "return": 0.02128992832893246
+  },
+  {
+    "entry_date": "2025-02-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.07,
+    "exit_price": 50.45,
+    "return": -0.031511964662953626
+  },
+  {
+    "entry_date": "2025-02-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.08,
+    "exit_price": 51.65,
+    "return": 0.010758966327329712
+  },
+  {
+    "entry_date": "2025-02-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.14,
+    "exit_price": 51.67,
+    "return": 0.009963707469691175
+  },
+  {
+    "entry_date": "2025-02-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 53.3588,
+    "exit_price": 53.35,
+    "return": -0.0005649212501031449
+  },
+  {
+    "entry_date": "2025-02-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.38,
+    "exit_price": 49.785,
+    "return": -0.012210242159587258
+  },
+  {
+    "entry_date": "2025-02-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 48.87,
+    "exit_price": 50.159,
+    "return": 0.025976099856762812
+  },
+  {
+    "entry_date": "2025-02-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.1599,
+    "exit_price": 48.57,
+    "return": 0.029500402672609515
+  },
+  {
+    "entry_date": "2025-02-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.4,
+    "exit_price": 49.83,
+    "return": 0.008304453441295446
+  },
+  {
+    "entry_date": "2025-02-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 47.49,
+    "exit_price": 46.42,
+    "return": -0.022931059170351698
+  },
+  {
+    "entry_date": "2025-02-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-02-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 45.85,
+    "exit_price": 46.9,
+    "return": 0.022500763358778552
+  },
+  {
+    "entry_date": "2025-03-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 49.42,
+    "exit_price": 47.09,
+    "return": -0.04754690408741395
+  },
+  {
+    "entry_date": "2025-03-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 46.805,
+    "exit_price": 48.34,
+    "return": 0.03239564149129377
+  },
+  {
+    "entry_date": "2025-03-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.06,
+    "exit_price": 51.61,
+    "return": 0.03056284458649623
+  },
+  {
+    "entry_date": "2025-03-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.2552,
+    "exit_price": 50.68,
+    "return": -0.011622275983705065
+  },
+  {
+    "entry_date": "2025-03-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 52.3,
+    "exit_price": 51.47,
+    "return": -0.016269980879541058
+  },
+  {
+    "entry_date": "2025-03-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 50.28,
+    "exit_price": 48.72,
+    "return": -0.03142625298329364
+  },
+  {
+    "entry_date": "2025-03-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.4468,
+    "exit_price": 51.8099,
+    "return": 0.006657776188217568
+  },
+  {
+    "entry_date": "2025-03-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.09,
+    "exit_price": 52.05,
+    "return": 0.018390369935407946
+  },
+  {
+    "entry_date": "2025-03-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.3,
+    "exit_price": 55.18,
+    "return": 0.01580626151012905
+  },
+  {
+    "entry_date": "2025-03-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 55.8,
+    "exit_price": 56.24,
+    "return": 0.0074853046594982155
+  },
+  {
+    "entry_date": "2025-03-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 57.95,
+    "exit_price": 58.7,
+    "return": 0.012542191544434768
+  },
+  {
+    "entry_date": "2025-03-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 59.96,
+    "exit_price": 59.42,
+    "return": -0.009406004002668377
+  },
+  {
+    "entry_date": "2025-03-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.99,
+    "exit_price": 60.39,
+    "return": 0.023332836073910856
+  },
+  {
+    "entry_date": "2025-03-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 59.6,
+    "exit_price": 60.09,
+    "return": 0.007821476510067217
+  },
+  {
+    "entry_date": "2025-03-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 57.45,
+    "exit_price": 58.3818,
+    "return": 0.01581932114882507
+  },
+  {
+    "entry_date": "2025-03-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.53,
+    "exit_price": 57.73,
+    "return": -0.014068204339654987
+  },
+  {
+    "entry_date": "2025-03-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 60.2695,
+    "exit_price": 59.64,
+    "return": -0.010844752320825645
+  },
+  {
+    "entry_date": "2025-03-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 58.9,
+    "exit_price": 58.71,
+    "return": -0.003625806451612856
+  },
+  {
+    "entry_date": "2025-03-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 60.745,
+    "exit_price": 61.47,
+    "return": 0.011535138694542769
+  },
+  {
+    "entry_date": "2025-03-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 62.17,
+    "exit_price": 60.995,
+    "return": -0.019299790895930636
+  },
+  {
+    "entry_date": "2025-03-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-03-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 60.17,
+    "exit_price": 62.01,
+    "return": 0.03018002326740894
+  },
+  {
+    "entry_date": "2025-04-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 61.21,
+    "exit_price": 61.61,
+    "return": 0.0061348799215814155
+  },
+  {
+    "entry_date": "2025-04-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 61.0,
+    "exit_price": 61.575,
+    "return": 0.009026229508196827
+  },
+  {
+    "entry_date": "2025-04-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 62.7924,
+    "exit_price": 61.4,
+    "return": -0.022574658079640254
+  },
+  {
+    "entry_date": "2025-04-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 51.952,
+    "exit_price": 50.4601,
+    "return": -0.029116892516168825
+  },
+  {
+    "entry_date": "2025-04-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 54.22,
+    "exit_price": 50.14,
+    "return": -0.07564898561416449
+  },
+  {
+    "entry_date": "2025-04-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 55.2,
+    "exit_price": 58.36,
+    "return": 0.05684637681159406
+  },
+  {
+    "entry_date": "2025-04-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 63.0095,
+    "exit_price": 63.95,
+    "return": 0.014526320634190083
+  },
+  {
+    "entry_date": "2025-04-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 69.56,
+    "exit_price": 71.0,
+    "return": 0.02030155261644624
+  },
+  {
+    "entry_date": "2025-04-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 71.41,
+    "exit_price": 71.75,
+    "return": 0.004361237921859784
+  },
+  {
+    "entry_date": "2025-04-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 72.972,
+    "exit_price": 73.225,
+    "return": 0.0030670832648138193
+  },
+  {
+    "entry_date": "2025-04-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.89,
+    "exit_price": 77.2999,
+    "return": -0.020555913296995954
+  },
+  {
+    "entry_date": "2025-04-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 73.47,
+    "exit_price": 74.39,
+    "return": 0.012122117871240025
+  },
+  {
+    "entry_date": "2025-04-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 77.85,
+    "exit_price": 76.33,
+    "return": -0.019924727039177848
+  },
+  {
+    "entry_date": "2025-04-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 76.5,
+    "exit_price": 72.11,
+    "return": -0.05778562091503274
+  },
+  {
+    "entry_date": "2025-04-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 67.8,
+    "exit_price": 68.09,
+    "return": 0.0038772861356932255
+  },
+  {
+    "entry_date": "2025-04-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 68.78,
+    "exit_price": 70.64,
+    "return": 0.026642744984006938
+  },
+  {
+    "entry_date": "2025-04-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 68.04,
+    "exit_price": 67.98,
+    "return": -0.0012818342151676317
+  },
+  {
+    "entry_date": "2025-04-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 68.05,
+    "exit_price": 69.65,
+    "return": 0.023112123438648168
+  },
+  {
+    "entry_date": "2025-04-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 67.72,
+    "exit_price": 67.07,
+    "return": -0.00999834613112831
+  },
+  {
+    "entry_date": "2025-04-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-04-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 67.13,
+    "exit_price": 68.31,
+    "return": 0.017177834053329465
+  },
+  {
+    "entry_date": "2025-05-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 63.85,
+    "exit_price": 63.05,
+    "return": -0.012929365700861494
+  },
+  {
+    "entry_date": "2025-05-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 66.18,
+    "exit_price": 67.45,
+    "return": 0.01879008763977037
+  },
+  {
+    "entry_date": "2025-05-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 69.46,
+    "exit_price": 73.06,
+    "return": 0.05142839044054144
+  },
+  {
+    "entry_date": "2025-05-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 70.55,
+    "exit_price": 70.31,
+    "return": -0.003801842664776722
+  },
+  {
+    "entry_date": "2025-05-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 69.92,
+    "exit_price": 67.59,
+    "return": -0.0337237986270023
+  },
+  {
+    "entry_date": "2025-05-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 69.91,
+    "exit_price": 71.76,
+    "return": 0.0260625947646977
+  },
+  {
+    "entry_date": "2025-05-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 63.29,
+    "exit_price": 61.5044,
+    "return": -0.028612987833781012
+  },
+  {
+    "entry_date": "2025-05-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 60.76,
+    "exit_price": 60.89,
+    "return": 0.0017395655036209327
+  },
+  {
+    "entry_date": "2025-05-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-05-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 70.5799,
+    "exit_price": 71.25,
+    "return": 0.009094204440641197
+  },
+  {
+    "entry_date": "2025-06-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 79.38,
+    "exit_price": 80.28,
+    "return": 0.010937868480725711
+  },
+  {
+    "entry_date": "2025-06-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 76.89,
+    "exit_price": 78.17,
+    "return": 0.016247158278059625
+  },
+  {
+    "entry_date": "2025-06-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.67,
+    "exit_price": 78.75,
+    "return": 0.000616906063302292
+  },
+  {
+    "entry_date": "2025-06-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 80.49,
+    "exit_price": 78.48,
+    "return": -0.025372046216921285
+  },
+  {
+    "entry_date": "2025-06-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 74.9,
+    "exit_price": 73.95,
+    "return": -0.013083578104138892
+  },
+  {
+    "entry_date": "2025-06-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 74.82,
+    "exit_price": 75.36,
+    "return": 0.00681732157177235
+  },
+  {
+    "entry_date": "2025-06-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 74.3001,
+    "exit_price": 73.49,
+    "return": -0.011303080884144267
+  },
+  {
+    "entry_date": "2025-06-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 73.75,
+    "exit_price": 74.78,
+    "return": 0.013566101694915301
+  },
+  {
+    "entry_date": "2025-06-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.23,
+    "exit_price": 79.31,
+    "return": 0.01340544548127305
+  },
+  {
+    "entry_date": "2025-06-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 81.67,
+    "exit_price": 82.0,
+    "return": 0.003640651401983508
+  },
+  {
+    "entry_date": "2025-06-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 79.6684,
+    "exit_price": 79.29,
+    "return": -0.005149687454498886
+  },
+  {
+    "entry_date": "2025-06-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 79.06,
+    "exit_price": 79.07,
+    "return": -0.00027351378699740325
+  },
+  {
+    "entry_date": "2025-06-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.49,
+    "exit_price": 77.69,
+    "return": -0.01059238119505661
+  },
+  {
+    "entry_date": "2025-06-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 76.4,
+    "exit_price": 75.64,
+    "return": -0.010347643979057674
+  },
+  {
+    "entry_date": "2025-06-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 78.65,
+    "exit_price": 77.73,
+    "return": -0.012097393515575304
+  },
+  {
+    "entry_date": "2025-06-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 73.645,
+    "exit_price": 74.11,
+    "return": 0.005914074275239445
+  },
+  {
+    "entry_date": "2025-06-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-06-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 73.75,
+    "exit_price": 74.29,
+    "return": 0.006922033898305102
+  },
+  {
+    "entry_date": "2025-07-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-07-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 79.0875,
+    "exit_price": 80.84,
+    "return": 0.02175900110636948
+  },
+  {
+    "entry_date": "2025-08-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 74.31,
+    "exit_price": 74.56,
+    "return": 0.002964284753061497
+  },
+  {
+    "entry_date": "2025-08-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 80.51,
+    "exit_price": 81.66,
+    "return": 0.013883939883244168
+  },
+  {
+    "entry_date": "2025-08-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 83.935,
+    "exit_price": 86.22,
+    "return": 0.026823446714719656
+  },
+  {
+    "entry_date": "2025-08-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 87.99,
+    "exit_price": 89.0,
+    "return": 0.011078577111035505
+  },
+  {
+    "entry_date": "2025-08-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 90.32,
+    "exit_price": 90.64,
+    "return": 0.003142958370239324
+  },
+  {
+    "entry_date": "2025-08-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 92.05,
+    "exit_price": 91.095,
+    "return": -0.010774796306355182
+  },
+  {
+    "entry_date": "2025-08-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 89.6499,
+    "exit_price": 91.4,
+    "return": 0.019121494167868524
+  },
+  {
+    "entry_date": "2025-08-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 95.21,
+    "exit_price": 94.53,
+    "return": -0.007542106921541824
+  },
+  {
+    "entry_date": "2025-08-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 100.5,
+    "exit_price": 101.74,
+    "return": 0.011938308457711334
+  },
+  {
+    "entry_date": "2025-08-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 100.44,
+    "exit_price": 100.62,
+    "return": 0.0013921146953405743
+  },
+  {
+    "entry_date": "2025-08-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-08-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 103.4,
+    "exit_price": 106.93,
+    "return": 0.033739264990328935
+  },
+  {
+    "entry_date": "2025-09-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 112.14,
+    "exit_price": 112.5355,
+    "return": 0.00312684144818971
+  },
+  {
+    "entry_date": "2025-09-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 115.43,
+    "exit_price": 113.2,
+    "return": -0.019719067833318938
+  },
+  {
+    "entry_date": "2025-09-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 110.8102,
+    "exit_price": 111.55,
+    "return": 0.006276280703400872
+  },
+  {
+    "entry_date": "2025-09-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 116.0399,
+    "exit_price": 117.77,
+    "return": 0.014509526809312901
+  },
+  {
+    "entry_date": "2025-09-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 119.05,
+    "exit_price": 120.77,
+    "return": 0.014047711045779022
+  },
+  {
+    "entry_date": "2025-09-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 120.505,
+    "exit_price": 119.39,
+    "return": -0.009652728102568274
+  },
+  {
+    "entry_date": "2025-09-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 125.32,
+    "exit_price": 125.26,
+    "return": -0.0008787743376953868
+  },
+  {
+    "entry_date": "2025-09-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 125.94,
+    "exit_price": 129.82,
+    "return": 0.030408321422899797
+  },
+  {
+    "entry_date": "2025-09-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 130.12,
+    "exit_price": 129.66,
+    "return": -0.003935198278512231
+  },
+  {
+    "entry_date": "2025-09-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 129.1,
+    "exit_price": 132.5,
+    "return": 0.025936173508907822
+  },
+  {
+    "entry_date": "2025-09-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 129.85,
+    "exit_price": 127.03,
+    "return": -0.02211736619175968
+  },
+  {
+    "entry_date": "2025-09-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 126.51,
+    "exit_price": 125.57,
+    "return": -0.007830242668563846
+  },
+  {
+    "entry_date": "2025-09-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 121.58,
+    "exit_price": 126.15,
+    "return": 0.037188419147886134
+  },
+  {
+    "entry_date": "2025-09-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 133.9913,
+    "exit_price": 138.89,
+    "return": 0.03615983634758364
+  },
+  {
+    "entry_date": "2025-09-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 141.77,
+    "exit_price": 146.59,
+    "return": 0.033598730337871044
+  },
+  {
+    "entry_date": "2025-09-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 147.52,
+    "exit_price": 146.3,
+    "return": -0.008670065075921872
+  },
+  {
+    "entry_date": "2025-09-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 144.35,
+    "exit_price": 138.736,
+    "return": -0.03929158295808803
+  },
+  {
+    "entry_date": "2025-09-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 140.08,
+    "exit_price": 141.77,
+    "return": 0.01166453455168477
+  },
+  {
+    "entry_date": "2025-09-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 146.1,
+    "exit_price": 147.65,
+    "return": 0.010209171800136875
+  },
+  {
+    "entry_date": "2025-09-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 152.9,
+    "exit_price": 151.81,
+    "return": -0.007528842380640932
+  },
+  {
+    "entry_date": "2025-09-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-09-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 156.93,
+    "exit_price": 154.4801,
+    "return": -0.016011419104059278
+  },
+  {
+    "entry_date": "2025-10-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 160.53,
+    "exit_price": 157.59,
+    "return": -0.018714333769388847
+  },
+  {
+    "entry_date": "2025-10-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 152.465,
+    "exit_price": 157.35,
+    "return": 0.031640140360082517
+  },
+  {
+    "entry_date": "2025-10-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 156.91,
+    "exit_price": 157.41,
+    "return": 0.002786540054808562
+  },
+  {
+    "entry_date": "2025-10-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 163.635,
+    "exit_price": 163.24,
+    "return": -0.002813909004797099
+  },
+  {
+    "entry_date": "2025-10-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 159.3,
+    "exit_price": 156.72,
+    "return": -0.01659585687382308
+  },
+  {
+    "entry_date": "2025-10-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 162.5,
+    "exit_price": 165.3,
+    "return": 0.01683076923076938
+  },
+  {
+    "entry_date": "2025-10-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 156.87,
+    "exit_price": 150.77,
+    "return": -0.03928570153630388
+  },
+  {
+    "entry_date": "2025-10-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 151.16,
+    "exit_price": 151.62,
+    "return": 0.002643133103995732
+  },
+  {
+    "entry_date": "2025-10-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 161.54,
+    "exit_price": 165.49,
+    "return": 0.024052148074780354
+  },
+  {
+    "entry_date": "2025-10-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 164.495,
+    "exit_price": 161.41,
+    "return": -0.01915436943372144
+  },
+  {
+    "entry_date": "2025-10-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 170.28,
+    "exit_price": 173.81,
+    "return": 0.020330561428235815
+  },
+  {
+    "entry_date": "2025-10-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 185.25,
+    "exit_price": 185.65,
+    "return": 0.0017592442645075316
+  },
+  {
+    "entry_date": "2025-10-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 163.75,
+    "exit_price": 160.99,
+    "return": -0.017254961832061034
+  },
+  {
+    "entry_date": "2025-10-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 168.07,
+    "exit_price": 167.99,
+    "return": -0.000875992146129478
+  },
+  {
+    "entry_date": "2025-10-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 136.87,
+    "exit_price": 136.38,
+    "return": -0.0039800394534960535
+  },
+  {
+    "entry_date": "2025-10-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 133.24,
+    "exit_price": 136.855,
+    "return": 0.026731492044430993
+  },
+  {
+    "entry_date": "2025-10-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 141.03,
+    "exit_price": 140.03,
+    "return": -0.007490689924129645
+  },
+  {
+    "entry_date": "2025-10-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 140.15,
+    "exit_price": 136.41,
+    "return": -0.02708569389939357
+  },
+  {
+    "entry_date": "2025-10-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 122.15,
+    "exit_price": 125.38,
+    "return": 0.026042898076135756
+  },
+  {
+    "entry_date": "2025-10-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 127.7068,
+    "exit_price": 129.26,
+    "return": 0.011762234117525373
+  },
+  {
+    "entry_date": "2025-10-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 135.3663,
+    "exit_price": 129.7,
+    "return": -0.04225901513153578
+  },
+  {
+    "entry_date": "2025-10-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 134.01,
+    "exit_price": 136.12,
+    "return": 0.015345093649727649
+  },
+  {
+    "entry_date": "2025-10-31",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-10-31",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 134.04,
+    "exit_price": 132.86,
+    "return": -0.00920334228588464
+  },
+  {
+    "entry_date": "2025-11-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 129.39,
+    "exit_price": 130.23,
+    "return": 0.0060920009274287425
+  },
+  {
+    "entry_date": "2025-11-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 126.262,
+    "exit_price": 127.55,
+    "return": 0.009801010597012506
+  },
+  {
+    "entry_date": "2025-11-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 131.45,
+    "exit_price": 127.87,
+    "return": -0.02763468999619616
+  },
+  {
+    "entry_date": "2025-11-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 128.97,
+    "exit_price": 133.96,
+    "return": 0.03829116848879584
+  },
+  {
+    "entry_date": "2025-11-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 146.13,
+    "exit_price": 146.78,
+    "return": 0.004048094162731841
+  },
+  {
+    "entry_date": "2025-11-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 143.997,
+    "exit_price": 149.47,
+    "return": 0.03760773627228327
+  },
+  {
+    "entry_date": "2025-11-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 156.2,
+    "exit_price": 159.1,
+    "return": 0.018165941101152504
+  },
+  {
+    "entry_date": "2025-11-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 157.69,
+    "exit_price": 150.525,
+    "return": -0.04583725030122392
+  },
+  {
+    "entry_date": "2025-11-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 143.99046,
+    "exit_price": 147.08,
+    "return": 0.0210565603860144
+  },
+  {
+    "entry_date": "2025-11-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 147.6611,
+    "exit_price": 142.39,
+    "return": -0.036097282493493685
+  },
+  {
+    "entry_date": "2025-11-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 143.59,
+    "exit_price": 144.91,
+    "return": 0.008792840727070051
+  },
+  {
+    "entry_date": "2025-11-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 152.2258,
+    "exit_price": 147.71,
+    "return": -0.030065142176950155
+  },
+  {
+    "entry_date": "2025-11-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 150.842,
+    "exit_price": 134.59,
+    "return": -0.10814187560493764
+  },
+  {
+    "entry_date": "2025-11-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 135.9,
+    "exit_price": 137.045,
+    "return": 0.008025312729948287
+  },
+  {
+    "entry_date": "2025-11-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 145.77,
+    "exit_price": 152.81,
+    "return": 0.04789525965562187
+  },
+  {
+    "entry_date": "2025-11-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 152.11,
+    "exit_price": 152.29,
+    "return": 0.0007833541516006463
+  },
+  {
+    "entry_date": "2025-11-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 161.75,
+    "exit_price": 166.97,
+    "return": 0.031872024729520956
+  },
+  {
+    "entry_date": "2025-11-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-11-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 170.925,
+    "exit_price": 173.79,
+    "return": 0.016361737604212178
+  },
+  {
+    "entry_date": "2025-12-01",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-01",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 174.0,
+    "exit_price": 172.0056,
+    "return": -0.011862068965517268
+  },
+  {
+    "entry_date": "2025-12-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 162.76,
+    "exit_price": 166.935,
+    "return": 0.025251265667240074
+  },
+  {
+    "entry_date": "2025-12-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 169.69,
+    "exit_price": 164.713,
+    "return": -0.02972995462313637
+  },
+  {
+    "entry_date": "2025-12-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 164.69,
+    "exit_price": 165.84,
+    "return": 0.0065828162001335235
+  },
+  {
+    "entry_date": "2025-12-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 171.775,
+    "exit_price": 164.46,
+    "return": -0.04298477659729298
+  },
+  {
+    "entry_date": "2025-12-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 160.06,
+    "exit_price": 156.57,
+    "return": -0.02220432337873306
+  },
+  {
+    "entry_date": "2025-12-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 163.24,
+    "exit_price": 167.93,
+    "return": 0.028330703259005174
+  },
+  {
+    "entry_date": "2025-12-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 164.08,
+    "exit_price": 173.417,
+    "return": 0.05650516821062897
+  },
+  {
+    "entry_date": "2025-12-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 182.1085,
+    "exit_price": 185.765,
+    "return": 0.019678689352776012
+  },
+  {
+    "entry_date": "2025-12-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 185.245,
+    "exit_price": 183.13,
+    "return": -0.011817312208156782
+  },
+  {
+    "entry_date": "2025-12-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 182.345,
+    "exit_price": 179.31,
+    "return": -0.017044273218349826
+  },
+  {
+    "entry_date": "2025-12-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 180.97,
+    "exit_price": 179.07,
+    "return": -0.010898977731115632
+  },
+  {
+    "entry_date": "2025-12-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 184.77,
+    "exit_price": 183.24,
+    "return": -0.008680565026790087
+  },
+  {
+    "entry_date": "2025-12-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 185.275,
+    "exit_price": 182.68,
+    "return": -0.014406206989610081
+  },
+  {
+    "entry_date": "2025-12-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 191.31,
+    "exit_price": 191.75,
+    "return": 0.0018999320474621499
+  },
+  {
+    "entry_date": "2025-12-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 201.065,
+    "exit_price": 205.02,
+    "return": 0.019270255887399567
+  },
+  {
+    "entry_date": "2025-12-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 198.783,
+    "exit_price": 204.98,
+    "return": 0.030774698037558456
+  },
+  {
+    "entry_date": "2025-12-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 199.345,
+    "exit_price": 202.86,
+    "return": 0.017232747247234847
+  },
+  {
+    "entry_date": "2025-12-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 181.89,
+    "exit_price": 184.29,
+    "return": 0.012794788058716878
+  },
+  {
+    "entry_date": "2025-12-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2025-12-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 189.54,
+    "exit_price": 189.0,
+    "return": -0.003249002849002802
+  },
+  {
+    "entry_date": "2026-01-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 182.679,
+    "exit_price": 183.74,
+    "return": 0.005408002014462632
+  },
+  {
+    "entry_date": "2026-01-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 199.7025,
+    "exit_price": 195.3666,
+    "return": -0.022111796296991715
+  },
+  {
+    "entry_date": "2026-01-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 204.09,
+    "exit_price": 211.43,
+    "return": 0.03556452545445628
+  },
+  {
+    "entry_date": "2026-01-07",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-07",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 198.24,
+    "exit_price": 206.59,
+    "return": 0.04172066182405172
+  },
+  {
+    "entry_date": "2026-01-08",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-08",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 203.5915,
+    "exit_price": 208.2,
+    "return": 0.022236013782500796
+  },
+  {
+    "entry_date": "2026-01-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 214.0,
+    "exit_price": 213.2229,
+    "return": -0.004031308411214951
+  },
+  {
+    "entry_date": "2026-01-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 232.88,
+    "exit_price": 227.92,
+    "return": -0.021698522844383384
+  },
+  {
+    "entry_date": "2026-01-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 233.475,
+    "exit_price": 231.54,
+    "return": -0.008687825248955993
+  },
+  {
+    "entry_date": "2026-01-14",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-14",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 231.45,
+    "exit_price": 233.225,
+    "return": 0.007269042989846719
+  },
+  {
+    "entry_date": "2026-01-15",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-15",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 233.29,
+    "exit_price": 234.185,
+    "return": 0.003436426764970646
+  },
+  {
+    "entry_date": "2026-01-16",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-16",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 223.969,
+    "exit_price": 234.87,
+    "return": 0.04827191441672736
+  },
+  {
+    "entry_date": "2026-01-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 255.0,
+    "exit_price": 263.0,
+    "return": 0.030972549019607953
+  },
+  {
+    "entry_date": "2026-01-21",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-21",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 256.9,
+    "exit_price": 254.11,
+    "return": -0.011260256909303145
+  },
+  {
+    "entry_date": "2026-01-22",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-22",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 267.6501,
+    "exit_price": 273.25,
+    "return": 0.020522465562314362
+  },
+  {
+    "entry_date": "2026-01-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 280.88,
+    "exit_price": 282.62,
+    "return": 0.005794816291654748
+  },
+  {
+    "entry_date": "2026-01-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 307.0,
+    "exit_price": 285.365,
+    "return": -0.070872312703583
+  },
+  {
+    "entry_date": "2026-01-27",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-27",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 271.01,
+    "exit_price": 294.6001,
+    "return": 0.08664512748607063
+  },
+  {
+    "entry_date": "2026-01-28",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-28",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 299.2301,
+    "exit_price": 309.93,
+    "return": 0.03535810053868245
+  },
+  {
+    "entry_date": "2026-01-29",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-29",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 278.62,
+    "exit_price": 287.0,
+    "return": 0.029676807120809733
+  },
+  {
+    "entry_date": "2026-01-30",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-01-30",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 246.0,
+    "exit_price": 213.97,
+    "return": -0.13060325203252038
+  },
+  {
+    "entry_date": "2026-02-02",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-02",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 209.62,
+    "exit_price": 214.0,
+    "return": 0.02049495277168196
+  },
+  {
+    "entry_date": "2026-02-03",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-03",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 232.5,
+    "exit_price": 232.1999,
+    "return": -0.0016907526881720255
+  },
+  {
+    "entry_date": "2026-02-04",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-04",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 228.2801,
+    "exit_price": 234.0,
+    "return": 0.024656498573462925
+  },
+  {
+    "entry_date": "2026-02-05",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-05",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 211.029,
+    "exit_price": 204.37,
+    "return": -0.03195490477612077
+  },
+  {
+    "entry_date": "2026-02-06",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-06",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 227.865,
+    "exit_price": 226.63,
+    "return": -0.005819875803655772
+  },
+  {
+    "entry_date": "2026-02-09",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-09",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 241.55,
+    "exit_price": 251.49,
+    "return": 0.04075090043469261
+  },
+  {
+    "entry_date": "2026-02-10",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-10",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 248.31,
+    "exit_price": 252.44,
+    "return": 0.016232435262373678
+  },
+  {
+    "entry_date": "2026-02-11",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-11",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 251.0,
+    "exit_price": 266.3,
+    "return": 0.06055617529880482
+  },
+  {
+    "entry_date": "2026-02-12",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-12",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 264.405,
+    "exit_price": 228.0,
+    "return": -0.13808650365915914
+  },
+  {
+    "entry_date": "2026-02-13",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-13",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 249.651,
+    "exit_price": 253.96,
+    "return": 0.016860095092749505
+  },
+  {
+    "entry_date": "2026-02-17",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-17",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 223.7084,
+    "exit_price": 236.02,
+    "return": 0.054634142660713716
+  },
+  {
+    "entry_date": "2026-02-18",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-18",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 247.865,
+    "exit_price": 246.925,
+    "return": -0.004192386984850627
+  },
+  {
+    "entry_date": "2026-02-19",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-19",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 251.6,
+    "exit_price": 254.74,
+    "return": 0.01208012718600955
+  },
+  {
+    "entry_date": "2026-02-20",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-20",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 247.095,
+    "exit_price": 264.23,
+    "return": 0.06894579817479114
+  },
+  {
+    "entry_date": "2026-02-23",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-23",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 280.64,
+    "exit_price": 284.33,
+    "return": 0.012748517673888139
+  },
+  {
+    "entry_date": "2026-02-24",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-24",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 280.0801,
+    "exit_price": 286.01,
+    "return": 0.020772157536361923
+  },
+  {
+    "entry_date": "2026-02-25",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-25",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 290.0,
+    "exit_price": 289.47,
+    "return": -0.0022275862068964923
+  },
+  {
+    "entry_date": "2026-02-26",
+    "entry_checkpoint": "p1030",
+    "settle_date": "2026-02-26",
+    "settle_checkpoint": "p1600",
+    "symbol": "NUGT",
+    "entry_price": 281.585,
+    "exit_price": 302.975,
+    "return": 0.07556285313493279
+  }
+]

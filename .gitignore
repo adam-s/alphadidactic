@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+run_cache/
+shared/cache/
+shared/test_output/
+flow_cache/output/
+flow_cache/__pycache__/
+.claire/
+.claude/worktrees/
+reference_experiments/
+*.DS_Store
+.env
