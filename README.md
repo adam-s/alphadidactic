@@ -1,5 +1,7 @@
 # Alphadidactic
 
+An iteration research agent: searches academic research, applies it to time series data, and probes it to find novel discoveries.
+
 Claude Code instructions—not hand-written strategies—build, verify, and optimize quantitative experiments through a gated pipeline. Each step must pass before the next begins: literature search, dataset construction, strategy implementation, independent verification, and parameter optimization.
 
 ## The Two Rules
